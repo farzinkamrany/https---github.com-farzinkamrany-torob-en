@@ -4,7 +4,6 @@ export const StAll=styled.div`
     width: 100%;
     float: right;
     position: relative;
-    margin-left: 20%;
 
 `
 

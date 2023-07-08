@@ -1,6 +1,7 @@
 import React from 'react'
 import { StAll, StCardContainer } from './style'
 import Card from '../card'
+import Sidebar from '../sidebar'
 
 const SearchResult = () => {
   return (
