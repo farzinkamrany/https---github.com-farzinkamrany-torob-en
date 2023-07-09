@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <>
     <br />
-    <SearchBox/>
+    {/* <SearchBox/> */}
     <StAll>
       <ListOfMenu>
         <Dropdown menu={{ items }} trigger={['click']}>
@@ -44,9 +44,6 @@ const Navbar = () => {
         <Dropdown menu={{ items }} trigger={['click']}>
           <li>Other categories</li></Dropdown>
       </ListOfMenu>
-      <Button>
-        login/sign-up
-      </Button>
     </StAll>
     </>
   )

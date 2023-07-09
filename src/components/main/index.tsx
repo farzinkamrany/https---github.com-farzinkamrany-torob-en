@@ -4,6 +4,7 @@ import {Input, Select} from 'antd'
 import HomeSearchBox from '../homeSearchBox'
 import SearchResult from '../searchResult'
 import Sidebar from '../sidebar'
+import SearchNavbar from '../searchNavbar'
 const MainPage = () => {
   const options=[{
     label:'',value:0

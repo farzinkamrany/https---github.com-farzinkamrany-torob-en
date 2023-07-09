@@ -5,7 +5,7 @@ width: 100%;
 padding: 2%;
 height: 90vh;
 display: flex;
-align-items: center;
+/* align-items: center; */
 justify-content: center;
 
 `
