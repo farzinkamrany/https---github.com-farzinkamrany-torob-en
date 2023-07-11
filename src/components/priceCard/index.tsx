@@ -45,6 +45,11 @@ const PriceCard = () => {
                     </a>
                 </div>
             </div>
+            <div className="all-sellers">
+                <Button>
+                    show all ... stores
+                </Button>
+            </div>
         </div>
     </StAll>
   )

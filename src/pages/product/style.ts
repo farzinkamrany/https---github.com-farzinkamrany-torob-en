@@ -6,13 +6,21 @@ flex-direction: column;
 width: 100%;
 align-items: center;
 background: #f2f3f5;
-.product-overview{
-    margin:1%;
+.details{
     display: grid;
+    max-width: 1280px;
+    margin: 2% auto;
+    grid-template-columns: 840px 416px;
+    gap: 24px;
+    
+}
+.product-overview{
+    display: grid;
+    grid-area: 1 / 1 / 2 / 2;
     background: #fff;
-    padding: 12px;
-    border-radius: 10px;
     grid-template-columns: 352px auto;
+    border-radius: 4px;
+    padding: 24px;
     img{
         width: 352px;
     }
@@ -24,20 +32,37 @@ text-align: center;
     h1{
         font-size: 16px;
     }
-width: 550px;
     span{
         padding: 5px;
         border-radius:8px ;
-        border: 2px solid #000;
+        border: 2px solid #333;
         text-decoration: none;
     }
 }
+
+.price-and-action{
+    width: 80%;
+    padding-top: 16px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
 .actions{
     display: flex;
-    width: 50%;
+    width: 85%;
     align-items: center;
     padding: 2%;
     justify-content: space-between;
+    div{
+        display: flex;
+    svg{
+        font-size: 20px;
+        fill:rgb(153, 153, 153);
+        width: 24px;
+    height: 24px;
+    margin-inline-end: 24px;
+    }
+    }
     span{
         display: flex;
         align-items: center;
@@ -46,37 +71,37 @@ width: 550px;
         border-radius: 14px;
         border: none;
         height: 28px;
+        svg{
+            margin-inline-end: 5px;
+        }
     }
-    svg{
-        font-size: 20px;
-    }
+    
 }
 .price-help{
-        margin-top: 2%;
-    b:hover{
-        background: #ddd;
+    b{
+        
         padding: 5px 0;
-        border-radius:12px ;
+        border-radius:12px;
+        :hover{
+        background: #ddd;
     }
+    }
+    
 }
 .price-tags{
     display: flex;
+    padding-top: 16px;
     span{
         margin: 1%;
         height: 50px;
     }
 }
-.details{
-    max-width: 1280px;
-    margin: 0 auto;
-    
-
-}
 .seller{
+    margin-top: 16px;
     .red{
         width: 80%;
         display: flex;
-        line-height: 40px;
+        line-height: 30px;
         align-items: center;
         justify-content: space-between;
         background: linear-gradient(180deg,#f04151,#d73948);
@@ -96,8 +121,9 @@ width: 550px;
     min-height: 180px;
     background-color: #fff;
     padding:5px 12px;
-    margin: 1%;
-    border-radius: 10px;
+    border-radius: 4px;
+    display: grid;
+    grid-area: 2 / 1 / 3 / 2;
     .title{
         display: flex;
         justify-content: space-between;
@@ -115,7 +141,11 @@ width: 550px;
     }
 .cards{
 display: flex;
-
+    div{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
     .card,.active-card{
     background: white;
     display: flex;
@@ -139,5 +169,23 @@ display: flex;
         }
 }
 }
+.in-person{
+    display: grid;
+    grid-area: 3 / 1 / 4 / 2;
+    border-radius: 10px;
+    width: 100%;
+}
 
+.chart-items{
+    display: grid;
+    grid-area: 1 / 2 / 2 / 3;
+}
+.similars{
+    display: grid;
+    grid-area: 4 / 1 / 5 / 3;
+}
+.product-section{
+    display: grid;
+    grid-area: 4 / 1 / 5 / 2;
+}
 `

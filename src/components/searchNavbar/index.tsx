@@ -10,7 +10,8 @@ const SearchNavbar = () => {
         <a href="">
             <img src="https://torob.com/static/images/logo_original.png" alt="" />
         </a>
-      <SearchBox/></div>
+      <SearchBox/>
+      </div>
         <div>
             
       <Button>

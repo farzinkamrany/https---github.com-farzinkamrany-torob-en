@@ -82,7 +82,7 @@ const SearchBox: React.FC = () => {
       onChange={(newValue) => {
         setValue(newValue as UserValue[]);
       }}
-      style={{ width: 240 }}
+      style={{ width: 320 }}
     />
   );
 };

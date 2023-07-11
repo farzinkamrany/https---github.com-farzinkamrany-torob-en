@@ -4,7 +4,7 @@ export const StAll=styled.div`
     display: flex;
     background-color: #f9fafb;
     height:48px;
-    padding: 1% 2%;
+    /* padding: 1% 2%; */
     justify-content: space-between;
     align-items: center;
     z-index: 1;

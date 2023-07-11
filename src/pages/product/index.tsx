@@ -6,7 +6,14 @@ import { StAll } from './style'
 import { Breadcrumb, Tabs, TabsProps, Tooltip } from 'antd'
 import { AiOutlineBell,AiOutlineHeart } from 'react-icons/ai';
 import {BsShare,BsFlag} from 'react-icons/bs'
+import {TiLocation} from 'react-icons/ti'
 import PriceCard from '@/components/priceCard'
+import ChartContainer from '@/components/chartContainer'
+import Specs from '@/components/specs'
+import ProductSection from '@/components/productSection'
+import Card from '@/components/card'
+import SimilarItems from '@/components/similarItems'
+import InPersonSellers from '@/components/inPersonSellers'
 const Product = () => {
   const [onlineCounter, setonlineCounter] = useState(1234)
   const onChange = (key: string) => {
@@ -29,7 +36,6 @@ const Product = () => {
       <SearchNavbar/>
     
     <Navbar/>
-      <div className="details">
         <div>
           <br />
     <Breadcrumb
@@ -47,7 +53,9 @@ const Product = () => {
         title: 'An Application',
       },
     ]}
-  /></div>
+  />
+  </div>
+      <div className="details">
         <div className='product-overview'>
       <img src="https://storage5.torob.com/backend-api/base/images/o7/Il/o7IlY8wjdaSSQjr8_/216x216.jpg" alt="" />
       <div className="price-details">
@@ -56,7 +64,7 @@ const Product = () => {
           <span><b>
           64 GB - 4 GB
             </b>
-            <p>From 4,899,000 tomans</p>
+            <p >From 4,899,000 tomans</p>
             </span>
           <span><b>
           64 GB - 4 GB
@@ -64,18 +72,22 @@ const Product = () => {
             <p>From 4,899,000 tomans</p>
             </span>
         </div>
+        <div className="price-and-action">
         <div className='price-help'> 
-          <Tooltip title="price from 10000000 tomans">
-            <b>price from 10000000 tomans</b></Tooltip>
+          <Tooltip title="from 10000000 tomans">
+            <b style={{display:'inline-block',whiteSpace:'nowrap'}}>from 10000000 tomans</b></Tooltip>
             </div>
         <div className='actions'>
+        <div>
         <AiOutlineBell/>
         <AiOutlineHeart/>
         <BsShare/>
+        </div>
         <span>
           <BsFlag/>
-          report
+          <span style={{color:'#333'}}>report</span>
         </span>
+        </div>
         </div>
         <div className='seller'>
             <div className="red">
@@ -101,23 +113,37 @@ const Product = () => {
               <b>all of iran</b>
               <p>From 4,899,000 tomans</p>
             </div>
-            <div className="card">
-              <b>tehran and sorrounding cities</b>
+            <div style={{display:'flex'}} className="card">
+                <b>
+                <div>
+                <TiLocation/>
+                <p>tehran and sorrounding cities</p>
+                </div>
+                </b>
               <p>From 4,899,000 tomans</p>
             </div>
           </div>
           <Tabs defaultActiveKey="1" items={items} onChange={onChange} />
-          <div>
-            
-          </div>
         </div>
-        <div>
 
+        <div className='in-person'> 
+        <InPersonSellers/>
         </div>
+          <div className='chart-items'>
+          <ChartContainer/>
+          </div>
+        <div>
+          <Specs/>
+        </div>
+        <div className="product-section">
+          <ProductSection/>
+        </div>
+        
+        <div className="similars">
         <h2>Similar Products
 </h2>
-        <div></div>
-        <div></div>
+<SimilarItems/>
+        </div>
       </div>
     </StAll>
   )

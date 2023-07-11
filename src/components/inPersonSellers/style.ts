@@ -7,7 +7,10 @@ export const StAll=styled.div`
     justify-content: space-between;
     align-items: center;
     border-radius: 10px;
-
+    a{
+        text-decoration: none;
+        color: #000;
+    }
     .list-of-cards{
             width: 100%;
         .card{
@@ -34,15 +37,10 @@ export const StAll=styled.div`
         padding: 5px;
         display: flex;
         align-items: center;
-        justify-content: center;
         border-radius: 16px;
         font-size: 12px;
     line-height: 28px;
-    height: 28px;
     color: #999;
-    svg{
-        margin-left:5px;
-    }
     }
     span{
         
@@ -50,6 +48,7 @@ export const StAll=styled.div`
     padding: 1%;
     background: #daf2d5;
     border-color: #daf2d5;
+    
     }
     a{
         color: #000;
@@ -73,7 +72,7 @@ export const StAll=styled.div`
     color: white;
     font-size: 14px;
     font-weight: bold;
-    background: linear-gradient(180deg,#f04151,#d73948);
+    background: linear-gradient(180deg,#3a75e6,#3468cc);
     text-align: center;
     line-height: 32px;
     -webkit-border-radius: 8px;
@@ -98,7 +97,7 @@ export const StAll=styled.div`
 .all-sellers{
     button{
         width: 100%;
-        background: linear-gradient(180deg,#f04151,#d73948);
+        background: linear-gradient(180deg,#3a75e6,#3468cc);
         color:#fff;
         padding: 5px;
     width: 100%;
