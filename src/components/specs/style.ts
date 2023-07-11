@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StAll=styled.div`
 display: grid;
-grid-area: 2 / 2 / 4 / 3;
+grid-area: 5 / 1 / 6 / 2; 
 background-color: #fff;
 padding: 8px;
 border-radius:4px;
@@ -24,4 +24,5 @@ height: 260px;
         }
     }
 }
+
 `

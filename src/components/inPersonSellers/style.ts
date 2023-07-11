@@ -93,6 +93,9 @@ export const StAll=styled.div`
     text-align: end;
         }
             }
+            @media (max-width:768px) {
+                width: 84%;
+            }
         }
 .all-sellers{
     button{
@@ -116,5 +119,8 @@ export const StAll=styled.div`
     align-items: center;
     }
 }
+    }
+    @media (max-width:768px) {
+        grid-area: 3 / 1 / 4 / 2;
     }
 `

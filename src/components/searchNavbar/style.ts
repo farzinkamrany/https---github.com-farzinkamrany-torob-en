@@ -25,4 +25,8 @@ img{
         margin-right:2%;
     }
     }
+    
+    @media (max-width:768px) {
+        display: none;
+    }
 `

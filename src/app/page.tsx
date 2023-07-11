@@ -10,7 +10,7 @@ import SearchNavbar from '@/components/searchNavbar'
 
 export default function Home() {
   return (
-   <div>
+   <div >
     
     <SearchNavbar/>
    <Navbar />

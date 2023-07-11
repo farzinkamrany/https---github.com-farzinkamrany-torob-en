@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StAll=styled.div`
 display: grid;
-grid-area: 4 / 1 / 5 / 2;
+grid-area: 5 / 1 / 6 / 2;
 background: #fff;
 padding: 8px;
 border-radius: 10px;

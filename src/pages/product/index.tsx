@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import Navbar from '@/components/navbar'
 import SearchNavbar from '@/components/searchNavbar'
 import { StAll } from './style'
-import { Breadcrumb, Tabs, TabsProps, Tooltip } from 'antd'
+import { Breadcrumb, Button, Tabs, TabsProps, Tooltip } from 'antd'
 import { AiOutlineBell,AiOutlineHeart } from 'react-icons/ai';
 import {BsShare,BsFlag} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'
@@ -36,7 +36,7 @@ const Product = () => {
       <SearchNavbar/>
     
     <Navbar/>
-        <div>
+        <div className='bread-crumb'>
           <br />
     <Breadcrumb
     items={[
@@ -103,6 +103,16 @@ const Product = () => {
         </div>
       </div>
         </div>
+        <div className="mobile-app">
+          <div className='installer'>
+        <div>you want app on your phone?</div>
+        <div><Button>yes, install it</Button></div>
+        <div><Button>No</Button></div>
+          </div>
+          <div>
+            logo
+          </div>
+        </div>
         <div className='sellers'>
           <div className="title">
             <h3>sellers</h3>
@@ -132,7 +142,7 @@ const Product = () => {
           <div className='chart-items'>
           <ChartContainer/>
           </div>
-        <div>
+        <div className='specs'>
           <Specs/>
         </div>
         <div className="product-section">

@@ -12,6 +12,9 @@ export const StAll=styled.div`
     width: 100%;
     /* position: fixed; */
     /* top:0; */
+    @media (max-width:768px) {
+        display: none;
+    }
 `
 
 
