@@ -5,6 +5,8 @@ import HomeSearchBox from '../homeSearchBox'
 import SearchResult from '../searchResult'
 import Sidebar from '../sidebar'
 import SearchNavbar from '../searchNavbar'
+import BreadCrumb from '../breadCrumb'
+import SelectedTitle from '../selectedTitle'
 const MainPage = () => {
   const options=[{
     label:'',value:0
@@ -13,6 +15,9 @@ const MainPage = () => {
     <StAll>
       {/* <HomeSearchBox/> */}
       {/* <Select options={options} /> */}
+      <SelectedTitle/>
+      <SearchNavbar/>
+      {/* <BreadCrumb/> */}
       <Sidebar/>
       <SearchResult/>
     </StAll>

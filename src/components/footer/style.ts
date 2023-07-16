@@ -9,6 +9,9 @@ export const StAll=styled.div`
     justify-content: space-between;
     position: fixed;
     bottom: 0;
+    @media(max-width:768px){
+        position: relative;
+    }
 
 `
 export const StList=styled.ul`

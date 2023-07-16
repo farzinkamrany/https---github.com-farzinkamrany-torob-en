@@ -38,22 +38,6 @@ const Product = () => {
     <Navbar/>
         <div className='bread-crumb'>
           <br />
-    <Breadcrumb
-    items={[
-      {
-        title: 'Home',
-      },
-      {
-        title: <a href="">Application Center</a>,
-      },
-      {
-        title: <a href="">Application List</a>,
-      },
-      {
-        title: 'An Application',
-      },
-    ]}
-  />
   </div>
       <div className="details">
         <div className='product-overview'>

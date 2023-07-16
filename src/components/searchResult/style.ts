@@ -21,4 +21,12 @@ width: 91%;
 .ant-card{
     margin: 3px;
 }
+@media(max-width:768px){
+    width:100%;
+    justify-content:space-around;
+    
+.ant-card{
+    margin: 8px;
+}
+}
 `

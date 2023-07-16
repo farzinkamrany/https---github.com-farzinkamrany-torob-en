@@ -11,8 +11,6 @@ import SearchNavbar from '@/components/searchNavbar'
 export default function Home() {
   return (
    <div >
-    
-    <SearchNavbar/>
    <Navbar />
    <div style={{display:'flex'}}>
    {/* <Sidebar/>/> */}
