@@ -9,7 +9,6 @@ const Card = () => {
       <Link href="/product" about='_blank'>
         <StCard
     hoverable
-    style={{ width: 140 }}
     // onClick={()=>window.open('/product')}
     cover={<img alt="example" src="https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png" />}
   >

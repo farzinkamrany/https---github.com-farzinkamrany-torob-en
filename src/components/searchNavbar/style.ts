@@ -36,5 +36,8 @@ img{
                 display: none;
             }
         }
+        .ant-button{
+            display: none;
+        }
     }
 `

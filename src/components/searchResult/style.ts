@@ -23,7 +23,7 @@ width: 91%;
 }
 @media(max-width:768px){
     width:100%;
-    justify-content:space-around;
+    justify-content:stretch;
     
 .ant-card{
     margin: 8px;

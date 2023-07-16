@@ -77,7 +77,7 @@ const SearchBox: React.FC = () => {
     <DebounceSelect
       mode="multiple"
       value={value}
-      placeholder="Select users"
+      placeholder="جستجو در ترب"
       fetchOptions={fetchUserList}
       onChange={(newValue) => {
         setValue(newValue as UserValue[]);
