@@ -7,7 +7,7 @@ export const StAll=styled.div`
     height: 40px;
     background-color: #f9fafb;
     justify-content: space-between;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     @media(max-width:768px){
         position: relative;

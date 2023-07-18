@@ -2,6 +2,7 @@ import React from 'react'
 import { ListOfMenu, StAll } from './style'
 import { Button, Dropdown } from 'antd'
 import SearchBox from '../searchBox'
+import SearchNavbar from '../searchNavbar'
 
 const Navbar = () => {
   const items: any = [{
@@ -12,6 +13,8 @@ const Navbar = () => {
     <br />
     {/* <SearchBox/> */}
     <StAll>
+      
+      <SearchNavbar/>
       <ListOfMenu>
         <Dropdown menu={{ items }} trigger={['click']}>
           <li>Mobile and digital goods</li>

@@ -4,6 +4,7 @@ export const StAll=styled.div`
     display: flex;
     background-color: #f9fafb;
     height:48px;
+    flex-direction: column;
     /* padding: 1% 2%; */
     justify-content: space-between;
     align-items: center;

@@ -5,6 +5,7 @@ export const StAll=styled.div`
     float: right;
     position: relative;
 margin-left: 4%;
+width: 85%;
 .ant-dropdown-trigger{
     background-color: #ddd;
     padding: 2px 5px;
