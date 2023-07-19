@@ -23,7 +23,8 @@ width: 140px;
     padding: 12px;
     /* width:100% !important; */
     width: 160px;
-    height:416px;
+    /* height:416px; */
+    height: auto;
     img{
         height: 176px;
     }

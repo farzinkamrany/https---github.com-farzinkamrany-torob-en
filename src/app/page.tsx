@@ -10,14 +10,20 @@ import { StAll } from '@/pages/style'
 import HomeSearchBox from '@/components/homeSearchBox'
 import HomeNavbar from '@/components/home/homeNavbar'
 import SubMenu from '@/components/subMenu'
+import InstallApp from '@/components/installApp'
 
 export default function Home(children:any) {
   return (
    <StAll >
+    <div className="homeNavbar">
     <HomeNavbar/>
+    </div>
+    <div className="searchBox">
     <HomeSearchBox/>
+    </div>
     <Footer/>
     <SubMenu/>
+    <InstallApp/>
    </StAll>
   )
 }

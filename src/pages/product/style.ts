@@ -264,14 +264,6 @@ display: flex;
     grid-area: 7 / 1 / 8 / 2;
 }
 }
-.similars{
-    display: grid;
-    grid-area: 5 / 1 / 5 /3;
-@media (max-width:768px) {
-    display: grid;
-    grid-area: 9/4/9/1;
-}
-}
 .product-section{
     display: grid;
     grid-area: 4 / 1 / 5 / 2;

@@ -1,10 +1,14 @@
-import React from 'react'
+import React,{useState} from 'react'
 import { StAll } from './style'
-import { Button, Dropdown } from 'antd'
+import { Button, Divider, Dropdown, Input, Modal, Row } from 'antd'
 import { ListOfMenu } from '@/components/navbar/style'
+import Link from 'next/link'
+import LoginModal from '@/components/loginModal'
 
 const HomeNavbar = () => {
     
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
   const items: any = [{
     label: 'example', value: ''
   }]
@@ -45,10 +49,11 @@ const HomeNavbar = () => {
       </ListOfMenu>
         <div>
             
-      <Button>
+      <Button onClick={()=>setIsModalOpen(true)}>
         login/sign-up
       </Button>
         </div>
+          <LoginModal setIsModalOpen={setIsModalOpen} isModalOpen={isModalOpen} />
     </StAll>
   )
 }

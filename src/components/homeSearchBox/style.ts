@@ -19,8 +19,34 @@ width: 80%;
         height: 48px;
     }
 }
+.imgMobile{
+    display: none;
+}
 img{
     width: 500px;
     height: 260px;
+}
+.mobileView{
+    display: none;
+}
+@media (max-width:768px) {
+    margin-top: 15%;
+    .pcImg{
+        display: none;
+       
+    }
+    .mobileView{
+        display: contents;
+    }
+   .pcP{
+    display: none;
+      }
+   .imgMobile{
+    display: block;
+    img{
+        width: 80px;
+        height: 80px;
+    }
+   }
 }
 `

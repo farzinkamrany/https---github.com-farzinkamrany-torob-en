@@ -128,11 +128,6 @@ const Product = () => {
         <div className="product-section">
           <ProductSection/>
         </div>
-        
-        <div className="similars">
-        <h2>Similar Products
-</h2>
-        </div>
       </div>
     </StAll>
   )
