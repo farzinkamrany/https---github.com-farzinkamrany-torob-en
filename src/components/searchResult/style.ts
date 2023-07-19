@@ -12,6 +12,9 @@ width: 85%;
     padding: 2px 5px;
     border-radius: 10px;
 }
+@media (max-width:768px){
+    width: 100%;
+}
 `
 
 export const StCardContainer=styled.div`
@@ -28,7 +31,7 @@ width: 91%;
     justify-content:stretch;
     
 .ant-card{
-    margin: 8px;
+    margin: 0;
 }
 }
 `

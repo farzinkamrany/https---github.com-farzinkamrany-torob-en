@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StAll=styled.div`
     display: flex;
-    width: 100%;
+    width: 110vw;
     justify-content: space-between;
     align-items: center;
     padding:  5px;

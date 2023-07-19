@@ -6,6 +6,9 @@ flex-direction: column;
 width: 100%;
 align-items: center;
 background: #f2f3f5;
+@media (max-width:768px){
+    width: 117vw;
+}
 .details{
     display: grid;
     max-width: 1280px;

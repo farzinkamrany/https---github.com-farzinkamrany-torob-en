@@ -8,6 +8,9 @@ export const StAll=styled.div`
     padding: 8px;
     width: 15%;
     padding-top: 3%;
+    @media (max-width:768px){
+            display: none;
+    }
 `
 
 export const ListOfMenu=styled.div`
