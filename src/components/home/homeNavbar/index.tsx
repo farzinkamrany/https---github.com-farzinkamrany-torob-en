@@ -1,26 +1,18 @@
 import React from 'react'
-import { ListOfMenu, StAll } from './style'
-import { Button, Dropdown, MenuProps } from 'antd'
-import SearchBox from '../searchBox'
-import SearchNavbar from '../searchNavbar'
-import Link from 'next/link'
+import { StAll } from './style'
+import { Button, Dropdown } from 'antd'
+import { ListOfMenu } from '@/components/navbar/style'
 
-const Navbar = () => {
+const HomeNavbar = () => {
+    
   const items: any = [{
     label: 'example', value: ''
   }]
-  const onClick: MenuProps['onClick'] = ({ key }) => {
-    // message.info(`Click on item ${key}`);
-    
-  };
   return (
-    
-    <>
     <StAll>
       
-      <SearchNavbar/>
       <ListOfMenu>
-        <Dropdown menu={{ items,onClick }} >
+        <Dropdown menu={{ items }} trigger={['click']}>
           <li>Mobile and digital goods</li>
         </Dropdown>
 
@@ -51,9 +43,14 @@ const Navbar = () => {
         <Dropdown menu={{ items }} trigger={['click']}>
           <li>Other categories</li></Dropdown>
       </ListOfMenu>
+        <div>
+            
+      <Button>
+        login/sign-up
+      </Button>
+        </div>
     </StAll>
-    </>
   )
 }
 
-export default Navbar
+export default HomeNavbar

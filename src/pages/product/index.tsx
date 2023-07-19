@@ -1,9 +1,8 @@
 
 import React, { useState } from 'react'
 import Navbar from '@/components/navbar'
-import SearchNavbar from '@/components/searchNavbar'
 import { StAll } from './style'
-import { Breadcrumb, Button, Tabs, TabsProps, Tooltip } from 'antd'
+import { Button, Tabs, TabsProps, Tooltip } from 'antd'
 import { AiOutlineBell,AiOutlineHeart } from 'react-icons/ai';
 import {BsShare,BsFlag} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'
@@ -11,8 +10,6 @@ import PriceCard from '@/components/priceCard'
 import ChartContainer from '@/components/chartContainer'
 import Specs from '@/components/specs'
 import ProductSection from '@/components/productSection'
-import Card from '@/components/card'
-import SimilarItems from '@/components/similarItems'
 import InPersonSellers from '@/components/inPersonSellers'
 const Product = () => {
   const [onlineCounter, setonlineCounter] = useState(1234)
@@ -33,7 +30,6 @@ const Product = () => {
   ];
   return (
   <StAll>
-      <SearchNavbar/>
     
     <Navbar/>
         <div className='bread-crumb'>
@@ -136,7 +132,6 @@ const Product = () => {
         <div className="similars">
         <h2>Similar Products
 </h2>
-<SimilarItems/>
         </div>
       </div>
     </StAll>

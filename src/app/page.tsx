@@ -5,18 +5,19 @@ import Card from '@/components/card'
 import Footer from '@/components/footer'
 import Navbar from '@/components/navbar'
 import Sidebar from '@/components/sidebar'
-import MainPage from '@/components/main'
 import SearchNavbar from '@/components/searchNavbar'
+import { StAll } from '@/pages/style'
+import HomeSearchBox from '@/components/homeSearchBox'
+import HomeNavbar from '@/components/home/homeNavbar'
+import SubMenu from '@/components/subMenu'
 
-export default function Home() {
+export default function Home(children:any) {
   return (
-   <div >
-   <Navbar />
-   <div style={{display:'flex'}}>
-   {/* <Sidebar/>/> */}
-     <MainPage/>
-   </div>
-   <Footer/> 
-   </div>
+   <StAll >
+    <HomeNavbar/>
+    <HomeSearchBox/>
+    <Footer/>
+    <SubMenu/>
+   </StAll>
   )
 }

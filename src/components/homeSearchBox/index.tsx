@@ -7,6 +7,7 @@ const HomeSearchBox = () => {
     <InputStyle>
     <img src="https://api.torob.com/static/webservice/img/Eid-Ghadir-1402-Desktop.gif" alt="" />
       <Select showSearch placeholder='Enter the product name'/>
+      <p>Price comparison of millions of products between thousands of stores</p>
     </InputStyle>
   )
 }

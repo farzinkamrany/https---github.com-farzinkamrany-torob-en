@@ -8,6 +8,7 @@ import SearchNavbar from '../searchNavbar'
 import BreadCrumb from '../breadCrumb'
 import SelectedTitle from '../selectedTitle'
 import Menu from '../menu'
+import Footer from '../footer'
 const MainPage = () => {
   const options=[{
     label:'',value:0
@@ -23,6 +24,7 @@ const MainPage = () => {
       <Menu/>
 
       <SearchResult/>
+      <Footer/>
     </StAll>
   )
 }

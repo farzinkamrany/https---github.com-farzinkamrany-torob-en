@@ -2,14 +2,15 @@ import { Button, Input, Select } from 'antd'
 import React from 'react'
 import SearchBox from '../searchBox'
 import { StAll } from './style'
+import Link from 'next/link'
 
 const SearchNavbar = () => {
   return (
     <StAll>
         <div className='icon-searchs'>
-        <a href="">
+        <Link href="/">
             <img src="https://torob.com/static/images/logo_original.png" alt="" />
-        </a>
+        </Link>
       <SearchBox/>
       </div>
         <div>

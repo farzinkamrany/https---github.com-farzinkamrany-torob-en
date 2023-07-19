@@ -6,6 +6,7 @@ export const StAll=styled.div`
     position: relative;
 margin-left: 4%;
 width: 85%;
+    margin-top: 4%;
 .ant-dropdown-trigger{
     background-color: #ddd;
     padding: 2px 5px;

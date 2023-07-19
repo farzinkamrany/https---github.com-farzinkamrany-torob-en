@@ -8,13 +8,16 @@ width: 80%;
     align-items: center;
     position: relative;
     float: right;
-    margin-left: 17%;
+    margin: 7% auto;
     /* margin-top: 10%; */
 
-.ant-select-selector{
+.ant-select{
     margin: 2% 0;
     width: 500px;
     height: 50px;
+    .ant-select-selector{
+        height: 48px;
+    }
 }
 img{
     width: 500px;
