@@ -41,6 +41,7 @@ const LoginModal:FC<PropTypes> = ({isModalOpen=false,setIsModalOpen}) => {
    Registering in Tarb means agreeing to  
     <Link style={{marginLeft:'1%'}} href="/">  the terms of use of Tarb .</Link>
    </Row>
+   
     <Button style={{border:'none'}} onClick={()=>setlogin((prev:any)=>!prev)}>
    {login? "I create a new user account.":"I used to have an account in Torb."}
     </Button>
