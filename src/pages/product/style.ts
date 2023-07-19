@@ -212,6 +212,7 @@ p{
     }
 .cards{
 display: flex;
+height: 52px;
     div{
         display: flex;
         align-items: center;
@@ -233,9 +234,12 @@ display: flex;
     border:1px solid #ddd;
     p{
         font-size: 12px;
+        margin: 0;
     }
     }
 .active-card{
+    margin-inline-start: 8px;
+    outline-offset: 0px;
     border: 2px solid #000;
         }
 }

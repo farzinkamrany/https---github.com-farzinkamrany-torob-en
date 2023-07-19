@@ -12,7 +12,7 @@ import HomeNavbar from '@/components/home/homeNavbar'
 import SubMenu from '@/components/subMenu'
 import InstallApp from '@/components/installApp'
 
-export default function Home(children:any) {
+export default function Home({children}:any) {
   return (
    <StAll >
     <div className="homeNavbar">
@@ -20,6 +20,7 @@ export default function Home(children:any) {
     </div>
     <div className="searchBox">
     <HomeSearchBox/>
+    {children}
     </div>
     <Footer/>
     <SubMenu/>

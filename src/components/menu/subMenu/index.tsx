@@ -4,7 +4,9 @@ import { StAll } from './style'
 const SubMenu = () => {
   return (
     <StAll>
-      SubMenu
+      icon
+      <p>title</p>
+
     </StAll>
   )
 }

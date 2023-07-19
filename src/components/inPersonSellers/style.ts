@@ -93,9 +93,11 @@ export const StAll=styled.div`
     text-align: end;
         }
             }
-            @media (max-width:768px) {
+            @media(max-width:768px) {
                 width: 84%;
+                flex-direction: column;
             }
+
         }
 .all-sellers{
     button{

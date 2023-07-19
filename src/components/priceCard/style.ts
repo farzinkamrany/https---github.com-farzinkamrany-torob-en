@@ -15,6 +15,10 @@ export const StAll=styled.div`
             justify-content: space-between;
             width: 100%;
             align-items: center;
+            @media(max-width:768px){
+                flex-direction: column;
+            align-items: flex-start;
+            }
         .card-location{
             display: flex;
             flex-direction: column;
@@ -23,11 +27,20 @@ export const StAll=styled.div`
         .delivery{
             display: flex;
             flex-direction: column;
+    a{
+        color:#000;
+    }
         }
             .garranty{
                 display: flex;
     justify-content: flex-start;
     align-items: center;
+    @media (max-width:768px) {
+        justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    }
+
     .report{
         background: #f2f3f5;
         color: #fff;
@@ -92,6 +105,20 @@ export const StAll=styled.div`
     color: #808080;
     line-height: 20px;
     text-align: end;
+        }
+        
+        @media(max-width:768px){
+            width: 100%;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: flex-start;
+            white-space: nowrap;
+            p{
+                color: #d73948;
+            }
+            a:first-child{
+                font-size:16px;
+            }
         }
             }
         }

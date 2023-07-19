@@ -11,6 +11,8 @@ import ChartContainer from '@/components/chartContainer'
 import Specs from '@/components/specs'
 import ProductSection from '@/components/productSection'
 import InPersonSellers from '@/components/inPersonSellers'
+import SubMenu from '@/components/subMenu';
+import SearchNavbar from '@/components/searchNavbar';
 const Product = () => {
   const [onlineCounter, setonlineCounter] = useState(1234)
   const onChange = (key: string) => {
@@ -30,7 +32,7 @@ const Product = () => {
   ];
   return (
   <StAll>
-    
+    <SearchNavbar/>
     <Navbar/>
         <div className='bread-crumb'>
           <br />
@@ -129,6 +131,7 @@ const Product = () => {
           <ProductSection/>
         </div>
       </div>
+    <SubMenu/>
     </StAll>
   )
 }

@@ -7,22 +7,18 @@ import Menu from '@/components/menu'
 import { Row } from 'antd'
 import Navbar from '@/components/navbar'
 import { useScreenSizeChecker } from '@/hooks/useScreenSizeChecker'
+import SubMenu from '@/components/subMenu'
 
 const Browse = () => {
-  const issmallScreen=useScreenSizeChecker()
   return (
-    issmallScreen?<StAll>
-    
+    <StAll>
       <Navbar/>
       <StRow>
         <Menu/>
-
 <SearchResult/>
 </StRow>
-    </StAll>:
-  <StAll>
-    <Menu/>
-  </StAll>
+    <SubMenu/>
+    </StAll>
   )
 }
 
