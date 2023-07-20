@@ -2,7 +2,8 @@ import { Card } from 'antd';
 import styled from 'styled-components';
 
 export const StCard=styled(Card)`
-width: 140px;
+/* width: 140px; */
+padding: 12px;
 .ant-card-body{
     justify-content: space-between;
     display: flex;
@@ -27,6 +28,9 @@ width: 140px;
     height: auto;
     img{
         height: 176px;
+    }
+    .ant-card-body::after{
+        content:none;
     }
 }
 `

@@ -1,9 +1,10 @@
 import React,{useState} from 'react'
 import { StAll } from './style'
-import { Button, Divider, Dropdown, Input, Modal, Row } from 'antd'
+import { Button, Divider, Dropdown, Input, MenuProps, Modal, Row } from 'antd'
 import { ListOfMenu } from '@/components/navbar/style'
 import Link from 'next/link'
 import LoginModal from '@/components/loginModal'
+import { useRouter } from 'next/navigation'
 
 const HomeNavbar = () => {
     
@@ -12,11 +13,19 @@ const HomeNavbar = () => {
   const items: any = [{
     label: 'example', value: ''
   }]
+  const router=useRouter()
+  const onClick: MenuProps['onClick'] = ({ key }) => {
+    // <Link  href="/browse"/>
+    console.log('object')
+    router.push('/browse')
+    // message.info(`Click on item ${key}`);
+    
+  };
   return (
     <StAll>
       
       <ListOfMenu>
-        <Dropdown menu={{ items }} trigger={['click']}>
+        <Dropdown menu={{ items,onClick:onClick }} trigger={['click']}>
           <li>Mobile and digital goods</li>
         </Dropdown>
 

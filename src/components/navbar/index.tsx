@@ -4,12 +4,17 @@ import { Button, Dropdown, MenuProps } from 'antd'
 import SearchBox from '../searchBox'
 import SearchNavbar from '../searchNavbar'
 import Link from 'next/link'
+import { Router, useRouter } from 'next/router'
 
 const Navbar = () => {
   const items: any = [{
-    label: 'example', value: ''
+    label: 'example123', value: '123'
   }]
+  const router=useRouter()
   const onClick: MenuProps['onClick'] = ({ key }) => {
+    // <Link  href="/browse"/>
+    console.log('object')
+    router.push('/browse')
     // message.info(`Click on item ${key}`);
     
   };
@@ -20,7 +25,7 @@ const Navbar = () => {
       
       <SearchNavbar/>
       <ListOfMenu>
-        <Dropdown menu={{ items,onClick }} >
+        <Dropdown menu={{ items,onClick:onClick }} >
           <li>Mobile and digital goods</li>
         </Dropdown>
 

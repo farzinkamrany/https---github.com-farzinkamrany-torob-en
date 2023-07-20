@@ -6,7 +6,7 @@ export const StAll=styled.div`
     flex-direction: column;
     justify-content: flex-start;
     padding: 8px;
-    width: 15%;
+    width: 20%;
     padding-top: 3%;
     @media (max-width:768px){
             display: none;

@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const StAll=styled.div`
     display: flex;
     background-color: #f9fafb;
-    height:72px;
+    height:64px;
     flex-direction: column;
     /* padding: 1% 2%; */
     justify-content: space-between;
@@ -26,6 +26,8 @@ export const ListOfMenu=styled.ul`
     justify-content: space-between;
     padding: 12px;
     width: 100%;
+    background: #f9fafb;
+    margin: 0;
     li{
         font-size: 14px;
         margin: 0 8px;

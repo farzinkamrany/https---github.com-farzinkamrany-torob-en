@@ -32,7 +32,7 @@ const Product = () => {
   ];
   return (
   <StAll>
-    <SearchNavbar/>
+    {/* <SearchNavbar/> */}
     <Navbar/>
         <div className='bread-crumb'>
           <br />

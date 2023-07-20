@@ -1,10 +1,12 @@
 import { Button, Input, Select } from 'antd'
-import React from 'react'
+import React, { useState } from 'react'
 import SearchBox from '../searchBox'
 import { StAll } from './style'
 import Link from 'next/link'
+import LoginModal from '../loginModal'
 
 const SearchNavbar = () => {
+  const [showLoginModal, setshowLoginModal] = useState<boolean>(false)
   return (
     <StAll>
         <div className='icon-searchs'>
@@ -15,10 +17,11 @@ const SearchNavbar = () => {
       </div>
         <div>
             
-      <Button>
+      <Button onClick={()=>setshowLoginModal(true)}>
         login/sign-up
       </Button>
         </div>
+          <LoginModal setIsModalOpen={setshowLoginModal} isModalOpen={showLoginModal} />
     </StAll>
   )
 }

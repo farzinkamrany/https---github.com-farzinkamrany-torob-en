@@ -2,7 +2,7 @@ import React from 'react'
 import { StCard } from './style'
 import Meta from 'antd/es/card/Meta'
 import { AiOutlineHeart,AiOutlineBell } from 'react-icons/ai';
-import { Tooltip } from 'antd'
+import { Button, Tooltip } from 'antd'
 import Link from 'next/link';
 const Card = () => {
   return (
@@ -13,7 +13,7 @@ const Card = () => {
     cover={<img alt="example" src="https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png" />}
   >
     {/* <Meta title="Europe Street beat" description="www.instagram.com" /> */}
-    <h2>name</h2>
+    <h3>name</h3>
     <div>
       <Tooltip title="online and in-person sellers in this city"><span>location</span></Tooltip></div>
     <div><b>price</b></div>
@@ -21,8 +21,14 @@ const Card = () => {
       <div className='shops'>in 67 stores</div>
       <br />
     <div className='action-items'>
-      <div><AiOutlineHeart/></div>
-      <div><AiOutlineBell/></div>
+      <div><Button onClick={(e:any)=>e.preventDefault()}>
+      <AiOutlineHeart/>
+      </Button></div>
+      <div>
+        <Button  onClick={(e:any)=>e.preventDefault()}> 
+        <AiOutlineBell/>
+        </Button>
+      </div>
     </div>
     </div>
   </StCard>

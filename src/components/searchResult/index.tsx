@@ -1,9 +1,10 @@
 import React from 'react'
-import { StAll, StCardContainer } from './style'
+import { StAll, StCardContainer, StHeader, StMobileHeader } from './style'
 import Card from '../card'
 import Sidebar from '../sidebar'
-import { Dropdown, MenuProps } from 'antd'
+import { Button, Col, Dropdown, MenuProps } from 'antd'
 import SearchNavbar from '../searchNavbar'
+import BreadCrumb from '../breadCrumb'
 
 const SearchResult = () => {
     const items: MenuProps['items'] = [
@@ -43,13 +44,41 @@ const SearchResult = () => {
   return (
     <StAll>
         <br />
-         <div> <Dropdown menu={{ items }}>
+        
+  <Sidebar/>
+        <Col>
+        <StHeader>
+          <BreadCrumb/>
+           <Dropdown menu={{ items }}>
     <a onClick={(e) => e.preventDefault()}>
         <span>sort</span>
     </a>
-  </Dropdown></div>
+  </Dropdown>
+  </StHeader>
+  <StMobileHeader>
+  <div className='dropdownFilter'>
+    <Button>1</Button>
+  <Button>2</Button>
+  <Button>3</Button>
+  </div>
+    <div className='tags'>
+    <h3>title</h3>
+    <div> </div>
+  </div>
+  {/* <div className='cards'>
+    <div className="cards">1</div>
+    <div className="cards">2</div>
+    <div className="cards">3</div>
+  </div> */}
+  
+  <div className='shoppers'>  
+    <Button>online shopping</Button>
+    <Button>in-person</Button>
+  </div>
+  </StMobileHeader>
   <br />
   <hr />
+  <h2>List Of Products</h2>
       <StCardContainer>
       <Card/>
       <Card/>
@@ -59,7 +88,7 @@ const SearchResult = () => {
       <Card/>
       <Card/>
       <Card/>
-      </StCardContainer>
+      </StCardContainer></Col>
     </StAll>
   )
 }

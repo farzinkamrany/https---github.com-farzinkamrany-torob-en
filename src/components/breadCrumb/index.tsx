@@ -1,25 +1,21 @@
 import { Breadcrumb } from 'antd'
+import Link from 'next/link'
 import React from 'react'
+import { StAll } from './style'
 
 const BreadCrumb = () => {
   return (
     
-    <Breadcrumb
+    <StAll><Breadcrumb
     items={[
       {
-        title: 'Home',
+        title: <Link href={'/'}>All</Link>,
       },
       {
-        title: <a href="">Application Center</a>,
-      },
-      {
-        title: <a href="">Application List</a>,
-      },
-      {
-        title: 'An Application',
+        title: <Link href="/browse">Application List</Link>,
       },
     ]}
-  />
+  /></StAll>
   )
 }
 

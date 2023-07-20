@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const StAll=styled.div`
     display: flex;
     flex-direction: column;
-    width:110vw;
+    width:100%;
     justify-content: space-between;
     .searchBox{
         display: flex;

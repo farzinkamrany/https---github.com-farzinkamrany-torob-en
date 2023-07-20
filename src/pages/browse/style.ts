@@ -9,4 +9,8 @@ export const StRow=styled.div`
 display: flex;
 width: 100%;
 justify-content: space-between;
+background: #f2f3f5;
+@media (max-width:768px){
+    margin-top:10%;
+}
 `
