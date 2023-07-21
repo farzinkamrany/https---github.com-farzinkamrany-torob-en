@@ -2,7 +2,7 @@
 import React, { useState } from 'react'
 import Navbar from '@/components/navbar'
 import { StAll } from './style'
-import { Button, Tabs, TabsProps, Tooltip } from 'antd'
+import { Button, Image, Modal, Tabs, TabsProps, Tooltip } from 'antd'
 import { AiOutlineBell,AiOutlineHeart } from 'react-icons/ai';
 import {BsShare,BsFlag} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'
@@ -13,11 +13,18 @@ import ProductSection from '@/components/productSection'
 import InPersonSellers from '@/components/inPersonSellers'
 import SubMenu from '@/components/subMenu';
 import SearchNavbar from '@/components/searchNavbar';
-const Product = () => {
+import BreadCrumb from '@/components/breadCrumb';
+import ProductTitle from '@/components/productHeader';
+import Reports from '@/components/reports';
+import { Datas } from '@/helpers/datas';
+const Product = ({res}:any) => {
   const [onlineCounter, setonlineCounter] = useState(1234)
-  const onChange = (key: string) => {
-    console.log(key);
+  const [reportModal, setreportModal] = useState(false)
+  const openReportModal = () => {
+    setreportModal(true);
   };
+  const results:any=Datas
+  console.log(results)
   const items: TabsProps['items'] = [
     {
       key: '1',
@@ -34,19 +41,23 @@ const Product = () => {
   <StAll>
     {/* <SearchNavbar/> */}
     <Navbar/>
-        <div className='bread-crumb'>
           <br />
+          <br />
+        <div className='bread-crumb'>
+          <BreadCrumb/>
+          
   </div>
+<ProductTitle/>
       <div className="details">
         <div className='product-overview'>
-      <img src="https://storage5.torob.com/backend-api/base/images/o7/Il/o7IlY8wjdaSSQjr8_/216x216.jpg" alt="" />
+      <Image src={Datas?.results?.image_url}alt="" />
       <div className="price-details">
-        <div><h1>Samsung A14 phone Samsung Galaxy A14 64/4 GB memory 64 RAM 4 GB</h1></div>
+        <div><h1>{Datas?.results?.name1}</h1></div>
         <div className='price-tags'>
           <span><b>
-          64 GB - 4 GB
+          {Datas?.results?.name2}
             </b>
-            <p >From 4,899,000 tomans</p>
+            <p >{Datas?.results?.price_text}</p>
             </span>
           <span><b>
           64 GB - 4 GB
@@ -57,7 +68,7 @@ const Product = () => {
         <div className="price-and-action">
         <div className='price-help'> 
           <Tooltip title="from 10000000 tomans">
-            <b style={{display:'inline-block',whiteSpace:'nowrap'}}>from 10000000 tomans</b></Tooltip>
+            <b style={{display:'inline-block',whiteSpace:'nowrap'}}><Button><a href="#inPerson">From 4,899,000 tomans</a></Button></b></Tooltip>
             </div>
         <div className='actions'>
         <div>
@@ -67,7 +78,9 @@ const Product = () => {
         </div>
         <span>
           <BsFlag/>
-          <span style={{color:'#333'}}>report</span>
+          <span style={{color:'#333'}}onClick={()=>openReportModal()}>
+            report
+          </span>
         </span>
         </div>
         </div>
@@ -87,12 +100,13 @@ const Product = () => {
         </div>
         <div className="mobile-app">
           <div className='installer'>
-        <div>you want app on your phone?</div>
-        <div><Button>yes, install it</Button></div>
-        <div><Button>No</Button></div>
+        <div className='question'>you want app on your phone?</div>
+        <br />
+        <div><Button className='yes' style={{background:'linear-gradient(180deg,#f04151,#d73948)',color:'#fff'}}>yes, install it</Button>
+        <Button className='no'>No</Button></div>
           </div>
-          <div>
-            logo
+          <div className='logo'>
+            <Image src="	https://torob.com/static/images/bordered_logo.svg" alt="" />
           </div>
         </div>
         <div className='sellers'>
@@ -115,25 +129,40 @@ const Product = () => {
               <p>From 4,899,000 tomans</p>
             </div>
           </div>
-          <Tabs defaultActiveKey="1" items={items} onChange={onChange} />
+          {/* <Tabs defaultActiveKey="1" items={items} onChange={onChange} /> */}
+          <div className="navigateSellers">
+            <Button><a href="#onlineSellers">online sellers</a></Button>
+            <Button><a href="#inPerson">in person</a></Button>
+          </div>
         </div>
-
-        <div className='in-person'> 
-        <InPersonSellers/>
+{/* <div className="onlineShopping"id="onlineSellers">
+</div> */}
+        <div className='in-person' id="inPerson"> 
+        
+  <div id="onlineSellers"><PriceCard/></div>
+  <br />
+        <InPersonSellers data={Datas}/>
         </div>
           <div className='chart-items'>
-          <ChartContainer/>
+          <ChartContainer chart={Datas?.chart}/>
           </div>
         <div className='specs'>
           <Specs/>
         </div>
         <div className="product-section">
-          <ProductSection/>
+          <ProductSection ProCons={Datas.ProCons}/>
         </div>
       </div>
     <SubMenu/>
-    </StAll>
+   <Reports oprnModalReport={reportModal} setreportModal={setreportModal}/>
+   </StAll>
   )
 }
 
 export default Product
+export async function getServerSideProps() {
+  // Fetch data from external API
+  const res = Datas
+  // Pass data to the page via props
+  return { props: { res } }
+}

@@ -1,15 +1,19 @@
-import React from 'react'
+import React,{FC} from 'react'
 import { StAll } from './style'
 import { Button } from 'antd'
 import { BsFlag } from 'react-icons/bs'
 
-const InPersonSellers = () => {
+interface PropTypes{
+    chart?:any
+    }
+const InPersonSellers:FC<PropTypes> = ({data}) => {
+    uses
   return (
     <StAll>
-    <div className="list-of-cards">
+   {data?.sellers?.inPerson?.map((res:any)=><div className="list-of-cards">
         <div className="card">
             <div className='card-location'>
-                <b>Mobile 140</b>
+                <b>{res?.shop_name}</b>
                 <small>
                     Tehran
                 </small>
@@ -45,12 +49,12 @@ const InPersonSellers = () => {
                 </a>
             </div>
         </div>
+    </div>)?.slice(0,3)}
         <div className="all-sellers">
             <Button>
                 show all ... stores
             </Button>
         </div>
-    </div>
 </StAll>
   )
 }

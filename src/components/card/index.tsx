@@ -1,24 +1,32 @@
-import React from 'react'
-import { StCard } from './style'
+import React,{FC} from 'react'
+import { StAll, StCard } from './style'
 import Meta from 'antd/es/card/Meta'
 import { AiOutlineHeart,AiOutlineBell } from 'react-icons/ai';
 import { Button, Tooltip } from 'antd'
 import Link from 'next/link';
-const Card = () => {
+interface PropTypes{
+  data?:any
+}
+const Card:FC<PropTypes> = ({
+  data
+}) => {
   return (
-      <Link href="/product" about='_blank'>
+     <StAll>
+       <Link href="/product" about='_blank'>
         <StCard
     hoverable
     // onClick={()=>window.open('/product')}
-    cover={<img alt="example" src="https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png" />}
+    cover={<img alt="example" src={data?.image_url} />}
   >
     {/* <Meta title="Europe Street beat" description="www.instagram.com" /> */}
-    <h3>name</h3>
+    <h3>{data?.name1}</h3>
+    <br />
+    <br />
     <div>
-      <Tooltip title="online and in-person sellers in this city"><span>location</span></Tooltip></div>
-    <div><b>price</b></div>
+      <Tooltip title="online and in-person sellers in this city"><span>{data?.delivery_city_name}</span></Tooltip></div>
+    <div><b>{data?.price_text}</b></div>
     <div className='card-footer'>
-      <div className='shops'>in 67 stores</div>
+      <div className='shops'>{data?.shop_text}</div>
       <br />
     <div className='action-items'>
       <div><Button onClick={(e:any)=>e.preventDefault()}>
@@ -33,6 +41,7 @@ const Card = () => {
     </div>
   </StCard>
       </Link>
+     </StAll>
   )
 }
 

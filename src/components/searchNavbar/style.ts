@@ -28,8 +28,8 @@ img{
     
     @media (max-width:768px) {
         /* display: none; */
+        background: #fff;
         flex-direction:column;
-        margin-top:12px;
         .icon-searchs{
             flex-direction:column;
             a{

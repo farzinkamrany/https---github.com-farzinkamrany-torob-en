@@ -6,18 +6,37 @@ export const StAll=styled.div`
     position: relative;
 margin-top: 4%;
 display: flex;
+justify-content:space-between;
 /* width: 80%; */
     /* margin-top: 4%; */
 .ant-dropdown-trigger{
-    background-color: #ddd;
+    background-color: transparent;
     padding: 2px 5px;
     border-radius: 10px;
+    width:80px;
+    span{
+        display: flex;
+        justify-content:space-between;
+    color: #000;
+    align-items: center;
+    background: transparent;
+    font-size:14px;
+    font-weight:bold;
+    }
+}
+.ant-col{
+    width:76%;
+    padding:10px;
 }
 @media (max-width:768px){
 margin-top: 0;
     width: 100%;
+    flex-direction: column;
     h2{
         display:none;
+    }
+    hr{
+        display: none;
     }
 }
 `
@@ -29,10 +48,10 @@ margin: 2px;
 /* width: 91%; */
 .ant-card{
     margin: 3px;
-    padding: 12px;
+    padding: 3px;
     img{
         height: 181px;
-        width: 176px;
+        width: 148px;
     }
     .ant-btn{
         border: 0;
@@ -78,18 +97,32 @@ justify-content:space-between;
 width:100%;
 align-items:center;
 flex-direction:column;
+/* padding-top:5%; */
 .tags{
     display: flex;
 justify-content:space-between;
 width:100%;
 align-items:center;
 overflow-x:scroll;
+flex-wrap:nowrap;
+overflow-x:scroll;
+
+.ant-btn{
+    margin: 0 3%;
+}
+h3{
+    font-weight:normal;
+    font-size:14px;
+    white-space:nowrap;
+}
 }
 .shoppers{
     display: flex;
 width:100%;
 align-items:center;
 justify-content:flex-start;
+flex-wrap:nowrap;
+overflow-x:scroll;
 .ant-btn{
     background: transparent;
     border: 0;
@@ -102,6 +135,11 @@ width:100%;
 align-items:center;
 justify-content:flex-start;
 background: #fff;
+li{
+    list-style:none;
+    padding: 6px;
+    margin: 0 3%;
+}
 .ant-btn{
     background: transparent;
     border: 0;
@@ -109,6 +147,9 @@ background: #fff;
 }
 @media(max-width:768px){
     display: flex;
+    .tags,.dropdownFilter{
+        padding: 12px;
+    }
 }
 `
 

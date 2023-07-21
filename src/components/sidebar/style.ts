@@ -5,7 +5,11 @@ display: flex;
 position: relative;
 /* position: fixed; */
 /* top: 110px; */
-width: 40%;
+width: 23%;
+height:40%;
+overflow-y:scroll;
+position: sticky;
+    top: 0;
 z-index: 0;
 .ant-menu-title-content{
     display: flex;

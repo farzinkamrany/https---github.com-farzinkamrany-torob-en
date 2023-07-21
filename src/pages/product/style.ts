@@ -6,6 +6,10 @@ flex-direction: column;
 width: 100%;
 align-items: center;
 background: #f2f3f5;
+
+a{
+  text-decoration: none;
+}
 @media (max-width:768px){
     width: 117vw;
 }
@@ -25,6 +29,9 @@ background: #f2f3f5;
 .bread-crumb{
     display: grid;
     grid-area: 1 / 1 / 2 / 2;
+        margin-top:2%;
+    @media (max-width:768px){
+    }
 }
 .product-overview{
     display: grid;
@@ -76,24 +83,22 @@ text-align: center;
     padding-top: 16px;
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     
 @media (max-width:768px) {
     flex-wrap: nowrap;
+    width: 100%;
+    justify-content: space-between;
 }
 }
 .actions{
     display: flex;
-    width: 85%;
+    width: 100%;
     align-items: center;
     padding: 2%;
     justify-content: space-between;
     div{
-        display: flex;
-@media (max-width:768px) {
-  display: none;
-}
-    svg{
+        display: flex;  svg{
         font-size: 20px;
         fill:rgb(153, 153, 153);
         width: 24px;
@@ -101,6 +106,14 @@ text-align: center;
     margin-inline-end: 24px;
     }
     }
+@media (max-width:768px) {
+    div{
+        
+  display: none;
+    }
+  width:20%;
+}
+  
     span{
         display: flex;
         align-items: center;
@@ -132,6 +145,9 @@ text-align: center;
     span{
         margin: 1%;
         height: 50px;
+    }
+    b,p{
+        font-size:12px;
     }
     
 @media (max-width:768px) {
@@ -176,14 +192,38 @@ p{
     display: grid;
     grid-area: 2/1/3/1;
     display: none;
+    background: #fff;
+        align-items:center;
+    padding: 20px 0 20px 20px;
+    .logo{
+        width: 140px;
+    }
     .installer{
+        min-height:140px;
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        .question{
+            font-size:18px;
+        }
+        .no{
+            
+    background: white;
+    color: #d73948;
+    border: 1px solid #d73948;
+
+        }
+        img{
+            width:100px;
+            height:100px;
+        }
     }
     @media (max-width:768px) {
         display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    width: 85%;
+    margin: 0 auto;
     }
 }
 

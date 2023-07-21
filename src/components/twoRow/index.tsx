@@ -1,19 +1,39 @@
-import React from 'react'
+import React,{FC}  from 'react'
 import { StAll } from './style'
 
-const TwoRow = () => {
+interface PropTypes{
+  data?:any
+}
+const TwoRow:FC<PropTypes> = ({data})=> {
+  // console.log(data)
   return (
-    <StAll>
+    data?.length===5|| data?.length===2? <StAll>
       <div className='topRow'>
-        <img src="https://storage3.torob.com/backend-api/upload/qcs/qcsa81l0g0plltgi/4.jpg" alt="" />
-        <img src="https://storage3.torob.com/backend-api/upload/ota/otame8p6fzy8biye/3.jpg" alt="" />
-      </div>
-      <div className='bottomRow'>
-        <img src="https://storage3.torob.com/backend-api/upload/mjh/mjhnmf1hwxnjowdk/6.jpg" alt="" />
-        <img src="https://storage3.torob.com/backend-api/upload/m7v/m7ve4rmzj5gqetgi/7.jpg" alt="" />
-        <img src="https://storage3.torob.com/backend-api/upload/m58/m58hsstar1q17ovs/5.jpg" alt="" />
-      </div>
+          <img src={data[0]?.image_url} alt="" />
+        <img src={data[1]?.image_url} alt="" />
+      </div> 
+    {data?.length===5&&<div className='bottomRow'> 
+        <img src={data[2]?.image_url} alt="" />
+        <img src={data[3]?.image_url} alt="" />
+        <img src={data[4]?.image_url} alt="" />
+      </div>}
     </StAll>
+    : data?.length===1?<StAll>
+            <div className='oneRow'>
+            {data?.map((res:any)=><img src={res?.image_url} alt="qwe" />)}
+       </div>
+     </StAll>:
+      data?.length===3?
+     <StAll>
+            <div className='threeBase'>
+            {data?.map((res:any)=><img src={res?.image_url} alt=""  />)}
+       </div>
+       </StAll>
+       :<StAll>
+            <div className='fourRow'>
+            {data?.map((res:any)=><img src={res?.image_url} alt="" />)}
+       </div>
+       </StAll>
   )
 }
 

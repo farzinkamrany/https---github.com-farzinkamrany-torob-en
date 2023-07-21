@@ -28,7 +28,6 @@ function getItem(
     getItem('Working Condition', 'sub1','', [
       getItem('Option 5', '5'),
       getItem('Option 6', '6'),
-      getItem('Submenu', 'sub3', null, [getItem('Option 7', '17'), getItem('Option 8', '18')]),
     ]),
     getItem('Prices', 'sub2', '', [getItem((<Col style={{height:250}}>
       <Row><Input prefix={'from'}/>  <Input prefix={'to'}/></Row>
@@ -66,7 +65,7 @@ function getItem(
       
     <Menu
       // onClick={onClick}
-      style={{ width: '93%' }}
+      style={{ width: '100%' }}
       defaultSelectedKeys={['1']}
       defaultOpenKeys={['sub1']}
       mode="inline"

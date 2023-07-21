@@ -2,9 +2,12 @@ import React from 'react'
 import { StAll, StCardContainer, StHeader, StMobileHeader } from './style'
 import Card from '../card'
 import Sidebar from '../sidebar'
-import { Button, Col, Dropdown, MenuProps } from 'antd'
+import { Button, Col, Dropdown, MenuProps, Tag } from 'antd'
 import SearchNavbar from '../searchNavbar'
 import BreadCrumb from '../breadCrumb'
+import { GoLocation } from 'react-icons/go';
+import { Datas } from '@/helpers/datas';
+import { AiOutlineDown } from 'react-icons/ai';
 
 const SearchResult = () => {
     const items: MenuProps['items'] = [
@@ -43,27 +46,35 @@ const SearchResult = () => {
       ];
   return (
     <StAll>
-        <br />
-        
+        {/* <SearchNavbar/> */}
   <Sidebar/>
         <Col>
         <StHeader>
           <BreadCrumb/>
            <Dropdown menu={{ items }}>
     <a onClick={(e) => e.preventDefault()}>
-        <span>sort</span>
+        <span>sort by<AiOutlineDown/></span>
     </a>
   </Dropdown>
   </StHeader>
   <StMobileHeader>
   <div className='dropdownFilter'>
-    <Button>1</Button>
-  <Button>2</Button>
-  <Button>3</Button>
+        <Button >
+          <li>ordering</li></Button>
+        <Button>
+          <li>price</li></Button>
+        <Button>
+          <li>inventory</li></Button>
   </div>
     <div className='tags'>
-    <h3>title</h3>
-    <div> </div>
+    <h3>More Detailed classifications</h3>
+    <Button><Tag/></Button>
+  <Button><Tag/></Button>
+  <Button><Tag/></Button>
+  
+  <Button><Tag/></Button>
+  <Button><Tag/></Button>
+  <Button><Tag/></Button>
   </div>
   {/* <div className='cards'>
     <div className="cards">1</div>
@@ -72,23 +83,17 @@ const SearchResult = () => {
   </div> */}
   
   <div className='shoppers'>  
-    <Button>online shopping</Button>
-    <Button>in-person</Button>
+    <Button><GoLocation/>online shopping</Button>
+    <Button><GoLocation/>in-person</Button>
   </div>
   </StMobileHeader>
   <br />
   <hr />
   <h2>List Of Products</h2>
       <StCardContainer>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
-      </StCardContainer></Col>
+      {Datas?.listOfProducts?.map((res:any)=><Card data={res}/>)}
+      </StCardContainer>
+      </Col>
     </StAll>
   )
 }

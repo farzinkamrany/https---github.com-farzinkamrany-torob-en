@@ -10,6 +10,9 @@ width: 100%;
     justify-content: space-between;
     width: 100%;
     align-items: center;
+    h2{
+        font-size:16px;
+    }
 }
 .body{
     display: flex;

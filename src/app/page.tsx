@@ -11,6 +11,7 @@ import HomeSearchBox from '@/components/homeSearchBox'
 import HomeNavbar from '@/components/home/homeNavbar'
 import SubMenu from '@/components/subMenu'
 import InstallApp from '@/components/installApp'
+import { Datas } from '@/helpers/datas';
 
 export default function Home({children}:any) {
   return (
@@ -19,7 +20,7 @@ export default function Home({children}:any) {
     <HomeNavbar/>
     </div>
     <div className="searchBox">
-    <HomeSearchBox/>
+    <HomeSearchBox data={Datas}/>
     {children}
     </div>
     <Footer/>

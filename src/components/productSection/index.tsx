@@ -1,43 +1,40 @@
-import React from 'react'
+import React ,{FC}from 'react'
 import { StAll } from './style'
 import { Button } from 'antd'
 
-const ProductSection = () => {
+interface PropTypes{
+  ProCons?:any
+}
+const ProductSection:FC<PropTypes> = ({ProCons}) => {
   return (
     <StAll>
       <div className='title'>
         <h2>
-        Product selection guide
+        {ProCons?.title}
         </h2>
         <h3>
-    <small>Make sure to choose by checking the key pros and cons.</small>
+    <small>{ProCons?.sub_title}</small>
         </h3>
       </div>
       <div className='qualities'>
         <div className="strengths">
             <span className="s-title">
-                Strengths
+                {ProCons?.pros_title}
             </span>
             <ul>
-                <li>
-                <p>beautiful design</p></li>
-                <li>
-            <p>Attractive colors</p></li>
-                <li>
-            <p>Good camera</p></li>
+                {ProCons?.pros?.map((res:any)=><li>
+                <p>{res}</p></li>
+                )}
             </ul>
         </div>
         <div className="weaknesses">
             <span className="w-title">
-            weak points
+            {ProCons?.cons_title}
             </span>
             <ul>
-                <li>
-                <p>beautiful design</p></li>
-                <li>
-            <p>Attractive colors</p></li>
-                <li>
-            <p>Good camera</p></li>
+            {ProCons?.cons?.map((res:any)=><li>
+                <p>{res}</p></li>
+                )}
             </ul>
         </div>
       </div>

@@ -1,16 +1,16 @@
 import { Tag } from 'antd'
-import React from 'react'
+import React,{FC} from 'react'
 import { StAll } from './style'
 
-const MobileTags = () => {
+interface PropTypes{
+  data?:any
+}
+const MobileTags:FC<PropTypes> = ({data}) => {
   return (
     <StAll>
-      <Tag color="purple">eeeeeeeeeee</Tag>
-      <Tag color="purple">purple</Tag>
-      <Tag color="purple">purpeele</Tag>
-      <Tag color="purple">purpeele</Tag>
-      <Tag color="purple">purpleeee</Tag>
-      <Tag color="purple">purple</Tag>
+
+      <br />
+      {data?.map((res:any)=><Tag color="purple">{res?.query}</Tag>)}
     </StAll>
   )
 }

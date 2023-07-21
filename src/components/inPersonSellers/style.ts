@@ -6,6 +6,7 @@ export const StAll=styled.div`
     padding: 10px;
     justify-content: space-between;
     align-items: center;
+    flex-direction: column;
     border-radius: 10px;
     a{
         text-decoration: none;
@@ -54,6 +55,11 @@ export const StAll=styled.div`
         color: #000;
         text-decoration: none;
     }
+    @media (max-width:768px){
+        width: 100%;
+                justify-content: space-between;
+        
+    }
             }
             .shopping{
                 display: flex;
@@ -94,12 +100,28 @@ export const StAll=styled.div`
         }
             }
             @media(max-width:768px) {
-                width: 84%;
+                /* width: 84%; */
                 flex-direction: column;
+                .shopping{
+                    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+                }
+                .card-location{
+                    width: 100%;
+    align-items: center;
+                    flex-direction:row;
+                    small{
+                        margin-left:3%;
+                    }
+                }
             }
 
         }
+    }
 .all-sellers{
+    width:100%;
     button{
         width: 100%;
         background: linear-gradient(180deg,#3a75e6,#3468cc);
@@ -121,7 +143,6 @@ export const StAll=styled.div`
     align-items: center;
     }
 }
-    }
     @media (max-width:768px) {
         grid-area: 3 / 1 / 4 / 2;
     }

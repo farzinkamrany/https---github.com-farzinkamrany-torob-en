@@ -6,11 +6,17 @@ flex-direction: column;
 justify-content: center;
 width: 80%;
     align-items: center;
-    position: relative;
+    /* position: relative; */
     float: right;
     margin: 7% auto;
+    overflow:clip;
     /* margin-top: 10%; */
-
+.sticky{
+    position:sticky;
+    top:0;
+    
+  position: -webkit-sticky;
+}
 .ant-select{
     margin: 2% 0;
     width: 500px;
@@ -24,7 +30,7 @@ width: 80%;
 }
 img{
     width: 500px;
-    height: 260px;
+    height: 180px;
 }
 .mobileView{
     display: none;
