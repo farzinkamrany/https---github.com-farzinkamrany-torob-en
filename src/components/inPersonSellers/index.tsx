@@ -1,58 +1,63 @@
-import React,{FC} from 'react'
+import React,{FC,useState} from 'react'
 import { StAll } from './style'
 import { Button } from 'antd'
 import { BsFlag } from 'react-icons/bs'
 
 interface PropTypes{
-    chart?:any
+    data?:any
     }
 const InPersonSellers:FC<PropTypes> = ({data}) => {
-
+    const [showAll, setshowAll] = useState<number>(3)
+console.log(data)
   return (
     <StAll>
-   {data?.sellers?.inPerson?.map((res:any)=><div className="list-of-cards">
+   {data?.sellers?.inPerson?.map((res:any)=>
+   <div className="list-of-cards">
         <div className="card">
-            <div className='card-location'>
+            <div className="div"><div className='card-location'>
                 <b>{res?.shop_name}</b>
                 <small>
-                    Tehran
+                    {res?.shop_name2}
                 </small>
             </div>
             <div className='delivery'>
                         <div className='garranty'>
-                        <span>★5 (2 years in Tarb)</span>
+                        <span style={{background:res?.score_info?.score_background_color,
+                            whiteSpace: "nowrap",
+                            fontSize: '14px',
+                            padding:' 8px'}}>★{res?.score_info?.score} {res?.score_info?.score_text}</span>
                         <div className='report'>
                             <b>report</b>
                           <BsFlag/>
                         </div>
                         </div>
-                    <a href="">Samsung Galaxy A14 mobile phone with 64 GB capacity and 4 GB RAM</a>
-                    <a href="">18 months warranty - registered</a>
+                    <a href="">{res?.address}</a>
+                    <a href="">{res?.name2}</a>
                     <div>
                         dropdown
                     </div>
 
-            </div>
+            </div></div>
             <div className='shopping'>
                 <a href="">
-                <p>4,899,000 Tomans</p>
+                <p>{res?.price_string}</p>
                 </a>
                 <a href="">
                     <div>
                             <Button>
-                                contact info
+                                {res?.button_text}
                             </Button>
                     </div>
                     <div className='update-details'>
-                        <p>The last price change in the store: 20 hours ago</p>
+                        <p>The last price change in the store: {res?.last_price_change_date}</p>
                     </div>
                 </a>
             </div>
         </div>
-    </div>)?.slice(0,3)}
+    </div>)?.slice(0,showAll)}
         <div className="all-sellers">
-            <Button>
-                show all ... stores
+            <Button onClick={()=>setshowAll(data?.sellers?.inPerson?.length)}> 
+                show all {data?.sellers?.inPerson?.length} stores
             </Button>
         </div>
 </StAll>

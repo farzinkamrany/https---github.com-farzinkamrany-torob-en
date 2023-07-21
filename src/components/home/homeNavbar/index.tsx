@@ -10,15 +10,220 @@ const HomeNavbar = () => {
     
   const [isModalOpen, setIsModalOpen] = useState(false);
 
-  const items: any = [{
-    label: 'example', value: ''
-  }]
+  const items: any = [ {
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },{
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },{
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },{
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },{
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },]
   const router=useRouter()
   const onClick: MenuProps['onClick'] = ({ key }) => {
-    // <Link  href="/browse"/>
-    console.log('object')
-    router.push('/browse')
-    // message.info(`Click on item ${key}`);
+    router.push(key)
     
   };
   return (

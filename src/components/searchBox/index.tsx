@@ -1,7 +1,8 @@
 import React, { useMemo, useRef, useState } from 'react';
-import { Select, Spin } from 'antd';
+import { Button, Input, Select, Spin } from 'antd';
 import type { SelectProps } from 'antd/es/select';
 import debounce from 'lodash/debounce';
+import { AiOutlineSearch } from 'react-icons/ai';
 
 export interface DebounceSelectProps<ValueType = any>
   extends Omit<SelectProps<ValueType | ValueType[]>, 'options' | 'children'> {
@@ -74,16 +75,19 @@ const SearchBox: React.FC = () => {
   const [value, setValue] = useState<UserValue[]>([]);
 
   return (
-    <DebounceSelect
-      mode="multiple"
-      value={value}
-      placeholder="جستجو در ترب"
-      fetchOptions={fetchUserList}
-      onChange={(newValue) => {
-        setValue(newValue as UserValue[]);
-      }}
-      style={{ width: 320 }}
-    />
+    // <DebounceSelect
+    //   mode="multiple"
+    //   value={value}
+    //   placeholder="جستجو در ترب"
+    //   fetchOptions={fetchUserList}
+    //   onChange={(newValue) => {
+    //     setValue(newValue as UserValue[]);
+    //   }}
+    //   style={{ width: 420 }}
+    // />
+    <div style={{display:'flex'}}>
+    <br /><Input placeholder='search in torob'
+      style={{ width: 420 ,    height: '48px'}}/><Button style={{      width: 64,  height: '48px',    background:' #d73948',color:'#fff'}}><AiOutlineSearch size={24}/></Button></div>
   );
 };
 

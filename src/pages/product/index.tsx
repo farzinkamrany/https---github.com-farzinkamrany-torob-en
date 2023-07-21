@@ -139,7 +139,7 @@ const Product = ({res}:any) => {
 </div> */}
         <div className='in-person' id="inPerson"> 
         
-  <div id="onlineSellers"><PriceCard/></div>
+  <div id="onlineSellers"><PriceCard data={Datas}/></div>
   <br />
         <InPersonSellers data={Datas}/>
         </div>

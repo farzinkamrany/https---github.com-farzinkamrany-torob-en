@@ -7,7 +7,7 @@ export const StAll=styled.div`
     justify-content: space-between;
     align-items: center;
     border-radius: 10px;
-
+flex-direction:column;
     .list-of-cards{
             width: 100%;
         .card{
@@ -122,7 +122,9 @@ export const StAll=styled.div`
         }
             }
         }
+    }
 .all-sellers{
+    width:100%;
     button{
         width: 100%;
         background: linear-gradient(180deg,#f04151,#d73948);
@@ -144,5 +146,4 @@ export const StAll=styled.div`
     align-items: center;
     }
 }
-    }
 `

@@ -7,9 +7,217 @@ import Link from 'next/link'
 import { Router, useRouter } from 'next/router'
 
 const Navbar = () => {
-  const items: any = [{
-    label: 'example123', value: '123'
-  }]
+  const items: any =  [ {
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },{
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },{
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },{
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },{
+    key: '1',
+    type: 'group',
+    label: 'Group title',
+    children: [
+      {
+        key: '1-1',
+        label: '1st menu item',
+      },
+      {
+        key: '1-2',
+        label: '2nd menu item',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },{
+        label: 'example', value: '',
+      },
+    ],
+  },]
   const router=useRouter()
   const onClick: MenuProps['onClick'] = ({ key }) => {
     // <Link  href="/browse"/>

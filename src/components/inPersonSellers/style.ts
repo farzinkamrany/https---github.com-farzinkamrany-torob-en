@@ -32,6 +32,8 @@ export const StAll=styled.div`
                 display: flex;
     justify-content: flex-start;
     align-items: center;
+    height: 20px;
+    margin-bottom: 7%;
     .report{
         background: #f2f3f5;
         color: #fff;
@@ -41,7 +43,12 @@ export const StAll=styled.div`
         border-radius: 16px;
         font-size: 12px;
     line-height: 28px;
+    height: 28px;
     color: #999;
+    margin-left:5%;
+    b{
+        color:#000;
+    }
     }
     span{
         
@@ -119,6 +126,13 @@ export const StAll=styled.div`
             }
 
         }
+    }
+    .div{
+        display:flex;
+                    align-items: flex-start;
+                    .delivery{
+                        margin-left:3%;
+                    }
     }
 .all-sellers{
     width:100%;

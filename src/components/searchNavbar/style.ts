@@ -6,6 +6,7 @@ export const StAll=styled.div`
     justify-content: space-between;
     align-items: center;
     padding:  5px;
+    height: 48px;
 img{
     width: 40px;
     height: 40px;
@@ -22,7 +23,13 @@ img{
         align-items: center;
         
     a{
-        margin-right:2%;
+        display:flex;
+        margin-right:5%;
+        align-items:center;
+        img{
+        margin-right:5%;
+
+        }
     }
     }
     

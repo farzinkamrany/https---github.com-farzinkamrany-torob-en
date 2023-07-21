@@ -5224,6 +5224,18226 @@ export const Datas={
                         }
                     }
                 }
+            ],
+            online:[
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت ا Samsung Galaxy A14 64/4GB",
+                    "name2": "رجیستر شده | 18ماهه معتبر همراه با کد رجیستری",
+                    "shop_name": "بروز کالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 508,
+                    "prk": "a9e110b5-41f8-4bfa-b762-9f0096a0a602",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a9e110b5-41f8-4bfa-b762-9f0096a0a602&is_adv=1qMurK:t71wWgBvW-PExKUw3ajduTisPwc&btn=buy_city&shop_rank=&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5150000,
+                    "price_text": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰۰ تا ۴۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": true,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ گلکسی مدل Galaxy A14 – ظرفیت 64 گیگابایت / رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "زودسود",
+                    "shop_name2": "تهران",
+                    "shop_id": 31181,
+                    "prk": "641d7699-b574-4529-9a3a-e9f95251b8de",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=641d7699-b574-4529-9a3a-e9f95251b8de&is_adv=&btn=buy_city&shop_rank=0&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4954999,
+                    "price_text": "۴٫۹۵۴٫۹۹۹ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۵۴٫۹۹۹ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۹ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۵ دقیقه پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | تضمین اصالت کالا + گارانتی 18 ماهه شرکتی | همراه با کد رجیستری",
+                    "shop_name": "گوشی پلازا",
+                    "shop_name2": "تهران",
+                    "shop_id": 8114,
+                    "prk": "4bba972b-f80f-41b7-b67c-9b4c8544beee",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4bba972b-f80f-41b7-b67c-9b4c8544beee&is_adv=&btn=buy_city&shop_rank=1&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4955000,
+                    "price_text": "۴٫۹۵۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۵۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.4,
+                        "score_text": "★۴.۴ (۲ سال در ترب)",
+                        "score_color": "#649124",
+                        "score_background_color": "#edfaeb",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۴ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۶ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بازار بزرگ موبایل",
+                    "shop_name2": "قم",
+                    "shop_id": 17221,
+                    "prk": "62855cae-667b-4ce6-9ef8-4ce339ed1338",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=62855cae-667b-4ce6-9ef8-4ce339ed1338&is_adv=&btn=buy&shop_rank=2&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4960000,
+                    "price_text": "۴٫۹۶۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۶۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای قم با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ A14 64/4",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی داریا همراه + کد فعالسازی",
+                    "shop_name": "رضاویتنام",
+                    "shop_name2": "تهران",
+                    "shop_id": 38440,
+                    "prk": "3a35b21a-1420-4141-a75a-9120a3557efa",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3a35b21a-1420-4141-a75a-9120a3557efa&is_adv=&btn=buy_city&shop_rank=3&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4966000,
+                    "price_text": "۴٫۹۶۶٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۶۶٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Samsung Galaxy A14 64/4 GB",
+                    "name2": "رجیستر شده | گارانتی18ماهه شرکتی+رجیستری شده",
+                    "shop_name": "یوتاب تل",
+                    "shop_name2": "تهران",
+                    "shop_id": 28631,
+                    "prk": "75b0faca-92ba-42fa-9d54-dee8775e0ae0",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=75b0faca-92ba-42fa-9d54-dee8775e0ae0&is_adv=&btn=buy_city&shop_rank=4&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4970000,
+                    "price_text": "۴٫۹۷۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۷۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی گلکسی A14 سامسونگ با ظرفیت 64 گیگابایت (4 گیگابایت حافظه RAM)",
+                    "name2": "رجیستر شده | رجیستر شده دارای ۱۸ ماه گارانتی",
+                    "shop_name": "شاپ . آی آر",
+                    "shop_name2": "تهران",
+                    "shop_id": 380,
+                    "prk": "39969456-6b43-4a50-b1af-be6d72f8e769",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=39969456-6b43-4a50-b1af-be6d72f8e769&is_adv=&btn=buy_city&shop_rank=5&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4970000,
+                    "price_text": "۴٫۹۷۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۷۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G ظرفیت 64 گیگابایت رم 4 گیگ ا Samsung Galaxy A14 4G 64GB 4GB RAM Dual SIM Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماهه شرکتی | مونتاژ ویتنام",
+                    "shop_name": "گوشی آنلاین",
+                    "shop_name2": "تهران",
+                    "shop_id": 99,
+                    "prk": "4967a94b-c319-4133-8827-4b615f2e7b84",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4967a94b-c319-4133-8827-4b615f2e7b84&is_adv=&btn=buy_city&shop_rank=6&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4985000,
+                    "price_text": "۴٫۹۸۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۸۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 4/64 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی دو",
+                    "shop_name2": "تهران",
+                    "shop_id": 113,
+                    "prk": "42bc5e6f-d90c-4678-a43d-ac6449c1c91e",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=42bc5e6f-d90c-4678-a43d-ac6449c1c91e&is_adv=&btn=buy_city&shop_rank=7&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4995000,
+                    "price_text": "۴٫۹۹۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۹۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Galaxy A14 حافظه 64 رم 4 گیگابایت 4G",
+                    "name2": "رجیستر شده | 18 ماه گارانتی رسمی",
+                    "shop_name": "یوبایل",
+                    "shop_name2": "تهران",
+                    "shop_id": 22778,
+                    "prk": "35499319-8771-400d-b4ec-9728e210403a",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=35499319-8771-400d-b4ec-9728e210403a&is_adv=&btn=buy_city&shop_rank=8&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4997000,
+                    "price_text": "۴٫۹۹۷٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۱۹۹٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۹۷٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت چین ا Samsung Galaxy A13 (4G) 64GB And 4GB Ram Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "تلکام",
+                    "shop_name2": "تهران",
+                    "shop_id": 6765,
+                    "prk": "1e4355ec-c2c1-4f57-be67-9d79f0c93d13",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1e4355ec-c2c1-4f57-be67-9d79f0c93d13&is_adv=&btn=buy_city&shop_rank=9&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4999000,
+                    "price_text": "۴٫۹۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل گلکسی A14 سامسونگ 4G - حافظه 64 گیگابایت - رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی",
+                    "shop_name": "گوشی شاپ",
+                    "shop_name2": "تهران",
+                    "shop_id": 24,
+                    "prk": "9ca16953-a87c-4c8f-b025-5427ca86c0b1",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9ca16953-a87c-4c8f-b025-5427ca86c0b1&is_adv=&btn=buy_city&shop_rank=10&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4999000,
+                    "price_text": "۴٫۹۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۴ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64/4 گیگابایت ا Samsung Galaxy A14 Dual SIM 64GB, 4GB Ram Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ماهان همراه",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 7865,
+                    "prk": "f3d2cedb-3eba-45e1-9be9-c61646b4ef2b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f3d2cedb-3eba-45e1-9be9-c61646b4ef2b&is_adv=&btn=buy&shop_rank=11&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5000000,
+                    "price_text": "۵٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در اصفهان با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Samsung Galaxy A14 64/4 GB",
+                    "name2": "رجیستر شده | 18 ماه گارانتی داریا همراه",
+                    "shop_name": "پیشرومارت",
+                    "shop_name2": "تهران",
+                    "shop_id": 45455,
+                    "prk": "92825ed1-3ebc-4b41-9bad-f10875ec0536",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=92825ed1-3ebc-4b41-9bad-f10875ec0536&is_adv=&btn=buy_city&shop_rank=12&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5000000,
+                    "price_text": "۵٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64/4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی",
+                    "shop_name": "دیجی مو",
+                    "shop_name2": "تهران",
+                    "shop_id": 42611,
+                    "prk": "8eb6bb9e-8ff0-4eab-9555-7e7b4d7eaca5",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8eb6bb9e-8ff0-4eab-9555-7e7b4d7eaca5&is_adv=&btn=buy_city&shop_rank=13&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5000000,
+                    "price_text": "۵٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 | حافظه 64 رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماه شرکتی + تضمین رجیستری",
+                    "shop_name": "موبایل یاران",
+                    "shop_name2": "تهران",
+                    "shop_id": 14110,
+                    "prk": "62192e8d-af21-4f06-85be-07f09eafd67d",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=62192e8d-af21-4f06-85be-07f09eafd67d&is_adv=&btn=buy_city&shop_rank=14&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5019000,
+                    "price_text": "۵٫۰۱۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۱۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم‌کارت ظرفیت 64GB و رم 4GB ا MOBILE SAMSUNG GALAXY A14 4-64",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه داریا همراه",
+                    "shop_name": "لیپک",
+                    "shop_name2": "تهران",
+                    "shop_id": 8569,
+                    "prk": "b946c989-fbd8-4ba1-bf88-74818c145e7e",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b946c989-fbd8-4ba1-bf88-74818c145e7e&is_adv=&btn=buy_city&shop_rank=15&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5019000,
+                    "price_text": "۵٫۰۱۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۱۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ گلکسی A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت ا Samsung Galaxy A14 64GB - 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | شرکتی (18 ماهه) - رجیستر شده",
+                    "shop_name": "هدیش",
+                    "shop_name2": "شیراز",
+                    "shop_id": 498,
+                    "prk": "5ac44c70-50be-4eee-99ca-c261a36c7163",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5ac44c70-50be-4eee-99ca-c261a36c7163&is_adv=&btn=buy&shop_rank=16&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5020000,
+                    "price_text": "۵٫۰۲۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۲۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64/4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماه شرکتی به همراه کد رجیستری",
+                    "shop_name": "موبودیجی",
+                    "shop_name2": "قم",
+                    "shop_id": 14584,
+                    "prk": "f2d57a92-2be5-452f-8197-7166d5158bc1",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f2d57a92-2be5-452f-8197-7166d5158bc1&is_adv=&btn=buy&shop_rank=17&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5025000,
+                    "price_text": "۵٫۰۲۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۲۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای قم با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۲ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64/4 گیگابایت ا Samsung Galaxy A14 Dual SIM 64GB, 4GB Ram Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی نیکان سرویس + کد رجیستری",
+                    "shop_name": "کالاتیک",
+                    "shop_name2": "تهران",
+                    "shop_id": 736,
+                    "prk": "ddae67c6-970c-4990-a34e-3a489bfb72fb",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ddae67c6-970c-4990-a34e-3a489bfb72fb&is_adv=&btn=buy_city&shop_rank=18&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5029000,
+                    "price_text": "۵٫۰۲۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۲۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل GALAXY A14 حافظه 64 رم4گیگابایت ا Samsung a14 64 4g mobile phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر  شرکتی +کد ریجستری",
+                    "shop_name": "تجارت اریا",
+                    "shop_name2": "تهران",
+                    "shop_id": 14376,
+                    "prk": "77609a12-88a2-4fb9-a6ca-7402e09d75bb",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=77609a12-88a2-4fb9-a6ca-7402e09d75bb&is_adv=&btn=buy_city&shop_rank=19&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5030000,
+                    "price_text": "۵٫۰۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۰ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 SM-A145F/DS دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماهه شرکتی",
+                    "shop_name": "ابوشهاب",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 17884,
+                    "prk": "3c86ad76-324f-454c-b335-e403d0a7445c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3c86ad76-324f-454c-b335-e403d0a7445c&is_adv=&btn=buy&shop_rank=20&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5030000,
+                    "price_text": "۵٫۰۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در اصفهان، تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان، تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل SAMSUNG A14 4G رم 4 حافظه داخلی 64 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی شرکتی 18 ماهه(اولین و قدیمی ترین فروشگاه موبایل دراصفهان)",
+                    "shop_name": "موبایل مظاهری",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 12330,
+                    "prk": "e11f99c6-bf2e-4b40-a50e-288208a7f3ea",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e11f99c6-bf2e-4b40-a50e-288208a7f3ea&is_adv=&btn=buy&shop_rank=21&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5030000,
+                    "price_text": "۵٫۰۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G(بدون شارژر) دوسیم کارت حافظه 64گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18ماه گارانتی شرکتی + تضمین رجیستری",
+                    "shop_name": "پرشیا موبایل",
+                    "shop_name2": "تهران",
+                    "shop_id": 44594,
+                    "prk": "366bf284-1bd0-45d5-9a4f-bdad75210f37",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=366bf284-1bd0-45d5-9a4f-bdad75210f37&is_adv=&btn=buy_city&shop_rank=22&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5030000,
+                    "price_text": "۵٫۰۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.6,
+                        "score_text": "★۴.۶ (۵ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۶ (۵ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماهه شرکتی",
+                    "shop_name": "هف هشتاد",
+                    "shop_name2": "تهران",
+                    "shop_id": 46809,
+                    "prk": "86af9f16-e3c7-4822-888b-3c4e1d604f1f",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=86af9f16-e3c7-4822-888b-3c4e1d604f1f&is_adv=&btn=buy_city&shop_rank=23&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5035000,
+                    "price_text": "۵٫۰۳۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۳۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۷۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "موبایل سامسونگ Galaxy A14 دو سیم حافظه 64 گیگابایت رم 4 گیگابایت (هند) ا Samsung Galaxy A14 64GB 4GB RAM Dual SIM Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سیب سبز",
+                    "shop_name2": "مشهد",
+                    "shop_id": 15267,
+                    "prk": "269c5594-c0e1-4456-aae4-67a89e5e0b47",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=269c5594-c0e1-4456-aae4-67a89e5e0b47&is_adv=&btn=buy&shop_rank=24&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5035000,
+                    "price_text": "۵٫۰۳۵٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۳۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماهه شرکتی - ویتنام",
+                    "shop_name": "فرفره",
+                    "shop_name2": "تهران",
+                    "shop_id": 24739,
+                    "prk": "2dab571b-250b-4ab6-81cb-97b1f3e7b8f8",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=2dab571b-250b-4ab6-81cb-97b1f3e7b8f8&is_adv=&btn=buy_city&shop_rank=25&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5035000,
+                    "price_text": "۵٫۰۳۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۳۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۷۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "Samsung Galaxy A14 64GB RAM 4GB سامسونگ ای 14 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی و خدمات پس از فروش شرکتی",
+                    "shop_name": "کیامد",
+                    "shop_name2": "تهران",
+                    "shop_id": 32122,
+                    "prk": "bbbbe8fb-06fd-43c6-aa9c-8dd6e4a11581",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=bbbbe8fb-06fd-43c6-aa9c-8dd6e4a11581&is_adv=&btn=buy_city&shop_rank=26&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5044000,
+                    "price_text": "۵٫۰۴۴٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۴۴٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۷ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۷ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 | حافظه 64 گیگابایت و رم 4",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه معتبر + کد فعالسازی + ضمانت اصالت کالا + تضمین ارسال کامل همراه با بیمه",
+                    "shop_name": "جم استور",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 8064,
+                    "prk": "f78ed48f-306c-4bdc-bf99-a740fadca804",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f78ed48f-306c-4bdc-bf99-a740fadca804&is_adv=&btn=buy&shop_rank=27&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5050000,
+                    "price_text": "۵٫۰۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۰ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Galaxy A14 Small Box با رم 4GB و حافظه داخلی 64GB ا Samsung Galaxy A14 Small Box /4GB-64GB",
+                    "name2": "رجیستر شده",
+                    "shop_name": "جی جی مو",
+                    "shop_name2": "تهران",
+                    "shop_id": 9034,
+                    "prk": "a3f9edd1-db53-4819-80c3-4c46cacdf993",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a3f9edd1-db53-4819-80c3-4c46cacdf993&is_adv=&btn=buy_city&shop_rank=28&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5055000,
+                    "price_text": "۵٫۰۵۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۵۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت ا Samsung Galaxy A14 64/4GB",
+                    "name2": "رجیستر شده | گارانتی  بیست و چهار ماهه   شرکتی",
+                    "shop_name": "مرکز پخش کنارتو",
+                    "shop_name2": "یزد",
+                    "shop_id": 475,
+                    "prk": "d8d77bfe-bc83-4cb6-b76e-ae60e8bfe2fa",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d8d77bfe-bc83-4cb6-b76e-ae60e8bfe2fa&is_adv=&btn=buy&shop_rank=29&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5056000,
+                    "price_text": "۵٫۰۵۶٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۵۶٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۵ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت ۶۴ گیگابایت و رم ۴ گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی داریا",
+                    "shop_name": "پایدار تجارت",
+                    "shop_name2": "تهران",
+                    "shop_id": 47172,
+                    "prk": "51d6bdf3-1a07-4654-aa55-bdc2b27ecbbf",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=51d6bdf3-1a07-4654-aa55-bdc2b27ecbbf&is_adv=&btn=buy_city&shop_rank=30&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5058000,
+                    "price_text": "۵٫۰۵۸٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۵۸٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۸۳ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت ا Samsung Galaxy A14 64/4GB",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "تکنولایف",
+                    "shop_name2": "تهران",
+                    "shop_id": 310,
+                    "prk": "9dfc4ddd-45b7-4522-b69b-049c4c470952",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9dfc4ddd-45b7-4522-b69b-049c4c470952&is_adv=&btn=buy_city&shop_rank=31&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5059000,
+                    "price_text": "۵٫۰۵۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۵۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود بیش از ۱۰۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۹ دقیقه پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 ظرفیت 64/4 گیگابایت (ارسال فوری)",
+                    "name2": "رجیستر شده",
+                    "shop_name": "همه‌چی‌آنلاین",
+                    "shop_name2": "تهران",
+                    "shop_id": 6841,
+                    "prk": "66423f72-1075-4141-b3ee-701b2c4dd29d",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=66423f72-1075-4141-b3ee-701b2c4dd29d&is_adv=&btn=buy_city&shop_rank=32&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5069000,
+                    "price_text": "۵٫۰۶۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۶۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64/4 گیگابایت - ویتنام ا Samsung Galaxy A14 Vietnam Dual SIM 64GB, 4GB Ram Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی یاسمیناتل + کد رجیستری",
+                    "shop_name": "کالاتیک",
+                    "shop_name2": "تهران",
+                    "shop_id": 736,
+                    "prk": "b4518a0d-bbe0-4712-abee-7bdd38a6b0f5",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b4518a0d-bbe0-4712-abee-7bdd38a6b0f5&is_adv=&btn=buy_city&shop_rank=33&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5079000,
+                    "price_text": "۵٫۰۷۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۷۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل GALAXY A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت ا GALAXY A14 4/64",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آنالوگ کالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 21827,
+                    "prk": "3296e1dd-f3bf-48cf-a55d-8c2a7eb9cb96",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3296e1dd-f3bf-48cf-a55d-8c2a7eb9cb96&is_adv=&btn=buy_city&shop_rank=34&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5080000,
+                    "price_text": "۵٫۰۸۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۸۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Samsung Galaxy A14 4G با 64 گیگ حافظه داخلی و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی به همراه کد فعالسازی + 7 روز تست و تعویض دارسو.بدون شارژر",
+                    "shop_name": "دارسو",
+                    "shop_name2": "تهران",
+                    "shop_id": 21543,
+                    "prk": "979c8733-4dde-4c7a-9907-cb41d484ad0c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=979c8733-4dde-4c7a-9907-cb41d484ad0c&is_adv=&btn=buy_city&shop_rank=35&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5090000,
+                    "price_text": "۵٫۰۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۲ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت (پک ویتنام)",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه - رجیستر شده",
+                    "shop_name": "موبایل 140",
+                    "shop_name2": "تهران",
+                    "shop_id": 9327,
+                    "prk": "a8d7c63a-650d-4833-b089-4eb88174aa73",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a8d7c63a-650d-4833-b089-4eb88174aa73&is_adv=&btn=buy_city&shop_rank=36&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5097350,
+                    "price_text": "۵٫۰۹۷٫۳۵۰ تومان",
+                    "price_text_striked": "۵٫۲۵۵٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۹۷٫۳۵۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای کلیه خریدها",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود بیش از ۱۰۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ GALAXY A14 ظرفیت 64/GB 4GB RAM رنگ مشکی - ساخت ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سامسونگ چی",
+                    "shop_name2": "تهران",
+                    "shop_id": 16664,
+                    "prk": "5fcf9069-5c02-4c5a-bebb-b465f9d99b2e",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5fcf9069-5c02-4c5a-bebb-b465f9d99b2e&is_adv=&btn=buy_city&shop_rank=37&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5098000,
+                    "price_text": "۵٫۰۹۸٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۹۸٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت(پک ویتنام)",
+                    "name2": "رجیستر شده | 18 ماهه شرکتی",
+                    "shop_name": "تلکام",
+                    "shop_name2": "تهران",
+                    "shop_id": 6765,
+                    "prk": "8626237b-be8a-49ef-a9c3-442e92ff2497",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8626237b-be8a-49ef-a9c3-442e92ff2497&is_adv=&btn=buy_city&shop_rank=38&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5099000,
+                    "price_text": "۵٫۰۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۳۴۹٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 4G رم 4 حافظه 64",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "آپولو لند",
+                    "shop_name2": "مشهد",
+                    "shop_id": 39547,
+                    "prk": "1bf35a04-107a-46e7-83cb-7d48d466b592",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1bf35a04-107a-46e7-83cb-7d48d466b592&is_adv=&btn=buy&shop_rank=39&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5099000,
+                    "price_text": "۵٫۰۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "موبایل سامسونگ Galaxy A14 دو سیم حافظه 64 رم 4 (ویتنام-داریا) ا Samsung Galaxy A14 64GB 4GB RAM Dual SIM Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سیب سبز",
+                    "shop_name2": "مشهد",
+                    "shop_id": 15267,
+                    "prk": "d0992bf1-a839-4010-b9b7-6bb91ebe896c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d0992bf1-a839-4010-b9b7-6bb91ebe896c&is_adv=&btn=buy&shop_rank=40&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5099000,
+                    "price_text": "۵٫۰۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۲۵۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۰۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - چین",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه",
+                    "shop_name": "پارس طلایی همراه",
+                    "shop_name2": "تهران",
+                    "shop_id": 20898,
+                    "prk": "f74de4cc-302c-4efe-9162-e08c75f76937",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f74de4cc-302c-4efe-9162-e08c75f76937&is_adv=&btn=buy_city&shop_rank=41&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5100000,
+                    "price_text": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "۶٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "عقیق همراه",
+                    "shop_name2": "ملارد",
+                    "shop_id": 32978,
+                    "prk": "5ddcacad-5986-443e-95a2-993fc6694c3b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5ddcacad-5986-443e-95a2-993fc6694c3b&is_adv=&btn=buy&shop_rank=42&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5100000,
+                    "price_text": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۷۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، ملارد، کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۷۸ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۰ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی گلکسی A14 سامسونگ حافظه 64/4gb پک ویتنام 4G",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "تیکومو",
+                    "shop_name2": "تهران",
+                    "shop_id": 35382,
+                    "prk": "aaaf1f43-6614-42ce-b767-d4eaa50ab2fa",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=aaaf1f43-6614-42ce-b767-d4eaa50ab2fa&is_adv=&btn=buy_city&shop_rank=43&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5100000,
+                    "price_text": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۹ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ گلکسی A14 4G دو سیم‌کارت ظرفیت 64 گیگابایت رم 4 گیگابایت مدل SM-A145P ا Samsung Galaxy A14 4G Dual Sim 64/4GB RAM SM-A145P",
+                    "name2": "رجیستر شده | گارانتی ۱۸ ماهه شرکتی پک جدید (بدون شارژر)",
+                    "shop_name": "سایمان دیجیتال",
+                    "shop_name2": "تبریز",
+                    "shop_id": 72,
+                    "prk": "09d9bae4-e064-429a-8699-46a91cb25423",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=09d9bae4-e064-429a-8699-46a91cb25423&is_adv=&btn=buy&shop_rank=44&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5100000,
+                    "price_text": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۶ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی گلکسی A14 سامسونگ با ظرفیت 64 گیگابایت (4 گیگابایت حافظه RAM) - سفارش ویتنام",
+                    "name2": "رجیستر شده | رجیستر شده دارای گارانتی ۱۸ ماهه",
+                    "shop_name": "شاپ . آی آر",
+                    "shop_name2": "تهران",
+                    "shop_id": 380,
+                    "prk": "5155dd7b-2682-4c15-a29f-4db04f7c8a24",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5155dd7b-2682-4c15-a29f-4db04f7c8a24&is_adv=&btn=buy_city&shop_rank=45&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5100000,
+                    "price_text": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه رسمی شرکتی به همراه رجیستری قانونی + کد رجیستری",
+                    "shop_name": "ایساتیس پلاس",
+                    "shop_name2": "یزد",
+                    "shop_id": 20885,
+                    "prk": "bd7a5cb4-f85d-44d9-ac12-1579ccc0cac9",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=bd7a5cb4-f85d-44d9-ac12-1579ccc0cac9&is_adv=&btn=buy&shop_rank=46&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5104000,
+                    "price_text": "۵٫۱۰۴٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۰۴٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای یزد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ A14 4G ظرفیت 64 رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18ماهه شرکتی (پک ویتنام)",
+                    "shop_name": "فرنا",
+                    "shop_name2": "تهران",
+                    "shop_id": 17637,
+                    "prk": "5b56096e-28bd-4482-98e7-487b5a7a646c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5b56096e-28bd-4482-98e7-487b5a7a646c&is_adv=&btn=buy_city&shop_rank=47&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5110000,
+                    "price_text": "۵٫۱۱۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۱۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۵ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Galaxy A14 دو سیم کارت ظرفیت 64 و رم 4",
+                    "name2": "رجیستر شده | گارانتی ۱۸ ماهه شرکتی و کد ریجستری",
+                    "shop_name": "فروشگاه آرتل",
+                    "shop_name2": "ملارد",
+                    "shop_id": 30713,
+                    "prk": "3f8ae8c4-6155-4997-a0a4-a9937dd0c063",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3f8ae8c4-6155-4997-a0a4-a9937dd0c063&is_adv=&btn=buy&shop_rank=48&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5110000,
+                    "price_text": "۵٫۱۱۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۱۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در ملارد با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، شهریار، فردیس، ملارد، کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۹ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت با رم 4 گیگابایت - ویتنام",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "آوند موبایل",
+                    "shop_name2": "تهران",
+                    "shop_id": 4866,
+                    "prk": "a974a880-b232-4816-970d-6ccb10686a6c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a974a880-b232-4816-970d-6ccb10686a6c&is_adv=&btn=buy_city&shop_rank=49&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5115000,
+                    "price_text": "۵٫۱۱۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۱۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۳ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی کالات",
+                    "shop_name2": "بجنورد",
+                    "shop_id": 58614,
+                    "prk": "3a1379fd-4080-4993-958c-78d2e3679697",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3a1379fd-4080-4993-958c-78d2e3679697&is_adv=&btn=buy&shop_rank=50&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5120000,
+                    "price_text": "۵٫۱۲۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۲۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در بجنورد با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۱ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ا Samsung Galaxy A14 64GB 4GB RAM Dual SIM Mobile Phone",
+                    "name2": "رجیستر شده | اصلی",
+                    "shop_name": "مقداد آی تی",
+                    "shop_name2": "تهران",
+                    "shop_id": 40,
+                    "prk": "76a5c009-1b59-4166-bb58-9e812e7bcfec",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=76a5c009-1b59-4166-bb58-9e812e7bcfec&is_adv=&btn=buy_city&shop_rank=51&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5129000,
+                    "price_text": "۵٫۱۲۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۲۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۶ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                            "summary": [
+                                "حدود ۹۰۰۰ تا ۱۰۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبايل سامسونگ مدل Galaxy A14 4G ظرفیت 64/4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "رنگین شاپ",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 753,
+                    "prk": "6b39f865-c604-4ddf-9a09-9cf565cc90d0",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6b39f865-c604-4ddf-9a09-9cf565cc90d0&is_adv=&btn=buy&shop_rank=52&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5130000,
+                    "price_text": "۵٫۱۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Galaxy A14 Small Box با رم 4GB و حافظه داخلی 64GB (ویتنام) ا Samsung Galaxy A14 Small Box Vietnam /4GB-64GB",
+                    "name2": "رجیستر شده | گارانتی اصلی شرکتی 18 ماهه",
+                    "shop_name": "جی جی مو",
+                    "shop_name2": "تهران",
+                    "shop_id": 9034,
+                    "prk": "c87dac39-f130-40e1-b0cf-fce9a8b09a44",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c87dac39-f130-40e1-b0cf-fce9a8b09a44&is_adv=&btn=buy_city&shop_rank=53&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5135000,
+                    "price_text": "۵٫۱۳۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۳۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت - ویتنام ا Samsung Galaxy A14 64/4GB Vietnam",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "تکنولایف",
+                    "shop_name2": "تهران",
+                    "shop_id": 310,
+                    "prk": "013c9260-067a-4e57-aa3b-a48c6ad2b8b9",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=013c9260-067a-4e57-aa3b-a48c6ad2b8b9&is_adv=&btn=buy_city&shop_rank=54&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5139000,
+                    "price_text": "۵٫۱۳۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۳۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود بیش از ۱۰۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۷ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 با ظرفیت 64/4GB دو سیم کارت (ویتنام)",
+                    "name2": "رجیستر شده | 18 ماه گارانتی داریا همراه پایتخت+کد رجیستری",
+                    "shop_name": "باغ کالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 8932,
+                    "prk": "5e9c2d2c-939a-4a4d-bbdc-7dba72f4ab05",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5e9c2d2c-939a-4a4d-bbdc-7dba72f4ab05&is_adv=&btn=buy_city&shop_rank=55&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5149000,
+                    "price_text": "۵٫۱۴۹٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۳۹۹٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۴۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (China) ظرفیت 64Gb رم 4Gb",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آویژه",
+                    "shop_name2": "شهرکرد",
+                    "shop_id": 7432,
+                    "prk": "b13aec62-5e00-4124-b34c-dc826879cd4f",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b13aec62-5e00-4124-b34c-dc826879cd4f&is_adv=&btn=buy&shop_rank=56&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5149000,
+                    "price_text": "۵٫۱۴۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۴۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در شهرکرد با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان، شهرکرد با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Galaxy A14 حافظه 64 گیگابایت رم 4 گیگابایت ا Galaxy A14 64GB 4GB RAM SM-A145",
+                    "name2": "رجیستر شده | سبز-گارانتی سی تلکام",
+                    "shop_name": "آل دیجیتال",
+                    "shop_name2": "کرمان",
+                    "shop_id": 21,
+                    "prk": "a826d484-8108-4508-ac30-bfcd8a91b442",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a826d484-8108-4508-ac30-bfcd8a91b442&is_adv=&btn=buy&shop_rank=57&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5149000,
+                    "price_text": "۵٫۱۴۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۴۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای کلیه خریدها",
+                        "same_day_delivery": "امکان تحویل در همان روز برای کرمان با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۶ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۶ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | شرکتی",
+                    "shop_name": "اتامیس",
+                    "shop_name2": "تهران",
+                    "shop_id": 16322,
+                    "prk": "73926833-e9ce-4c66-8f92-c58acc634bb5",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=73926833-e9ce-4c66-8f92-c58acc634bb5&is_adv=&btn=buy_city&shop_rank=58&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5149000,
+                    "price_text": "۵٫۱۴۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۴۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Galaxy A14 4G با ظرفیت 4/64 گیگابایت",
+                    "name2": "رجیستر شده | گارانتي ١٨ ماهه شركتي ( تضمين اصالت كالا ، رجيستر شده )",
+                    "shop_name": "دیجی پویا",
+                    "shop_name2": "مشهد",
+                    "shop_id": 7578,
+                    "prk": "e366f217-ce65-4f29-ba26-e291b22508a9",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e366f217-ce65-4f29-ba26-e291b22508a9&is_adv=&btn=buy&shop_rank=59&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5150000,
+                    "price_text": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۰ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 4G ظرفیت 64 گیگابایت رم 4 گیگابایت ا Samsung Galaxy A14 4G Dual SIM 64GB 4GB",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ادبازار",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 162,
+                    "prk": "8fc03707-505f-4ded-ba78-0cacc84d6b47",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8fc03707-505f-4ded-ba78-0cacc84d6b47&is_adv=&btn=buy&shop_rank=60&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5150000,
+                    "price_text": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در اصفهان با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماهه مدیا پردازش",
+                    "shop_name": "موبایل پازل",
+                    "shop_name2": "رشت",
+                    "shop_id": 9884,
+                    "prk": "52917ce1-34ba-48de-8624-4c68300562b3",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=52917ce1-34ba-48de-8624-4c68300562b3&is_adv=&btn=buy&shop_rank=61&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5150000,
+                    "price_text": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 رم 4GB حافظه 64GB",
+                    "name2": "رجیستر شده",
+                    "shop_name": "مایکروتل",
+                    "shop_name2": "شمیرانات",
+                    "shop_id": 2930,
+                    "prk": "27c58de4-ffe5-41cd-9141-ef0361de3225",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=27c58de4-ffe5-41cd-9141-ef0361de3225&is_adv=&btn=buy_city&shop_rank=62&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5150000,
+                    "price_text": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی گلکسی A14 سامسونگ حافظه 64/4GB پک چین 4G",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "تیکومو",
+                    "shop_name2": "تهران",
+                    "shop_id": 35382,
+                    "prk": "fecc5043-b7a6-4634-9cd5-9e455b2223ee",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=fecc5043-b7a6-4634-9cd5-9e455b2223ee&is_adv=&btn=buy_city&shop_rank=63&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5160000,
+                    "price_text": "۵٫۱۶۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۶۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۹ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "Galaxy A14 4/64",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی دکه",
+                    "shop_name2": "شیراز",
+                    "shop_id": 28721,
+                    "prk": "39a6dc0e-dbc8-4d22-898b-2a4086890cad",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=39a6dc0e-dbc8-4d22-898b-2a4086890cad&is_adv=&btn=buy&shop_rank=64&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5180000,
+                    "price_text": "۵٫۱۸۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۸۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت دو سیم‌ کارت رم 4",
+                    "name2": "رجیستر شده | رجیستر شده/گارانتی 18 ماهه شرکتی",
+                    "shop_name": "موبایل اسلامی",
+                    "shop_name2": "مشهد",
+                    "shop_id": 30630,
+                    "prk": "7ef0d951-fbe0-46f9-a081-4ee6b974dc8a",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=7ef0d951-fbe0-46f9-a081-4ee6b974dc8a&is_adv=&btn=buy&shop_rank=65&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5180000,
+                    "price_text": "۵٫۱۸۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۸۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۹ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۱ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ایرانسل",
+                    "shop_name2": "تهران",
+                    "shop_id": 55457,
+                    "prk": "fad6a737-027c-4131-9621-980730769569",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=fad6a737-027c-4131-9621-980730769569&is_adv=&btn=buy_city&shop_rank=66&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5180000,
+                    "price_text": "۵٫۱۸۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۸۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ Galaxy A14 SM-A145P/DS با حافظه 64 و رم 4 گیگابایت ا Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "شهرزاد",
+                    "shop_name2": "ارومیه",
+                    "shop_id": 16978,
+                    "prk": "6751e321-0152-43ed-bc8b-4fa57be33f65",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6751e321-0152-43ed-bc8b-4fa57be33f65&is_adv=&btn=buy&shop_rank=67&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5189000,
+                    "price_text": "۵٫۱۸۹٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۸۷۹٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۸۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در ارومیه با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای ارومیه با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۱ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "کامپیوتر سورس",
+                    "shop_name2": "شیراز",
+                    "shop_id": 3503,
+                    "prk": "9287931a-2668-41ea-830b-3e506e175a16",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9287931a-2668-41ea-830b-3e506e175a16&is_adv=&btn=buy&shop_rank=68&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5189000,
+                    "price_text": "۵٫۱۸۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۸۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 | حافظه 64 رم 4 گیگابایت - ویــــــتنام",
+                    "name2": "رجیستر شده | گارانتی 18 ماه شرکتی + تضمین رجیستری",
+                    "shop_name": "موبایل یاران",
+                    "shop_name2": "تهران",
+                    "shop_id": 14110,
+                    "prk": "402c206f-ecb9-4806-bb1e-de930a4231e9",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=402c206f-ecb9-4806-bb1e-de930a4231e9&is_adv=&btn=buy_city&shop_rank=69&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5189000,
+                    "price_text": "۵٫۱۸۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۸۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB",
+                    "name2": "رجیستر شده",
+                    "shop_name": "پارسی همراه",
+                    "shop_name2": "بابلسر",
+                    "shop_id": 44731,
+                    "prk": "0acc4075-71a5-464f-9e45-4e968b62ef42",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0acc4075-71a5-464f-9e45-4e968b62ef42&is_adv=&btn=buy&shop_rank=70&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5189000,
+                    "price_text": "۵٫۱۸۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۸۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "موبیل",
+                    "shop_name2": "تهران",
+                    "shop_id": 7163,
+                    "prk": "97721738-67ce-4b49-9264-39bbd8455483",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=97721738-67ce-4b49-9264-39bbd8455483&is_adv=&btn=buy_city&shop_rank=71&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5190000,
+                    "price_text": "۵٫۱۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Samsung Galaxy A14 4G 64/4",
+                    "name2": "رجیستر شده | ✔️ گارانتی 18 ماهه معتبر شرکتی+⭐تضمین رجیستری+پلمپ و آکبند",
+                    "shop_name": "گوگل‌کالا",
+                    "shop_name2": "مشهد",
+                    "shop_id": 4714,
+                    "prk": "ed41a225-c948-4cff-bbb2-5ce9b846c773",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ed41a225-c948-4cff-bbb2-5ce9b846c773&is_adv=&btn=buy&shop_rank=72&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5198000,
+                    "price_text": "۵٫۱۹۸٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۹۸٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی A14 گلکسی سامسونگ با ظرفیت 64 و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه (شرکتی)",
+                    "shop_name": "پلازا دیجیتال",
+                    "shop_name2": "تهران",
+                    "shop_id": 5071,
+                    "prk": "814e4675-5a2f-4dfc-b5d1-bfa5787f2d84",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=814e4675-5a2f-4dfc-b5d1-bfa5787f2d84&is_adv=&btn=buy_city&shop_rank=73&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5198000,
+                    "price_text": "۵٫۱۹۸٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۹۸٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰۰ تا ۴۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ گلکسی A14 4G حافظه داخلی 64 و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ای فردا",
+                    "shop_name2": "کرج",
+                    "shop_id": 10682,
+                    "prk": "5b3e1c97-91fc-4fde-9244-270543f64b9b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5b3e1c97-91fc-4fde-9244-270543f64b9b&is_adv=&btn=buy_city&shop_rank=74&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5200000,
+                    "price_text": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ مدل A14 ظرفیت 64 / 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی",
+                    "shop_name": "محاسب کالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 9845,
+                    "prk": "0f798882-c9f4-4960-9dfc-cc7a23e0c99f",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0f798882-c9f4-4960-9dfc-cc7a23e0c99f&is_adv=&btn=buy_city&shop_rank=75&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5200000,
+                    "price_text": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4",
+                    "name2": "رجیستر شده | با گارانتی",
+                    "shop_name": "همراه سیب",
+                    "shop_name2": "تهران",
+                    "shop_id": 28089,
+                    "prk": "2f46ef72-a618-44ae-8a5b-8c8d49934fba",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=2f46ef72-a618-44ae-8a5b-8c8d49934fba&is_adv=&btn=buy_city&shop_rank=76&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5200000,
+                    "price_text": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18ماهه معتبر همراه با کد رجیستری",
+                    "shop_name": "این چند",
+                    "shop_name2": "تهران",
+                    "shop_id": 1337,
+                    "prk": "05105bc9-d35a-40b6-8e6e-097fd54d8158",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=05105bc9-d35a-40b6-8e6e-097fd54d8158&is_adv=&btn=buy_city&shop_rank=77&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5202000,
+                    "price_text": "۵٫۲۰۲٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۰۲٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "بازارگاه (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "بازارگاه",
+                            "summary": [
+                                "با توجه به اینکه این چند از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبايل سامسونگ مدل Galaxy A14 4G ظرفیت 64/4 گیگابایت (ویتنام)",
+                    "name2": "رجیستر شده",
+                    "shop_name": "رنگین شاپ",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 753,
+                    "prk": "043a8a94-f4fd-4133-88d6-23c7f746ee5b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=043a8a94-f4fd-4133-88d6-23c7f746ee5b&is_adv=&btn=buy&shop_rank=78&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5230000,
+                    "price_text": "۵٫۲۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت - ویتنام ا Samsung Galaxy A14 64/4GB Vietnam",
+                    "name2": "رجیستر شده | گارانتی  بیست و چهار ماهه   شرکتی",
+                    "shop_name": "مرکز پخش کنارتو",
+                    "shop_name2": "یزد",
+                    "shop_id": 475,
+                    "prk": "9a82fcc3-9c2a-4c4c-844a-33aa92c0b87a",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9a82fcc3-9c2a-4c4c-844a-33aa92c0b87a&is_adv=&btn=buy&shop_rank=79&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5231000,
+                    "price_text": "۵٫۲۳۱٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۳۱٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۵ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سامسونگ تل",
+                    "shop_name2": "تهران",
+                    "shop_id": 13184,
+                    "prk": "72caf4f1-5552-408b-b668-72c1543a8fb2",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=72caf4f1-5552-408b-b668-72c1543a8fb2&is_adv=&btn=buy_city&shop_rank=80&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5240000,
+                    "price_text": "۵٫۲۴۰٫۰۰۰ تومان",
+                    "price_text_striked": "۹٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۴۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت - رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "یوناتل",
+                    "shop_name2": "تهران",
+                    "shop_id": 50041,
+                    "prk": "90381c5c-226c-43c0-905f-78cec81f3692",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=90381c5c-226c-43c0-905f-78cec81f3692&is_adv=&btn=buy_city&shop_rank=81&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5240000,
+                    "price_text": "۵٫۲۴۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۴۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۶۴ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 SM-A145F/DS دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - ویتنام",
+                    "name2": "رجیستر شده | 18 ماه گارانتی انفورماتیک گستر",
+                    "shop_name": "سازگار ارقام",
+                    "shop_name2": "تهران",
+                    "shop_id": 25218,
+                    "prk": "35b34eba-a0ba-4373-a311-4557ac0b2f12",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=35b34eba-a0ba-4373-a311-4557ac0b2f12&is_adv=&btn=buy_city&shop_rank=82&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5240000,
+                    "price_text": "۵٫۲۴۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۴۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Samsung Galaxy A14 حافظه 64 گیگ رام 4",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه معتبر شرکتی (همراه گستر نقره فام ، مای تل ، سی تلکام ، کیان همراه و...)",
+                    "shop_name": "آل موبایل",
+                    "shop_name2": "همدان",
+                    "shop_id": 13540,
+                    "prk": "b95097a7-aa68-476a-9065-0a05616ee77b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b95097a7-aa68-476a-9065-0a05616ee77b&is_adv=&btn=buy&shop_rank=83&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5249000,
+                    "price_text": "۵٫۲۴۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۴۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در همدان با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای همدان با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۷ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Galaxy A14 4G با ظرفیت 4/64 گیگابایت (ویتنام)",
+                    "name2": "رجیستر شده | گارانتي ١٨ ماهه شركتي ( تضمين اصالت كالا ، رجيستر شده )",
+                    "shop_name": "دیجی پویا",
+                    "shop_name2": "مشهد",
+                    "shop_id": 7578,
+                    "prk": "49b65352-97a7-4283-95c0-f5b9d4679072",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=49b65352-97a7-4283-95c0-f5b9d4679072&is_adv=&btn=buy&shop_rank=84&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5250000,
+                    "price_text": "۵٫۲۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB (ویتنام)",
+                    "name2": "رجیستر شده",
+                    "shop_name": "پارسی همراه",
+                    "shop_name2": "بابلسر",
+                    "shop_id": 44731,
+                    "prk": "ae1734d4-89d8-4e71-bac7-1bc10528107e",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ae1734d4-89d8-4e71-bac7-1bc10528107e&is_adv=&btn=buy&shop_rank=85&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5259000,
+                    "price_text": "۵٫۲۵۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۵۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۲ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64/4 گیگابایت - ویتنام - مشکی ا Samsung Galaxy A14 Vietnam Dual SIM 64GB, 4GB Ram Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماهه شرکتی",
+                    "shop_name": "موبایل پاسارگاد سنقر",
+                    "shop_name2": "سنقر",
+                    "shop_id": 55804,
+                    "prk": "05ff3edd-79cf-4318-906d-ea42df2bc64b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=05ff3edd-79cf-4318-906d-ea42df2bc64b&is_adv=&btn=buy&shop_rank=86&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5289000,
+                    "price_text": "۵٫۲۸۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۸۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ مدل GALAXY A14 64G 4G R4 ا GALAXY A14 64G 4G R4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "حامی ارتباط هماهنگ",
+                    "shop_name2": "تهران",
+                    "shop_id": 19361,
+                    "prk": "8589646c-8e66-43e8-84ba-634bb0a04cfd",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8589646c-8e66-43e8-84ba-634bb0a04cfd&is_adv=&btn=buy_city&shop_rank=87&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5290000,
+                    "price_text": "۵٫۲۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای کلیه خریدها",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و 4 گیگابایت رم",
+                    "name2": "رجیستر شده",
+                    "shop_name": "گوشی لایف",
+                    "shop_name2": "تهران",
+                    "shop_id": 15125,
+                    "prk": "35ddc40f-f081-4d75-a0ee-03d292030fec",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=35ddc40f-f081-4d75-a0ee-03d292030fec&is_adv=&btn=buy_city&shop_rank=88&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5290000,
+                    "price_text": "۵٫۲۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G دو سیم حافظه 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | هند | گارانتی 18 ماهه شرکتی + تضمین رجیستری",
+                    "shop_name": "ویستا همراه",
+                    "shop_name2": "تهران",
+                    "shop_id": 6157,
+                    "prk": "34ae425d-b802-4e0b-b78e-e3d6904c4427",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=34ae425d-b802-4e0b-b78e-e3d6904c4427&is_adv=&btn=buy_city&shop_rank=89&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5299000,
+                    "price_text": "۵٫۲۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۲۹۹٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۷ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت (مشکی)",
+                    "name2": "رجیستر شده | رجیستر شده و گارانتی 18 ماهه شرکتی + 1 سال بیمه",
+                    "shop_name": "ایرانی دیجیتال",
+                    "shop_name2": "شهرضا",
+                    "shop_id": 5430,
+                    "prk": "2bd8aa1f-9817-4cf0-8830-f8cbeecc73c2",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=2bd8aa1f-9817-4cf0-8830-f8cbeecc73c2&is_adv=&btn=buy&shop_rank=90&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5299000,
+                    "price_text": "۵٫۲۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۸ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 رنگ مشکی - Black گارانتی ۱۸ ماهه رسمی شرکتی حافظه ۶۴ گیگابایت با رم ۴ گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "برتر دیجیتال",
+                    "shop_name2": "تبریز",
+                    "shop_id": 955,
+                    "prk": "c85e5eeb-70bf-4735-a8d9-5de8ef2ef6df",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c85e5eeb-70bf-4735-a8d9-5de8ef2ef6df&is_adv=&btn=buy&shop_rank=91&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5299000,
+                    "price_text": "۵٫۲۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم‌ کارت ظرفیت 64 گیگابایت و رم4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "نيوا مال",
+                    "shop_name2": "جهرم",
+                    "shop_id": 10391,
+                    "prk": "66a984f1-8ff0-4577-bfe9-e350c267573d",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=66a984f1-8ff0-4577-bfe9-e350c267573d&is_adv=&btn=buy&shop_rank=92&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5300000,
+                    "price_text": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۷ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل گلکسی A14 رم 4 حافظه 64 (ویتنام) ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آتاتل",
+                    "shop_name2": "مشهد",
+                    "shop_id": 54708,
+                    "prk": "d7833460-83ef-46bf-bd25-2f5185509e3b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d7833460-83ef-46bf-bd25-2f5185509e3b&is_adv=&btn=buy&shop_rank=93&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5300000,
+                    "price_text": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۳۶ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت همراه با گارانتی 18 ماهه (جهت آگاهی ازنام گارانتی گوشی موبایل با پشتیبانی تماس بگیرید)",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بیجی مرکزی",
+                    "shop_name2": "شهرکرد",
+                    "shop_id": 13255,
+                    "prk": "c6b13f5a-0fca-45bc-a0d6-e6139d447f49",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c6b13f5a-0fca-45bc-a0d6-e6139d447f49&is_adv=&btn=buy&shop_rank=94&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5300000,
+                    "price_text": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۵۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای شهرکرد با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۳ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ A14 رم۴ حافظه ۶۴گیگ",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دوبیست",
+                    "shop_name2": "تهران",
+                    "shop_id": 36358,
+                    "prk": "11101873-5117-4adf-8fa2-afcb6b24f403",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=11101873-5117-4adf-8fa2-afcb6b24f403&is_adv=&btn=buy_city&shop_rank=95&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5300000,
+                    "price_text": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۷۹ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۷ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 | حافظه 64 رم 4 گیگابایت ا Samsung Galaxy A14 64/4 GB مشکی , ویتنام",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکت",
+                    "shop_name": "پاسارگاد موبایل",
+                    "shop_name2": "تهران",
+                    "shop_id": 53620,
+                    "prk": "5ed16e52-4104-4a57-a668-5c85dd8dd519",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5ed16e52-4104-4a57-a668-5c85dd8dd519&is_adv=&btn=buy_city&shop_rank=96&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5300000,
+                    "price_text": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.5,
+                        "score_text": "★۴.۵ (۱ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۳۷ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت - بدون شارژر ا Samsung Galaxy A14 mobile phone, capacity 64 GB, RAM 4 GB - without charger",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ایرانسل",
+                    "shop_name2": "تهران",
+                    "shop_id": 55457,
+                    "prk": "1e83e324-0790-4812-9d0e-278fff828d6b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1e83e324-0790-4812-9d0e-278fff828d6b&is_adv=&btn=buy_city&shop_rank=97&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5300000,
+                    "price_text": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - ویتنام ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone - Vietnam",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ایرانسل",
+                    "shop_name2": "تهران",
+                    "shop_id": 55457,
+                    "prk": "25824922-9df3-4b03-a7f3-c59c408749a6",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=25824922-9df3-4b03-a7f3-c59c408749a6&is_adv=&btn=buy_city&shop_rank=98&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5300000,
+                    "price_text": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 رنگ سبز- Green گارانتی ۱۸ ماهه رسمی شرکتی حافظه ۶۴ گیگابایت با رم ۴ گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "برتر دیجیتال",
+                    "shop_name2": "تبریز",
+                    "shop_id": 955,
+                    "prk": "e65c03a1-6b2d-431d-bd6d-d7b36debde7d",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e65c03a1-6b2d-431d-bd6d-d7b36debde7d&is_adv=&btn=buy&shop_rank=99&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5339000,
+                    "price_text": "۵٫۳۳۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۳۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۰ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 رنگ نقره‌ای - Silver گارانتی ۱۸ ماهه رسمی شرکتی حافظه ۶۴ گیگابایت با رم ۴ گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "برتر دیجیتال",
+                    "shop_name2": "تبریز",
+                    "shop_id": 955,
+                    "prk": "8dd6320c-87ed-4313-8f83-ea82fbf85aaa",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8dd6320c-87ed-4313-8f83-ea82fbf85aaa&is_adv=&btn=buy&shop_rank=100&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5349000,
+                    "price_text": "۵٫۳۴۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۴۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ گلکسی A14 حافظه 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "کشوری کالا",
+                    "shop_name2": "مشهد",
+                    "shop_id": 13513,
+                    "prk": "3e1b0f42-ddbd-4845-aa5f-ca205191f9e5",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3e1b0f42-ddbd-4845-aa5f-ca205191f9e5&is_adv=&btn=buy&shop_rank=101&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5350000,
+                    "price_text": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 | حافظه 64 رم 4 گیگابایت ا Samsung Galaxy A14 64/4 GB - سبز ا Samsung Galaxy A14 64/4 GB",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "موبایلوژی",
+                    "shop_name2": "اهواز",
+                    "shop_id": 37168,
+                    "prk": "92b9a583-81b5-4081-a799-714f83adea80",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=92b9a583-81b5-4081-a799-714f83adea80&is_adv=&btn=buy&shop_rank=102&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5350000,
+                    "price_text": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "روژال",
+                    "shop_name2": "قزوین",
+                    "shop_id": 10240,
+                    "prk": "f338661b-eb98-471b-aba3-0a41b80e519e",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f338661b-eb98-471b-aba3-0a41b80e519e&is_adv=&btn=buy&shop_rank=103&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5350000,
+                    "price_text": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای قزوین با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 رم 4GB حافظه 64GB ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "مایکروتل",
+                    "shop_name2": "شمیرانات",
+                    "shop_id": 2930,
+                    "prk": "020f45ab-a615-40e4-8039-669ef2ab5820",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=020f45ab-a615-40e4-8039-669ef2ab5820&is_adv=&btn=buy_city&shop_rank=104&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5350000,
+                    "price_text": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماهه معتبر و رسمی",
+                    "shop_name": "نبض دات شاپ",
+                    "shop_name2": "قم",
+                    "shop_id": 58535,
+                    "prk": "029b9341-8aed-46df-9896-b115ecfe4a52",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=029b9341-8aed-46df-9896-b115ecfe4a52&is_adv=&btn=buy&shop_rank=105&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5365000,
+                    "price_text": "۵٫۳۶۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۶۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای قم با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Galaxy A14 با ظرفیت 64 گیگابایت و رم 4GB",
+                    "name2": "رجیستر شده | 18 ماه شرکتی",
+                    "shop_name": "دیجی 2030",
+                    "shop_name2": "تبریز",
+                    "shop_id": 811,
+                    "prk": "b7f8d8ab-a2ae-4161-87ed-96602fd75ccf",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b7f8d8ab-a2ae-4161-87ed-96602fd75ccf&is_adv=&btn=buy&shop_rank=106&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5397000,
+                    "price_text": "۵٫۳۹۷٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۵۵۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۹۷٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی و ضمانت اصالت کالا",
+                    "shop_name": "موبایل حمید",
+                    "shop_name2": "قزوین",
+                    "shop_id": 23321,
+                    "prk": "7cc413da-7c99-4f68-ba2a-23be80eea326",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=7cc413da-7c99-4f68-ba2a-23be80eea326&is_adv=&btn=buy&shop_rank=107&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5400000,
+                    "price_text": "۵٫۴۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای قزوین با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "ایکالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 12602,
+                    "prk": "d55a0ec8-8b8e-4aa4-8c93-b2e976b34084",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d55a0ec8-8b8e-4aa4-8c93-b2e976b34084&is_adv=&btn=buy_city&shop_rank=108&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5419000,
+                    "price_text": "۵٫۴۱۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۱۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "انارینو",
+                    "shop_name2": "بوشهر",
+                    "shop_id": 34461,
+                    "prk": "56cbae4b-50a4-4ebf-a6f6-cfb6cb6a49e9",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=56cbae4b-50a4-4ebf-a6f6-cfb6cb6a49e9&is_adv=&btn=buy&shop_rank=109&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5420000,
+                    "price_text": "۵٫۴۲۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۲۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در بوشهر با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای بوشهر با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۸ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت رام 4 گیگ و حافظه داخلی 64گیگابایت ویتنام",
+                    "name2": "رجیستر شده | نقره ای",
+                    "shop_name": "بای صد",
+                    "shop_name2": "اسلام آباد غرب",
+                    "shop_id": 12686,
+                    "prk": "8a596dcd-9030-43c1-b24a-8062c8b1ffcc",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8a596dcd-9030-43c1-b24a-8062c8b1ffcc&is_adv=&btn=buy&shop_rank=110&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5430000,
+                    "price_text": "۵٫۴۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۹۵۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای سایر با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | دی جی سرویس - 18 ماه گارانتی + 12 ماه بیمه ایران",
+                    "shop_name": "دی جی لند",
+                    "shop_name2": "تهران",
+                    "shop_id": 3483,
+                    "prk": "e40499a3-02e9-4ec1-9d96-6cbf993d3e7b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e40499a3-02e9-4ec1-9d96-6cbf993d3e7b&is_adv=&btn=buy_city&shop_rank=111&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5445000,
+                    "price_text": "۵٫۴۴۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۴۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰۰ تا ۴۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت (چین)",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "موبوران",
+                    "shop_name2": "اهواز",
+                    "shop_id": 22751,
+                    "prk": "4a70ba0f-08d9-4096-829e-e830f52a7710",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4a70ba0f-08d9-4096-829e-e830f52a7710&is_adv=&btn=buy&shop_rank=112&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5450000,
+                    "price_text": "۵٫۴۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای آبادان، اندیمشک، اهواز، دزفول، شوش، شوشتر، مسجدسلیمان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64/4 گیگابایت",
+                    "name2": "رجیستر شده | 18ماه گارانتی اصلی معتبر+کدفعالسازی",
+                    "shop_name": "دوبی موبایل",
+                    "shop_name2": "ری",
+                    "shop_id": 18399,
+                    "prk": "524cd4d3-94ba-4b8b-86f2-0a18a75603c7",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=524cd4d3-94ba-4b8b-86f2-0a18a75603c7&is_adv=&btn=buy&shop_rank=113&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5490000,
+                    "price_text": "۵٫۴۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۶۹۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، ری با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱۱ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 64GB/4GB ا Samsung Galaxy A14 64GB4GB",
+                    "name2": "رجیستر شده | گارانتی شرکتی (مایکروتل، سامتل، مدیاپردازش و ...) - رجیستر شده",
+                    "shop_name": "خاص باکس",
+                    "shop_name2": "مشهد",
+                    "shop_id": 376,
+                    "prk": "0d43aa34-2ab6-4cc5-8c1e-2d79a74ee573",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0d43aa34-2ab6-4cc5-8c1e-2d79a74ee573&is_adv=&btn=buy&shop_rank=114&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5499000,
+                    "price_text": "۵٫۴۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "۶٫۴۵۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در مشهد با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۴ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ گلکسی A14 رم 4 و حافظه داخلی 64 گیگابایت (پک ویتنام) - Galaxy A14 4GB 64GB ا Galaxy A14 4GB 64GB",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه ابتکار ارتباط پارسیان",
+                    "shop_name": "پلوار",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 15735,
+                    "prk": "04d29c9d-f8b8-4cf6-8821-004231300b8c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=04d29c9d-f8b8-4cf6-8821-004231300b8c&is_adv=&btn=buy&shop_rank=115&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5500000,
+                    "price_text": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | ضمانت برگشت",
+                    "shop_name": "سبلان سبز",
+                    "shop_name2": "آستانه اشرفیه",
+                    "shop_id": 50770,
+                    "prk": "e9bf4d37-1614-4b46-a7fe-6479366255aa",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e9bf4d37-1614-4b46-a7fe-6479366255aa&is_adv=&btn=buy&shop_rank=116&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5500000,
+                    "price_text": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در آستانه اشرفیه، رشت، لاهیجان، لنگرود، کیاشهر با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۶۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای آستانه اشرفیه، لاهیجان با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۶۲ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "موبایل تجلی",
+                    "shop_name2": "مشهد",
+                    "shop_id": 41145,
+                    "prk": "289a0116-eaf3-46f8-9f41-f85fdc44a3ed",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=289a0116-eaf3-46f8-9f41-f85fdc44a3ed&is_adv=&btn=buy&shop_rank=117&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5500000,
+                    "price_text": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۸۵۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۷ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۷ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G ظرفیت 64 گیگابایت و رم 4 گیگابایت (نقد و اقساط)",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه اصلی و شرکتی سامسونگ+کد رجیستری+کارتن پلمپ و آکبند",
+                    "shop_name": "بوم سام نمایندگی رسمی سامسونگ",
+                    "shop_name2": "کرج",
+                    "shop_id": 20090,
+                    "prk": "fe17566f-cc94-4d85-80db-aa8bb7592c27",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=fe17566f-cc94-4d85-80db-aa8bb7592c27&is_adv=&btn=buy_city&shop_rank=118&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5500000,
+                    "price_text": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۹۵۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - چین / 64 گیگابایت / مشکی ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | ارانتی 18 ماهه شرکتی + رجیستری",
+                    "shop_name": "Mobile Zarei | موبایل زارعی",
+                    "shop_name2": "تهران",
+                    "shop_id": 47549,
+                    "prk": "13ee287b-aa6e-40d4-8936-c15ab2f954f0",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=13ee287b-aa6e-40d4-8936-c15ab2f954f0&is_adv=&btn=buy_city&shop_rank=119&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5501000,
+                    "price_text": "۵٫۵۰۱٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۹۵۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۰۱٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت- ویتنام ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone-Vietnam",
+                    "name2": "رجیستر شده | شرکتی معتبر -  گارانتی 18 ماهه به همراه رجیستری",
+                    "shop_name": "دی جی لند",
+                    "shop_name2": "تهران",
+                    "shop_id": 3483,
+                    "prk": "c267873a-ef7f-4035-aee3-6cfc29ea2492",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c267873a-ef7f-4035-aee3-6cfc29ea2492&is_adv=&btn=buy_city&shop_rank=120&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5539000,
+                    "price_text": "۵٫۵۳۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۳۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰۰ تا ۴۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبايل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت (ویتنام)",
+                    "name2": "رجیستر شده | رجیستر شده + گارانتی ۱۸ ماهه شرکتی",
+                    "shop_name": "چیپکو",
+                    "shop_name2": "تبریز",
+                    "shop_id": 12287,
+                    "prk": "1e874df6-e4b2-48bf-96e2-bdc259db03f7",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1e874df6-e4b2-48bf-96e2-bdc259db03f7&is_adv=&btn=buy&shop_rank=121&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5550000,
+                    "price_text": "۵٫۵۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 ظرفیت 64 و رم 4 گیگابایت ا Samsung Galaxy A14 64GB/4GB Smart Phone",
+                    "name2": "رجیستر شده | ۱۸ ماه اصلی + کدرجیستری",
+                    "shop_name": "یاس ارتباط",
+                    "shop_name2": "تهران",
+                    "shop_id": 1061,
+                    "prk": "3a146723-488b-4e70-843e-fe90ead68c12",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3a146723-488b-4e70-843e-fe90ead68c12&is_adv=&btn=buy_city&shop_rank=122&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5556000,
+                    "price_text": "۵٫۵۵۶٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۵۶٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ دقیقه پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گلکسی A14 سامسونگ -64 گیگ رم 4 گیگابایت.",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بروموبو",
+                    "shop_name2": "تهران",
+                    "shop_id": 22629,
+                    "prk": "095b3e33-4e42-491b-a4b6-c27a3cacd0d1",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=095b3e33-4e42-491b-a4b6-c27a3cacd0d1&is_adv=&btn=buy_city&shop_rank=123&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5590000,
+                    "price_text": "۵٫۵۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "۶٫۱۵۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ساخت چین",
+                    "name2": "رجیستر شده",
+                    "shop_name": "موبایل سجاد",
+                    "shop_name2": "مسجدسلیمان",
+                    "shop_id": 43986,
+                    "prk": "9d3ec43d-c072-4095-9254-5d1e5a5ad68b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9d3ec43d-c072-4095-9254-5d1e5a5ad68b&is_adv=&btn=buy&shop_rank=124&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5590000,
+                    "price_text": "۵٫۵۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در اهواز، مسجدسلیمان با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای آبادان، بندرماهشهر، دزفول، شادگان، شوشتر، مسجدسلیمان با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگa14 گیگ 64 رام 4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "گوشی ساز",
+                    "shop_name2": "تهران",
+                    "shop_id": 51440,
+                    "prk": "ee600133-c0c0-4eb1-b1da-68d1bdff2eb3",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ee600133-c0c0-4eb1-b1da-68d1bdff2eb3&is_adv=&btn=buy_city&shop_rank=125&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5600000,
+                    "price_text": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۳۴ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "روژال",
+                    "shop_name2": "قزوین",
+                    "shop_id": 10240,
+                    "prk": "b1060e7a-b1f6-47d5-bc78-b7c656a2200f",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b1060e7a-b1f6-47d5-bc78-b7c656a2200f&is_adv=&btn=buy&shop_rank=126&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5600000,
+                    "price_text": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای قزوین با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت - مشکی ا Samsung Galaxy A14 64/4GB",
+                    "name2": "رجیستر شده | 18  ماه گارانتی",
+                    "shop_name": "کالا برتری",
+                    "shop_name2": "تهران",
+                    "shop_id": 43853,
+                    "prk": "ad1d9fba-9284-457a-9a66-768b899c1d54",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ad1d9fba-9284-457a-9a66-768b899c1d54&is_adv=&btn=buy_city&shop_rank=127&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5600000,
+                    "price_text": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۸۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 3.6,
+                        "score_text": "★۳.۶ (۲ ماه در ترب)",
+                        "score_color": "#85660e",
+                        "score_background_color": "#fff4d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۳.۶ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۸۸ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 | حافظه 64 رم 4 گیگابایت ا Samsung Galaxy A14 64/4 GB",
+                    "name2": "رجیستر شده",
+                    "shop_name": "گوشي دارا",
+                    "shop_name2": "تهران",
+                    "shop_id": 38463,
+                    "prk": "f3c3d279-c6c8-416b-a490-111c4326b6fb",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f3c3d279-c6c8-416b-a490-111c4326b6fb&is_adv=&btn=buy_city&shop_rank=128&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5615000,
+                    "price_text": "۵٫۶۱۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۱۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۶ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ A14 با ظرفیت 64G و رم 4G",
+                    "name2": "رجیستر شده",
+                    "shop_name": "صدراتل",
+                    "shop_name2": "تهران",
+                    "shop_id": 7226,
+                    "prk": "8a956d3b-546b-4d48-a8ef-93ec43156141",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8a956d3b-546b-4d48-a8ef-93ec43156141&is_adv=&btn=buy_city&shop_rank=129&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5620000,
+                    "price_text": "۵٫۶۲۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۲۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بروز دی جی",
+                    "shop_name2": "تهران",
+                    "shop_id": 46929,
+                    "prk": "86af33e8-d8b6-4759-b26e-f629a470b802",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=86af33e8-d8b6-4759-b26e-f629a470b802&is_adv=&btn=buy_city&shop_rank=130&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5626000,
+                    "price_text": "۵٫۶۲۶٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۲۶٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در اصفهان، تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | ضمانت اصالت کالا",
+                    "shop_name": "برنامارت",
+                    "shop_name2": "رشت",
+                    "shop_id": 46675,
+                    "prk": "ee5c20ea-5333-41c2-a7fd-5bbed89d019a",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ee5c20ea-5333-41c2-a7fd-5bbed89d019a&is_adv=&btn=buy&shop_rank=131&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5650000,
+                    "price_text": "۵٫۶۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ گلکسی Samsung Galaxy A14 حافظه 64 رم 4",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی به همراه کد رجیستری",
+                    "shop_name": "اراد سیستم",
+                    "shop_name2": "تهران",
+                    "shop_id": 7674,
+                    "prk": "d784514f-d4a4-4e77-af5c-36f63383ea55",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d784514f-d4a4-4e77-af5c-36f63383ea55&is_adv=&btn=buy_city&shop_rank=132&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5650000,
+                    "price_text": "۵٫۶۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ مدل Samsung A14 ظرفیت 64 رم۴ + گارانتی",
+                    "name2": "رجیستر شده | گارانتی ۱۸ ماهه",
+                    "shop_name": "بای زی",
+                    "shop_name2": "اراک",
+                    "shop_id": 47897,
+                    "prk": "d3a20837-038d-4046-97b3-6d1fab9186f2",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d3a20837-038d-4046-97b3-6d1fab9186f2&is_adv=&btn=buy&shop_rank=133&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5679000,
+                    "price_text": "۵٫۶۷۹٫۰۰۰ تومان",
+                    "price_text_striked": "۶٫۸۵۹٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۷۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ گلکسی A14 ظرفیت 64 گیگابایت رم 4 گیگابایت ا Samsung Galaxy A14 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "یوپ شاپ (نقد و اقساط)",
+                    "shop_name2": "ارومیه",
+                    "shop_id": 7737,
+                    "prk": "82272709-032f-462d-9388-4da5c3144009",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=82272709-032f-462d-9388-4da5c3144009&is_adv=&btn=buy&shop_rank=134&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5699000,
+                    "price_text": "۵٫۶۹۹٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۸۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۹۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای ارومیه با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبايل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | رجیستر شده + گارانتی ۱۸ ماهه شرکتی",
+                    "shop_name": "چیپکو",
+                    "shop_name2": "تبریز",
+                    "shop_id": 12287,
+                    "prk": "49e4160d-a970-4b5b-8400-0f8e0a7547fb",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=49e4160d-a970-4b5b-8400-0f8e0a7547fb&is_adv=&btn=buy&shop_rank=135&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5700000,
+                    "price_text": "۵٫۷۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۷۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشیa14حافظه64رم4 رنگ مشکی ریجستر شده گارنتی داریا همراه پک ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "موبایل کلکته",
+                    "shop_name2": "قلعه گنج",
+                    "shop_id": 48163,
+                    "prk": "cc7ee795-c9f1-413d-9906-6a0ed1788bd6",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=cc7ee795-c9f1-413d-9906-6a0ed1788bd6&is_adv=&btn=buy&shop_rank=136&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5700000,
+                    "price_text": "۵٫۷۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۷۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵ تا ۱۰ سفارش در ۴۵ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل گلکسی A14 رم 4 حافظه 64 دو سیم کارت ا Samsung Galaxy A14 4GB 64GB Dual Sim Mobile Phone",
+                    "name2": "رجیستر شده | گارانتی اصلی (داریا همراه، یکتا توسعه، فرزان تجارت و... )",
+                    "shop_name": "مشهد کالا",
+                    "shop_name2": "مشهد",
+                    "shop_id": 171,
+                    "prk": "6c9a66cf-ee98-47d4-afaf-d3dbe88f8ecf",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6c9a66cf-ee98-47d4-afaf-d3dbe88f8ecf&is_adv=&btn=buy&shop_rank=137&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5725000,
+                    "price_text": "۵٫۷۲۵٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۷۲۵٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - نقره ای(گارانتی داریاهمراه)",
+                    "name2": "رجیستر شده | 18 ماه داریا همراه",
+                    "shop_name": "سیگنال تیک",
+                    "shop_name2": "قم",
+                    "shop_id": 44728,
+                    "prk": "38fa67b5-a0ac-4dd7-b6e1-d02d93a34cf1",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=38fa67b5-a0ac-4dd7-b6e1-d02d93a34cf1&is_adv=&btn=buy&shop_rank=138&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5830000,
+                    "price_text": "۵٫۸۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۸۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G ظرفیت 64 گیگابایت با 4 گیگابایت رم",
+                    "name2": "رجیستر شده | ۱۸ ماهه شرکتی",
+                    "shop_name": "موبوسام",
+                    "shop_name2": "کرمان",
+                    "shop_id": 13811,
+                    "prk": "0e4bd495-5048-4f19-967f-11871460be62",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0e4bd495-5048-4f19-967f-11871460be62&is_adv=&btn=buy&shop_rank=139&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5830000,
+                    "price_text": "۵٫۸۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۸۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در کرمان با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای کرمان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64G رم 4 چین",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آروین شاپ موبایل",
+                    "shop_name2": "تهران",
+                    "shop_id": 30914,
+                    "prk": "758905bd-c16c-4853-b415-4dc8ebf37863",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=758905bd-c16c-4853-b415-4dc8ebf37863&is_adv=&btn=buy_city&shop_rank=140&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5842400,
+                    "price_text": "۵٫۸۴۲٫۴۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۸۴۲٫۴۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۰ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۹ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی + کد رجیستری",
+                    "shop_name": "کرال سنتر",
+                    "shop_name2": "تهران",
+                    "shop_id": 13722,
+                    "prk": "bd910dfa-96b7-454c-a3f9-5e75e2cfcae6",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=bd910dfa-96b7-454c-a3f9-5e75e2cfcae6&is_adv=&btn=buy_city&shop_rank=141&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5850000,
+                    "price_text": "۵٫۸۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۸۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | ضمانت برگشت",
+                    "shop_name": "سبلان سبز",
+                    "shop_name2": "آستانه اشرفیه",
+                    "shop_id": 50770,
+                    "prk": "0a423dc0-f467-4854-b97e-aab39554a56c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0a423dc0-f467-4854-b97e-aab39554a56c&is_adv=&btn=buy&shop_rank=142&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5900000,
+                    "price_text": "۵٫۹۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۹۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در آستانه اشرفیه، رشت، لاهیجان، لنگرود، کیاشهر با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۶۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای آستانه اشرفیه، لاهیجان با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۶۲ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 ظرفیت 64 و رم 4",
+                    "name2": "رجیستر شده",
+                    "shop_name": " موبوکلاسیک",
+                    "shop_name2": "تبریز",
+                    "shop_id": 32126,
+                    "prk": "fd776aa3-0189-4aac-86f0-061d256f794b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=fd776aa3-0189-4aac-86f0-061d256f794b&is_adv=&btn=buy&shop_rank=143&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5900000,
+                    "price_text": "۵٫۹۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۹۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۶ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۱۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت (ویتنام)",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "موبوران",
+                    "shop_name2": "اهواز",
+                    "shop_id": 22751,
+                    "prk": "202f8e7f-1474-41df-91e3-ff80c53aaf6d",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=202f8e7f-1474-41df-91e3-ff80c53aaf6d&is_adv=&btn=buy&shop_rank=144&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5900000,
+                    "price_text": "۵٫۹۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۹۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای آبادان، اندیمشک، اهواز، دزفول، شوش، شوشتر، مسجدسلیمان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "موبایل | سامسونگ A14 (4GB 64GB 4G)",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آنیک تجارت",
+                    "shop_name2": "زنجان",
+                    "shop_id": 34720,
+                    "prk": "d629b980-b79c-4d7a-b30e-0aec839e530a",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d629b980-b79c-4d7a-b30e-0aec839e530a&is_adv=&btn=buy&shop_rank=145&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5990000,
+                    "price_text": "۵٫۹۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۹۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵ تا ۱۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دنیای دیجیتال عرب",
+                    "shop_name2": "گنبدکاووس",
+                    "shop_id": 30227,
+                    "prk": "e407fd11-98a6-4f8e-9eb9-44e552c9c901",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e407fd11-98a6-4f8e-9eb9-44e552c9c901&is_adv=&btn=buy&shop_rank=146&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6000000,
+                    "price_text": "۶٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۰۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در گنبدکاووس با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۸ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۲ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 حافظه 64 رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "فولو",
+                    "shop_name2": "بانه",
+                    "shop_id": 48530,
+                    "prk": "6d832a64-83cb-4f94-b0d1-bb4be3dd1af3",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6d832a64-83cb-4f94-b0d1-bb4be3dd1af3&is_adv=&btn=buy&shop_rank=147&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6000000,
+                    "price_text": "۶٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۰۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.5,
+                        "score_text": "★۴.۵ (۲ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۷۷ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "Galaxy A14 64GB RAM 4GB گوشی سامسونگ",
+                    "name2": "رجیستر شده",
+                    "shop_name": "مادیکا",
+                    "shop_name2": "قزوین",
+                    "shop_id": 12825,
+                    "prk": "e1876f95-2152-47fc-bf42-fc46206af95f",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e1876f95-2152-47fc-bf42-fc46206af95f&is_adv=&btn=buy&shop_rank=148&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6100000,
+                    "price_text": "۶٫۱۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۱۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای قزوین با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۲۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی رسمی + ضمانت ریجستر",
+                    "shop_name": "پین تز",
+                    "shop_name2": "تهران",
+                    "shop_id": 22747,
+                    "prk": "4b77f924-245e-4c90-8bb3-0d480d225763",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4b77f924-245e-4c90-8bb3-0d480d225763&is_adv=&btn=buy_city&shop_rank=149&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6150000,
+                    "price_text": "۶٫۱۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۱۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۸ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت-مشکی",
+                    "name2": "رجیستر شده | 18 ماهه",
+                    "shop_name": "حامی سل",
+                    "shop_name2": "نجف آباد",
+                    "shop_id": 23755,
+                    "prk": "34ffcde1-2098-46fa-8ef7-c538d7e749e8",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=34ffcde1-2098-46fa-8ef7-c538d7e749e8&is_adv=&btn=buy&shop_rank=150&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6180000,
+                    "price_text": "۶٫۱۸۰٫۰۰۰ تومان",
+                    "price_text_striked": "۶٫۸۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۱۸۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در نجف آباد با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۵۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان، تهران، خمینی شهر، نجف آباد با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۶ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۲۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل A14 با ظرفیت حافظه 64 گیگابایت و رم 4 گیگابایت ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آکاجی کالا",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 48663,
+                    "prk": "9ac3272e-7dec-4fb5-9a28-8793395ee84e",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9ac3272e-7dec-4fb5-9a28-8793395ee84e&is_adv=&btn=buy&shop_rank=151&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6200000,
+                    "price_text": "۶٫۲۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۲۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۸۱ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۰ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - سفید ا Galaxy A14",
+                    "name2": "رجیستر شده | 18 ماه  گارانتی داریا همراه",
+                    "shop_name": "آیتک پخش",
+                    "shop_name2": "قزوین",
+                    "shop_id": 55174,
+                    "prk": "9488cbd3-4fc0-4fbb-a917-6ad672c4f194",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9488cbd3-4fc0-4fbb-a917-6ad672c4f194&is_adv=&btn=buy&shop_rank=152&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6200000,
+                    "price_text": "۶٫۲۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۲۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "Samsung Galaxy A14 4G 64/4 GB – گوشی سامسونگ گلکسی آ14 فور جی64/4 گیگابایت – ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی مال کالا",
+                    "shop_name2": "شیراز",
+                    "shop_id": 28934,
+                    "prk": "c0441663-0d61-44ec-b2ec-aaca6611dc67",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c0441663-0d61-44ec-b2ec-aaca6611dc67&is_adv=&btn=buy&shop_rank=153&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6350000,
+                    "price_text": "۶٫۳۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "۶٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۳۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۸ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سی تی فون",
+                    "shop_name2": "تهران",
+                    "shop_id": 16718,
+                    "prk": "5b2bf310-f82c-4fff-be8f-030b60805fff",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5b2bf310-f82c-4fff-be8f-030b60805fff&is_adv=&btn=buy_city&shop_rank=154&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6448000,
+                    "price_text": "۶٫۴۴۸٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۴۴۸٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.6,
+                        "score_text": "★۴.۶ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۶ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۷ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | ۷ روز ضمانت بازگشت",
+                    "shop_name": "دیجی مایکت",
+                    "shop_name2": "پردیس",
+                    "shop_id": 48881,
+                    "prk": "25149d72-5347-4cc4-a8f2-4595e1517aa3",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=25149d72-5347-4cc4-a8f2-4595e1517aa3&is_adv=&btn=buy&shop_rank=155&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6457500,
+                    "price_text": "۶٫۴۵۷٫۵۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۴۵۷٫۵۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۷۷ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۲۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Samsung Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی + تضمین رجیستری",
+                    "shop_name": "عصرتولز",
+                    "shop_name2": "تهران",
+                    "shop_id": 9328,
+                    "prk": "6e29db11-eaef-471d-8af9-435de10331b9",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6e29db11-eaef-471d-8af9-435de10331b9&is_adv=&btn=buy_city&shop_rank=156&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6749000,
+                    "price_text": "۶٫۷۴۹٫۰۰۰ تومان",
+                    "price_text_striked": "۶٫۸۹۸٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۷۴۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ ماه و ۱۸ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "A14رم4گیگ64گیگ سامسونگ ویتنام Galaxy",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بازرگانی برهان",
+                    "shop_name2": "مسجدسلیمان",
+                    "shop_id": 54724,
+                    "prk": "d7ab4813-307c-4305-ae15-9b36b9517f1c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d7ab4813-307c-4305-ae15-9b36b9517f1c&is_adv=&btn=buy&shop_rank=157&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6800000,
+                    "price_text": "۶٫۸۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۸۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در اهواز، مسجدسلیمان با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اهواز، مسجدسلیمان با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 حافظه 64 و رم 4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "شوپیکت",
+                    "shop_name2": "خرمشهر",
+                    "shop_id": 18527,
+                    "prk": "6a1856fc-0791-40ad-ad1f-5eecd6ff64f8",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6a1856fc-0791-40ad-ad1f-5eecd6ff64f8&is_adv=&btn=buy&shop_rank=158&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6950000,
+                    "price_text": "۶٫۹۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "۸٫۹۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۹۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای آبادان، اهواز، بندرامام خمینی، بندرماهشهر، خرمشهر با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۲۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "تاها مارت",
+                    "shop_name2": "تهران",
+                    "shop_id": 36178,
+                    "prk": "e2028e6d-ef91-417e-8b5f-42341af82045",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e2028e6d-ef91-417e-8b5f-42341af82045&is_adv=&btn=buy_city&shop_rank=159&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6950000,
+                    "price_text": "۶٫۹۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۹۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۷ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۷ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵ تا ۱۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ ماه و ۱۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14",
+                    "name2": "رجیستر شده",
+                    "shop_name": "موبیتو",
+                    "shop_name2": "تهران",
+                    "shop_id": 57005,
+                    "prk": "1ffb6508-ce8a-492f-bfc5-8982ecd66962",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1ffb6508-ce8a-492f-bfc5-8982ecd66962&is_adv=&btn=buy_city&shop_rank=160&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 7000000,
+                    "price_text": "۷٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۷٫۰۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ Samsung A14",
+                    "name2": "رجیستر شده",
+                    "shop_name": "لپ تاپ پارسا",
+                    "shop_name2": "کرمانشاه",
+                    "shop_id": 54636,
+                    "prk": "65f2f45f-f8f6-43a3-b875-e9b9c118185a",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=65f2f45f-f8f6-43a3-b875-e9b9c118185a&is_adv=&btn=buy&shop_rank=161&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 7090000,
+                    "price_text": "۷٫۰۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۷٫۰۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای کرمانشاه با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | ضمانت 30 روزه",
+                    "shop_name": "موبولند",
+                    "shop_name2": "تبریز",
+                    "shop_id": 50781,
+                    "prk": "4cbb8720-1ec6-4d25-84c6-5bcfe53c0904",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4cbb8720-1ec6-4d25-84c6-5bcfe53c0904&is_adv=&btn=buy&shop_rank=162&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 7100000,
+                    "price_text": "۷٫۱۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۷٫۱۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳ تا ۵ سفارش در ۴۷ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۲۷ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل Samsung Galaxy A14 64GB RAM 4GB",
+                    "name2": "رجیستر شده",
+                    "shop_name": "شیدل",
+                    "shop_name2": "نهاوند",
+                    "shop_id": 17823,
+                    "prk": "07e39564-a1c3-4e2a-8f76-df78cf708bfc",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=07e39564-a1c3-4e2a-8f76-df78cf708bfc&is_adv=&btn=buy&shop_rank=163&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 7269000,
+                    "price_text": "۷٫۲۶۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۷٫۲۶۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۰ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ ماه و ۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 | حافظه 64 رم 4 گیگابایت ا Samsung Galaxy A14 64/4 GB| فروش اقساطی",
+                    "name2": "رجیستر شده",
+                    "shop_name": "واریان شاپ",
+                    "shop_name2": "زاهدان",
+                    "shop_id": 6078,
+                    "prk": "4970eaa0-954e-49fc-aac4-78de85ddaf42",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4970eaa0-954e-49fc-aac4-78de85ddaf42&is_adv=&btn=buy&shop_rank=164&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 7349000,
+                    "price_text": "۷٫۳۴۹٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۷٫۳۴۹٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران، زاهدان با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، زاهدان با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G دو سیم کارت ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "جیجی مارکت",
+                    "shop_name2": "تهران",
+                    "shop_id": 6696,
+                    "prk": "cf063402-f0ba-4df4-824a-3cb91e6d923c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=cf063402-f0ba-4df4-824a-3cb91e6d923c&is_adv=&btn=buy_city&shop_rank=165&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 7377000,
+                    "price_text": "۷٫۳۷۷٫۰۰۰ تومان",
+                    "price_text_striked": "۷٫۴۹۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۷٫۳۷۷٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ ماه و ۷ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "گلد مارکت",
+                    "shop_name2": "بیله سوار",
+                    "shop_id": 29836,
+                    "prk": "7034f289-c0bf-4659-ad17-2082e0f3708c",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=7034f289-c0bf-4659-ad17-2082e0f3708c&is_adv=&btn=buy&shop_rank=166&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 7500000,
+                    "price_text": "۷٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۷٫۵۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اردبیل، بیله سوار، تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.6,
+                        "score_text": "★۴.۶ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۶ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ ماه و ۲۷ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | چین",
+                    "shop_name": "الکترونیک سنتر",
+                    "shop_name2": "تهران",
+                    "shop_id": 40964,
+                    "prk": "88ce3a75-2db7-44c6-8705-059cd6cd71f2",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=88ce3a75-2db7-44c6-8705-059cd6cd71f2&is_adv=&btn=buy_city&shop_rank=167&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 7590000,
+                    "price_text": "۷٫۵۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "۸٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۷٫۵۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲ ماه و ۱۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی(ریجستر شده با کد)",
+                    "shop_name": "لیان فون",
+                    "shop_name2": "تهران",
+                    "shop_id": 42688,
+                    "prk": "de825de1-3302-4f28-8563-3c797fd956ed",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=de825de1-3302-4f28-8563-3c797fd956ed&is_adv=&btn=buy_city&shop_rank=168&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 8150000,
+                    "price_text": "۸٫۱۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۸٫۱۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۳ ماه و ۶ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت پک چین رنگ سبز روشن",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "انتخاب من",
+                    "shop_name2": "تهران",
+                    "shop_id": 12457,
+                    "prk": "521ca6eb-7166-4a76-9392-2188c96bf42f",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=521ca6eb-7166-4a76-9392-2188c96bf42f&is_adv=&btn=buy_city&shop_rank=169&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4983000,
+                    "price_text": "۴٫۹۸۳٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۸۳٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۹ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت پک چین رنگ سبز روشن",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "انتخاب من",
+                    "shop_name2": "تهران",
+                    "shop_id": 12457,
+                    "prk": "6c8e2f29-1807-4005-bef2-f4378bb38b49",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6c8e2f29-1807-4005-bef2-f4378bb38b49&is_adv=&btn=buy_city&shop_rank=170&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4983000,
+                    "price_text": "۴٫۹۸۳٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۸۳٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۶ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت پک چین رنگ سیلور",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "انتخاب من",
+                    "shop_name2": "تهران",
+                    "shop_id": 12457,
+                    "prk": "fad9f051-4289-4047-a7d6-811ea163be90",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=fad9f051-4289-4047-a7d6-811ea163be90&is_adv=&btn=buy_city&shop_rank=171&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4990000,
+                    "price_text": "۴٫۹۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "یک ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت پک چین رنگ مشکی",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "انتخاب من",
+                    "shop_name2": "تهران",
+                    "shop_id": 12457,
+                    "prk": "3efe2b9f-816b-42f7-b78d-77067bffe4e2",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3efe2b9f-816b-42f7-b78d-77067bffe4e2&is_adv=&btn=buy_city&shop_rank=172&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4990000,
+                    "price_text": "۴٫۹۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۹ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت پک چین رنگ سبز روشن",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "انتخاب من",
+                    "shop_name2": "تهران",
+                    "shop_id": 12457,
+                    "prk": "34a47023-928d-4137-a5cf-8ab43e449907",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=34a47023-928d-4137-a5cf-8ab43e449907&is_adv=&btn=buy_city&shop_rank=173&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4990000,
+                    "price_text": "۴٫۹۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۰ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت پک چین رنگ مشکی",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "انتخاب من",
+                    "shop_name2": "تهران",
+                    "shop_id": 12457,
+                    "prk": "bc213218-327d-454b-8983-cd67eb435b69",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=bc213218-327d-454b-8983-cd67eb435b69&is_adv=&btn=buy_city&shop_rank=174&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 4990000,
+                    "price_text": "۴٫۹۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۴٫۹۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - مشکی",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "آرکا همراه",
+                    "shop_name2": "تهران",
+                    "shop_id": 55142,
+                    "prk": "8cebb723-86a7-4490-88b1-57858d8052d0",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8cebb723-86a7-4490-88b1-57858d8052d0&is_adv=&btn=buy_city&shop_rank=175&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5130000,
+                    "price_text": "۵٫۱۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۴۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۱۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۳۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۸ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "موبایل سامسونگ مدل Samsung Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت | 4G ا Samsung Galaxy A14 64GB-4GB | 4G",
+                    "name2": "وضعیت رجیستری نامشخص | 18 ماه گارانتی اصلی و رجیستر شده",
+                    "shop_name": "پارس کالا ...",
+                    "shop_name2": "سمنان",
+                    "shop_id": 54532,
+                    "prk": "92089885-3d90-4366-b104-3ee5d1209d03",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=92089885-3d90-4366-b104-3ee5d1209d03&is_adv=&btn=buy&shop_rank=176&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5200000,
+                    "price_text": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۳۸ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ A14 با ظرفیت 64/4 گیگابایت ا Samsung A14 phone with a capacity of 4.64 GB",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "ارتباط همراه",
+                    "shop_name2": "آمل",
+                    "shop_id": 54502,
+                    "prk": "99e7a982-4424-492a-bbc2-08f6408a2e4a",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=99e7a982-4424-492a-bbc2-08f6408a2e4a&is_adv=&btn=buy&shop_rank=177&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5200000,
+                    "price_text": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۳۳ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G ظرفیت 64 گیگابایت – رم 4 گیگ",
+                    "name2": "18 ماه گارانتی شرکتی+تضمین رجستری",
+                    "shop_name": "شکاف",
+                    "shop_name2": "تهران",
+                    "shop_id": 30715,
+                    "prk": "6ca96cf2-cde5-4da1-9f82-f13b8776eb1b",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6ca96cf2-cde5-4da1-9f82-f13b8776eb1b&is_adv=&btn=buy_city&shop_rank=178&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5204000,
+                    "price_text": "۵٫۲۰۴٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۰۴٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۹ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ A14 حافظه داخلی 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص | هجده ماه گارانتی",
+                    "shop_name": "امین 24",
+                    "shop_name2": "چناران",
+                    "shop_id": 56003,
+                    "prk": "0f0eb037-c42f-4406-ae3a-3fcb89a473a7",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0f0eb037-c42f-4406-ae3a-3fcb89a473a7&is_adv=&btn=buy&shop_rank=179&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5230000,
+                    "price_text": "۵٫۲۳۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۳۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۰ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "مشخصات، قیمت و خرید گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم‌ کارت ظرفیت 64GB-4GB RAM ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "بهینه مارکت",
+                    "shop_name2": "تهران",
+                    "shop_id": 3297,
+                    "prk": "9faf5ffe-7d71-439d-bc00-cf99bdd1743f",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9faf5ffe-7d71-439d-bc00-cf99bdd1743f&is_adv=&btn=buy_city&shop_rank=180&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5290000,
+                    "price_text": "۵٫۲۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۳ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۷ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G ظرفیت 64 گیگابایت – رم 4 گیگ - ویتنام",
+                    "name2": "18 ماه گارانتی شرکتی+تضمین رجستری",
+                    "shop_name": "شکاف",
+                    "shop_name2": "تهران",
+                    "shop_id": 30715,
+                    "prk": "ec974911-cb60-489b-bac5-24429df8eb87",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ec974911-cb60-489b-bac5-24429df8eb87&is_adv=&btn=buy_city&shop_rank=181&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5296000,
+                    "price_text": "۵٫۲۹۶٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۲۹۶٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۹ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 – ظرفیت 64GB رم 4GB",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "گلدن دیجی",
+                    "shop_name2": "تهران",
+                    "shop_id": 28302,
+                    "prk": "6303079d-2dd0-47de-86ed-19292e6ac1b3",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6303079d-2dd0-47de-86ed-19292e6ac1b3&is_adv=&btn=buy_city&shop_rank=182&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5300000,
+                    "price_text": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۸ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "دیجی وِند",
+                    "shop_name2": "مشهد",
+                    "shop_id": 57339,
+                    "prk": "eeb6b5e1-fbf2-42b1-9817-184a9c9d1d0f",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=eeb6b5e1-fbf2-42b1-9817-184a9c9d1d0f&is_adv=&btn=buy&shop_rank=183&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5350000,
+                    "price_text": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۳۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۲ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "دیجیتال خرید",
+                    "shop_name2": "مسجدسلیمان",
+                    "shop_id": 5340,
+                    "prk": "1d4e6c0f-7208-4de6-877b-f71b10322be0",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1d4e6c0f-7208-4de6-877b-f71b10322be0&is_adv=&btn=buy&shop_rank=184&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5450000,
+                    "price_text": "۵٫۴۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۴۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵ تا ۱۰ سفارش در ۵۳ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - مشکی",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "اسان برتر",
+                    "shop_name2": "خرمدره",
+                    "shop_id": 31556,
+                    "prk": "287c155d-76ff-43e2-9af9-a1bdc6424491",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=287c155d-76ff-43e2-9af9-a1bdc6424491&is_adv=&btn=buy&shop_rank=185&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5500000,
+                    "price_text": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای ابهر، خرمدره با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "دیروز",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "سامسونگ گوشی موبایلA14 حافظه 64گیگ",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "باسلام",
+                    "shop_name2": "فردیس، گلدن فون",
+                    "shop_id": 101,
+                    "prk": "72ec0b33-82b7-4017-9688-a966d21e5f85",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=72ec0b33-82b7-4017-9688-a966d21e5f85&is_adv=&btn=buy&shop_rank=186&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5550000,
+                    "price_text": "۵٫۵۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "بازارگاه (۵ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "بازارگاه",
+                            "summary": [
+                                "با توجه به اینکه باسلام از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 4G حافظه 64 رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص | 18ماه گارانتی شرکتی و کد ریجستری",
+                    "shop_name": "کافه دیجی",
+                    "shop_name2": "تهران",
+                    "shop_id": 22310,
+                    "prk": "8a7564e0-46e7-4e3c-becc-f533013da288",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8a7564e0-46e7-4e3c-becc-f533013da288&is_adv=&btn=buy_city&shop_rank=187&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5550000,
+                    "price_text": "۵٫۵۵۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۵۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۸ ساعت پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - سبز ا Samsung Galaxy A14 Dual SIM 64GB AND 4GB Ram Mobile Phone",
+                    "name2": "وضعیت رجیستری نامشخص | گارانتی 18 ماه شرکتی",
+                    "shop_name": "موبینل",
+                    "shop_name2": "تهران",
+                    "shop_id": 54893,
+                    "prk": "99afa690-3173-471b-bf74-cc49f5598b52",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=99afa690-3173-471b-bf74-cc49f5598b52&is_adv=&btn=buy_city&shop_rank=188&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5590000,
+                    "price_text": "۵٫۵۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۵۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۳ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 با حافظه 64 گیگابایت و رم 4 گیگابایت (ویتنام)",
+                    "name2": "وضعیت رجیستری نامشخص | گارانتی شرکتی 18 ماهه",
+                    "shop_name": "۰۲۱تک",
+                    "shop_name2": "تهران",
+                    "shop_id": 24949,
+                    "prk": "87f489ed-89d2-465b-99df-0a9c18fd90a0",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=87f489ed-89d2-465b-99df-0a9c18fd90a0&is_adv=&btn=buy_city&shop_rank=189&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5600000,
+                    "price_text": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "A14 64GB RAM 4GB Vietnam - مشکی ا A14",
+                    "name2": "وضعیت رجیستری نامشخص | دارای 18 ماه گارانتی شرکتی",
+                    "shop_name": "ماهان موبایل ورامین",
+                    "shop_name2": "ورامین",
+                    "shop_id": 53212,
+                    "prk": "d54c7fcd-efe7-457d-bb09-a66d2896bced",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d54c7fcd-efe7-457d-bb09-a66d2896bced&is_adv=&btn=buy&shop_rank=190&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5680000,
+                    "price_text": "۵٫۶۸۰٫۰۰۰ تومان",
+                    "price_text_striked": "۶٫۵۳۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۶۸۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۱۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گلکسی A14 سامسونگ",
+                    "name2": "وضعیت رجیستری نامشخص | گارانتی بازگشت تا 7 روز",
+                    "shop_name": "موبایل نوبل استور",
+                    "shop_name2": "خمینی شهر",
+                    "shop_id": 58638,
+                    "prk": "c339bc8a-b22c-481c-9483-721d485b0690",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c339bc8a-b22c-481c-9483-721d485b0690&is_adv=&btn=buy&shop_rank=191&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5710000,
+                    "price_text": "۵٫۷۱۰٫۰۰۰ تومان",
+                    "price_text_striked": "۵٫۸۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۷۱۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۴ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص | 18 ماه گارانتی",
+                    "shop_name": "سیب تل",
+                    "shop_name2": "کیاشهر",
+                    "shop_id": 3871,
+                    "prk": "77690b35-2149-477e-bb45-ebf67b345346",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=77690b35-2149-477e-bb45-ebf67b345346&is_adv=&btn=buy&shop_rank=192&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5990000,
+                    "price_text": "۵٫۹۹۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۵٫۹۹۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۳ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱۵ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "دنیای پارس تک",
+                    "shop_name2": "تهران",
+                    "shop_id": 16873,
+                    "prk": "a5ef3f48-64c3-44fb-a2f2-2818ec349026",
+                    "problem_report_type": "online",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a5ef3f48-64c3-44fb-a2f2-2818ec349026&is_adv=&btn=buy_city&shop_rank=193&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6500000,
+                    "price_text": "۶٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": false,
+                    "price_string": "۶٫۵۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": true,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۵۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۲۱ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "کرال فون",
+                    "shop_name2": "تهران",
+                    "shop_id": 8365,
+                    "prk": "a4f12c6e-a59b-465a-8daa-46bcac19bef3",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a4f12c6e-a59b-465a-8daa-46bcac19bef3&is_adv=&btn=buy_city&shop_rank=194&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 5500000,
+                    "price_text": "۵٫۵۰۰٫۰۰۰ تومان (قیمت نامعتبر)",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": true,
+                    "price_string": "۵٫۵۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اسلامشهر، تهران، رباط کریم، ری، قرچک، پاکدشت، کرج با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۹ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": true,
+                    "name1": "گوشی موبایل سامسونگ GALAXY A14 گیگابایت64 حافظه",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "مینی کالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 24154,
+                    "prk": "a4bb0c96-81e9-4607-8414-726f36334764",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a4bb0c96-81e9-4607-8414-726f36334764&is_adv=&btn=buy_city&shop_rank=195&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 6100000,
+                    "price_text": "۶٫۱۰۰٫۰۰۰ تومان (قیمت نامعتبر)",
+                    "price_text_striked": "",
+                    "price_text_mode": "active",
+                    "is_price_unreliable": true,
+                    "price_string": "۶٫۱۰۰٫۰۰۰ تومان",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "بازارگاه (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "بازارگاه",
+                            "summary": [
+                                "با توجه به اینکه مینی کالا از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": "۱ ماه و ۱۸ روز پیش",
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 4G با حافظهٔ داخلی 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی ۱۸ماهه‌ی شرکتی",
+                    "shop_name": "شتا۲۰",
+                    "shop_name2": "تهران",
+                    "shop_id": 24737,
+                    "prk": "66e11499-4fa9-4886-ba97-f5125aa5525e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=66e11499-4fa9-4886-ba97-f5125aa5525e&is_adv=&btn=buy_city&shop_rank=196&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۲۹۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۲۹۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل GALAXY A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت ا Samsung GALAXY A14 mobile phone with 64GB capacity and 4GB RAM",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بانینو",
+                    "shop_name2": "تهران",
+                    "shop_id": 6778,
+                    "prk": "ef5967c9-82bd-4a59-a79b-a9947c581e1a",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ef5967c9-82bd-4a59-a79b-a9947c581e1a&is_adv=&btn=buy_city&shop_rank=197&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۰۵٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۰۵٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "Samsung Galaxy A14 - 64GB - RAM 4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "شرکت مولتی کالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 19151,
+                    "prk": "77e3a93a-2a2f-47c0-9e2e-77d95900689f",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=77e3a93a-2a2f-47c0-9e2e-77d95900689f&is_adv=&btn=buy_city&shop_rank=198&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۴۵٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۴۵٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 با ظرفیت 64 و رم 4 گیگابایت (ارسال رایگان)",
+                    "name2": "رجیستر شده | رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "برسام گستر دانا",
+                    "shop_name2": "تهران",
+                    "shop_id": 18647,
+                    "prk": "5a9e471c-49e8-45c6-9262-44b8aff371db",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5a9e471c-49e8-45c6-9262-44b8aff371db&is_adv=&btn=buy_city&shop_rank=199&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۵۸٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۵۸٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۷۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "سامسونگ A14 SM-A145 P/DS ظرفیت 64GB و رم 4 گیگ رنگ مشکی",
+                    "name2": "رجیستر شده",
+                    "shop_name": "زرین همراه",
+                    "shop_name2": "تهران",
+                    "shop_id": 19622,
+                    "prk": "ff0b093d-42fa-4d25-a807-94f7d24b7a21",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ff0b093d-42fa-4d25-a807-94f7d24b7a21&is_adv=&btn=buy_city&shop_rank=200&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۶۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۶۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "سه نیک شرق",
+                    "shop_name2": "تهران",
+                    "shop_id": 48106,
+                    "prk": "6b72bff5-92bb-4104-98db-43c0e63b630f",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6b72bff5-92bb-4104-98db-43c0e63b630f&is_adv=&btn=buy_city&shop_rank=201&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۶۱٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۶۱٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ گلکسی ای ۱۴ رم ۴ حافظه ۶۴ ا Samsung Galaxy A14 4GB 64GB Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آداک",
+                    "shop_name2": "تهران",
+                    "shop_id": 543,
+                    "prk": "86afc831-a83d-4b51-bb0f-84027490e91b",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=86afc831-a83d-4b51-bb0f-84027490e91b&is_adv=&btn=buy_city&shop_rank=202&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۶۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۶۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "Mobile Samsung A14 (4GB 64GB 4G) China",
+                    "name2": "رجیستر شده | 18 ماه گارانتی آوات",
+                    "shop_name": "راکیانو",
+                    "shop_name2": "تهران",
+                    "shop_id": 39100,
+                    "prk": "7d4d2fd5-fb15-4a31-b4e2-4c86133d78c4",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=7d4d2fd5-fb15-4a31-b4e2-4c86133d78c4&is_adv=&btn=buy_city&shop_rank=203&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۷۴٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۷۴٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ - A14 - ظرفیت 64 گیگا بایت - رم 4 گیگابایت - مشکی - گارانتی اصلی 18 ماهه ا SAMSUNG GALAXY A14 - 64GB - RAM 4 GB - BLACK گارانتی 18 ماهه اصلی",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی یزد",
+                    "shop_name2": "یزد",
+                    "shop_id": 5284,
+                    "prk": "1173f8ae-8d5a-429e-a589-ebf82bc7d973",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1173f8ae-8d5a-429e-a589-ebf82bc7d973&is_adv=&btn=buy&shop_rank=204&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۷۵٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۷۵٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ Galaxy A14 ظرفیت 64 رم 4 ا Samsung Galaxy A14 phone capacity 64 RAM 4 GB",
+                    "name2": "رجیستر شده | ۱۸ ماه گارانتی شرکتی + تضمین رجیستری + ضمانت هفت روزه ایسل",
+                    "shop_name": "ایسل",
+                    "shop_name2": "تهران",
+                    "shop_id": 12787,
+                    "prk": "008a4664-a804-4670-baa3-6b77ca92d62f",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=008a4664-a804-4670-baa3-6b77ca92d62f&is_adv=&btn=buy_city&shop_rank=205&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۷۸٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۷۸٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ Galaxy A14 4G ظرفیت 64 رم 4 (ویتنام) ا Samsung Galaxy A14 4G phone capacity 64 RAM 4 GB",
+                    "name2": "رجیستر شده | ۱۸ ماه گارانتی شرکتی + تضمین رجیستری + ضمانت هفت روزه ایسل",
+                    "shop_name": "ایسل",
+                    "shop_name2": "تهران",
+                    "shop_id": 12787,
+                    "prk": "dd169e68-b029-4ff0-9c0f-dc6747956f50",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=dd169e68-b029-4ff0-9c0f-dc6747956f50&is_adv=&btn=buy_city&shop_rank=206&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۸۴٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۸۴٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبايل سامسونگ مدل A14 ظرفیت 64 گیگابایت رم 4 گیگ دو سیم کارت-اکسیر",
+                    "name2": "رجیستر شده | گارانتی ۱۸ ماهه اکسیر همراه + کد رجیستری",
+                    "shop_name": "ویترین دیجیتال",
+                    "shop_name2": "تهران",
+                    "shop_id": 6396,
+                    "prk": "d903431e-59ba-483b-bba2-ce8f1885a6b4",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d903431e-59ba-483b-bba2-ce8f1885a6b4&is_adv=&btn=buy_city&shop_rank=207&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۸۸٫۰۰۰ تومان)",
+                    "price_text_striked": "۵٫۳۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۸۸٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۳ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی +کد فعالسازی - چین",
+                    "shop_name": "گهرتک",
+                    "shop_name2": "سیرجان",
+                    "shop_id": 32336,
+                    "prk": "0b39d97d-eff2-480c-b92f-c9639e3482be",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0b39d97d-eff2-480c-b92f-c9639e3482be&is_adv=&btn=buy&shop_rank=208&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۹۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۹۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای سیرجان با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت چین",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ویهان همراه",
+                    "shop_name2": "پردیس",
+                    "shop_id": 18869,
+                    "prk": "a3b04eba-4815-4b75-8fe7-7c4481b6d202",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a3b04eba-4815-4b75-8fe7-7c4481b6d202&is_adv=&btn=buy&shop_rank=209&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۴٫۹۹۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۴٫۹۹۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای پردیس با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | ۱۸ ماهه داریا همراه پایتخت",
+                    "shop_name": "داریتو",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 14596,
+                    "prk": "993f3692-7f03-4e25-b7c8-9b8a30eaa056",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=993f3692-7f03-4e25-b7c8-9b8a30eaa056&is_adv=&btn=buy&shop_rank=210&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۰۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۰۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در اصفهان با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۷ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۷ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه - رجیستر شده",
+                    "shop_name": "موبایل 140",
+                    "shop_name2": "تهران",
+                    "shop_id": 9327,
+                    "prk": "457c098e-782a-42d4-aac0-d6c7c212d722",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=457c098e-782a-42d4-aac0-d6c7c212d722&is_adv=&btn=buy_city&shop_rank=211&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۲۲٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۲۲٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای کلیه خریدها",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود بیش از ۱۰۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G حافظه 64گیگابایت و رم 4 گیگابایت ا Galaxy A14 4G 64/4GB",
+                    "name2": "رجیستر شده",
+                    "shop_name": "صدرا لند",
+                    "shop_name2": "تهران",
+                    "shop_id": 22893,
+                    "prk": "b894dd77-4e16-410d-b65e-84d22b127f40",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b894dd77-4e16-410d-b65e-84d22b127f40&is_adv=&btn=buy_city&shop_rank=212&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۳۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۳۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.5,
+                        "score_text": "★۴.۵ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی رسمی به همراه کد رجیستری",
+                    "shop_name": "پیشروتل",
+                    "shop_name2": "تهران",
+                    "shop_id": 23977,
+                    "prk": "bb364909-dfc2-4511-bef0-fc1bc40ccd56",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=bb364909-dfc2-4511-bef0-fc1bc40ccd56&is_adv=&btn=buy_city&shop_rank=213&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۳۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۳۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۷ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۷ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "نزدیکه",
+                    "shop_name2": "تهران",
+                    "shop_id": 8649,
+                    "prk": "135eb9d4-94b5-4c15-bfdf-33221e14eaa8",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=135eb9d4-94b5-4c15-bfdf-33221e14eaa8&is_adv=&btn=buy_city&shop_rank=214&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۴۵٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۴۵٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64/4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی + کد رجیستری",
+                    "shop_name": "سورین همراه",
+                    "shop_name2": "تهران",
+                    "shop_id": 7207,
+                    "prk": "a1007a61-8ee2-4097-884b-579a9a47a919",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a1007a61-8ee2-4097-884b-579a9a47a919&is_adv=&btn=buy_city&shop_rank=215&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۴۷٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۴۷٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 با ظرفیت 64/4GB دو سیم کارت (چین)",
+                    "name2": "رجیستر شده | 18 ماه گارانتی داریا همراه پایتخت+کد رجیستری",
+                    "shop_name": "باغ کالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 8932,
+                    "prk": "b5157d2c-2ce9-4d70-abff-fa7dcb05a87e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b5157d2c-2ce9-4d70-abff-fa7dcb05a87e&is_adv=&btn=buy_city&shop_rank=216&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۴۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۴۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰۰ تا ۳۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ A14 حافظه64 رم4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "موبایل پدرام",
+                    "shop_name2": "شیراز",
+                    "shop_id": 25130,
+                    "prk": "f551991e-ed7f-477c-9800-6cbbc57c0766",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f551991e-ed7f-477c-9800-6cbbc57c0766&is_adv=&btn=buy&shop_rank=217&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۵۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۵۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "سامسونگ Samsung Galaxy A14 Ram4 64GB",
+                    "name2": "رجیستر شده | دارای 18 ماه گارانتی و کد رجیستری بر روی جعبه",
+                    "shop_name": "خانه موبایل",
+                    "shop_name2": "ورامین",
+                    "shop_id": 17363,
+                    "prk": "d6f63565-2314-479e-84eb-e0135a6883de",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d6f63565-2314-479e-84eb-e0135a6883de&is_adv=&btn=buy&shop_rank=218&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۵۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۵۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۱٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، شریف آباد، قرچک، ورامین، پاکدشت، پیشوا با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت با رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "آوند موبایل",
+                    "shop_name2": "تهران",
+                    "shop_id": 4866,
+                    "prk": "71812b3c-e2fe-4e88-be41-6c1ff55bf5d8",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=71812b3c-e2fe-4e88-be41-6c1ff55bf5d8&is_adv=&btn=buy_city&shop_rank=219&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۶۵٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۶۵٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۳ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "موبایلت باما",
+                    "shop_name2": "تهران",
+                    "shop_id": 31001,
+                    "prk": "88edad1e-1160-4f2f-9ef9-f0e0e822bdec",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=88edad1e-1160-4f2f-9ef9-f0e0e822bdec&is_adv=&btn=buy_city&shop_rank=220&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۶۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۶۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱۱ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و 4 گیگابایت رم ا Samsung Galaxy A14 Dual SIM 64GB 4GB Ram Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "مبیت",
+                    "shop_name2": "کرمان",
+                    "shop_id": 478,
+                    "prk": "9645abda-c8fb-445e-a0e8-6aae6010bb88",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9645abda-c8fb-445e-a0e8-6aae6010bb88&is_adv=&btn=buy&shop_rank=221&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۰۹۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۰۹۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران، کرمان با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرمان با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۵ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۵ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "سامسونگ Galaxy A14 ظرفیت 64 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "اترس همراه",
+                    "shop_name2": "تهران",
+                    "shop_id": 47565,
+                    "prk": "633aa08e-6910-44be-b74e-375f992cfb9f",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=633aa08e-6910-44be-b74e-375f992cfb9f&is_adv=&btn=buy_city&shop_rank=222&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۱۳۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۱۳۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "موبایلمون",
+                    "shop_name2": "مشهد",
+                    "shop_id": 28870,
+                    "prk": "b2c8e50d-dee8-4a61-b787-150ce06c4cfc",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b2c8e50d-dee8-4a61-b787-150ce06c4cfc&is_adv=&btn=buy&shop_rank=223&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۱۵۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۱۵۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۹ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل گلکسی A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی (داریا همراه, مدیاپردازش, رایانه همراه, هماتلکام و...)",
+                    "shop_name": "زودموبایل",
+                    "shop_name2": "تهران",
+                    "shop_id": 4037,
+                    "prk": "cc196510-8450-4e3d-828a-705c1eb91b4b",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=cc196510-8450-4e3d-828a-705c1eb91b4b&is_adv=&btn=buy_city&shop_rank=224&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۱۹۱٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۱۹۱٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، کرج با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ گلکسی A14 ظرفیت 64 رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "رساتل",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 17027,
+                    "prk": "fe02d6a1-0d52-49b5-8d5d-50a26d10bb1c",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=fe02d6a1-0d52-49b5-8d5d-50a26d10bb1c&is_adv=&btn=buy&shop_rank=225&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل گلکسی A14 رم 4 حافظه 64 (چین) ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آتاتل",
+                    "shop_name2": "مشهد",
+                    "shop_id": 54708,
+                    "prk": "254e81a4-820b-43f0-9ff3-6c10514d9361",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=254e81a4-820b-43f0-9ff3-6c10514d9361&is_adv=&btn=buy&shop_rank=226&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۳۶ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 با ظرفیت 64GB و رم 4 - نقره ای",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بانیکان",
+                    "shop_name2": "تهران",
+                    "shop_id": 13385,
+                    "prk": "2ac57aae-7c0c-4705-b050-886cc94d9e84",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=2ac57aae-7c0c-4705-b050-886cc94d9e84&is_adv=&btn=buy_city&shop_rank=227&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 با ظرفیت 64GB و رم 4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بانیکان",
+                    "shop_name2": "تهران",
+                    "shop_id": 13385,
+                    "prk": "8beb393e-7b98-4fca-a389-5ea2c3bc6c42",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8beb393e-7b98-4fca-a389-5ea2c3bc6c42&is_adv=&btn=buy_city&shop_rank=228&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت (پک عرب) ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | ۱۸ ماه گارانتی شرکتی رجیستر شده",
+                    "shop_name": "والاتل",
+                    "shop_name2": "تهران",
+                    "shop_id": 21685,
+                    "prk": "ad3fd170-00c5-4cae-b10e-ff27685ad3f6",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ad3fd170-00c5-4cae-b10e-ff27685ad3f6&is_adv=&btn=buy_city&shop_rank=229&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۱۲٫۰۰۰ تومان)",
+                    "price_text_striked": "۵٫۸۵۰٫۰۰۰ تومان",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۱۲٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 SM-A145P/DS دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - ویتنام",
+                    "name2": "رجیستر شده | 18 ماه گارانتی داریا همراه",
+                    "shop_name": "سازگار ارقام",
+                    "shop_name2": "تهران",
+                    "shop_id": 25218,
+                    "prk": "3c38f227-ecee-4d9d-b782-1e3b183ce8b6",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3c38f227-ecee-4d9d-b782-1e3b183ce8b6&is_adv=&btn=buy_city&shop_rank=230&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۱۵٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۱۵٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر شرکتی به همراه رجیستری",
+                    "shop_name": "کالاوما",
+                    "shop_name2": "تهران",
+                    "shop_id": 629,
+                    "prk": "e1699530-3672-42e9-b7d7-8b4b67abdf21",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e1699530-3672-42e9-b7d7-8b4b67abdf21&is_adv=&btn=buy_city&shop_rank=231&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۲۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۲۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ A14 ظرفیت 64GB رم 4GB",
+                    "name2": "رجیستر شده | 18 ماهه شرکتی و رجیستر شده",
+                    "shop_name": "کالامید",
+                    "shop_name2": "گرگان",
+                    "shop_id": 23636,
+                    "prk": "800d9bdb-a1ca-4d83-a41a-a5d2d3c34930",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=800d9bdb-a1ca-4d83-a41a-a5d2d3c34930&is_adv=&btn=buy&shop_rank=232&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۳۵٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۳۵٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت - رم 4 گیگابایت(رنگ مشکی و 12 ماه بیمه)",
+                    "name2": "رجیستر شده | تضمین اصالت کالا + گارانتی 18 ماهه شرکتی + همراه با کد رجیستری",
+                    "shop_name": "محصول چی",
+                    "shop_name2": "تهران",
+                    "shop_id": 29106,
+                    "prk": "74d07ec7-e0b5-49f6-a317-4d0519d47486",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=74d07ec7-e0b5-49f6-a317-4d0519d47486&is_adv=&btn=buy_city&shop_rank=233&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۵۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۵۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۰ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 با ظرفیت 64GB و رم 4 - مشکی",
+                    "name2": "رجیستر شده",
+                    "shop_name": "بانیکان",
+                    "shop_name2": "تهران",
+                    "shop_id": 13385,
+                    "prk": "48ec290a-d4a6-4bdc-bf31-ac0b9614c679",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=48ec290a-d4a6-4bdc-bf31-ac0b9614c679&is_adv=&btn=buy_city&shop_rank=234&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۶۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۶۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 با ظرفیت 64/4 گیگابایت دو سیم کارت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "123خرید",
+                    "shop_name2": "تهران",
+                    "shop_id": 38233,
+                    "prk": "cdc3f50b-9866-4db6-a90e-93f3e8628d85",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=cdc3f50b-9866-4db6-a90e-93f3e8628d85&is_adv=&btn=buy_city&shop_rank=235&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۲۸۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۲۸۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۶ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "Galaxy A14 4/64 ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی دکه",
+                    "shop_name2": "شیراز",
+                    "shop_id": 28721,
+                    "prk": "987f3a2f-a525-4a74-aa92-c223c5ce212c",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=987f3a2f-a525-4a74-aa92-c223c5ce212c&is_adv=&btn=buy&shop_rank=236&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۳۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۳۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل Samsung Galaxy A14 رام 4 گیگابایت و ظرفیت 64 گیگابایت",
+                    "name2": "رجیستر شده | 18ماهه شرکتی",
+                    "shop_name": "دیجیسنتر",
+                    "shop_name2": "تهران",
+                    "shop_id": 4650,
+                    "prk": "0e19d490-3457-4062-897e-8c05a86d0032",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0e19d490-3457-4062-897e-8c05a86d0032&is_adv=&btn=buy_city&shop_rank=237&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۴۱۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۴۱۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، ورامین، کرج با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "پخش گیل",
+                    "shop_name2": "گرگان",
+                    "shop_id": 49296,
+                    "prk": "916737dd-dc8d-4993-85a3-3f2d3ceb2ad1",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=916737dd-dc8d-4993-85a3-3f2d3ceb2ad1&is_adv=&btn=buy&shop_rank=238&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۴۳۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۴۳۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۷۶ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64/4 گیگابایت ا Samsung A14 Dual SIM 64GB, 4GB Ram Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی عمرانتل (ویتنام)",
+                    "shop_name": "ایکالاتو",
+                    "shop_name2": "تهران",
+                    "shop_id": 21478,
+                    "prk": "6029e131-26f0-476d-bbf7-00488b65dfb5",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6029e131-26f0-476d-bbf7-00488b65dfb5&is_adv=&btn=buy_city&shop_rank=239&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۴۹۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۴۹۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۹ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشي موبايل سامسونگ مدل Galaxy A14 دو سيم کارت ظرفيت 64 گيگابايت و رم 4 گيگابايت مشکي ساخت ويتنام",
+                    "name2": "رجیستر شده | شرکتي",
+                    "shop_name": "مدیسه",
+                    "shop_name2": "تهران",
+                    "shop_id": 41,
+                    "prk": "b736346f-1e75-472f-a406-2f0a2efcc108",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b736346f-1e75-472f-a406-2f0a2efcc108&is_adv=&btn=buy_city&shop_rank=240&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۵۵۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۵۵۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۴۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "موبایل سامسونگ A14 رم4 حافظه 64گیگ مشکی ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ریزپردازنده",
+                    "shop_name2": "دزفول",
+                    "shop_id": 18027,
+                    "prk": "b29bc651-1f61-4860-9df4-49c649f21f5e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b29bc651-1f61-4860-9df4-49c649f21f5e&is_adv=&btn=buy&shop_rank=241&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۵۹۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۵۹۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای دزفول با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۳۶ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ - A14 - ظرفیت 64 گیگا بایت - رم 4 گیگابایت - سیلور ا SAMSUNG GALAXY A14 - 64GB - RAM 4 GB - SILVER",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی یزد",
+                    "shop_name2": "یزد",
+                    "shop_id": 5284,
+                    "prk": "20c578a2-9fcc-42dd-8420-68361104cb4e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=20c578a2-9fcc-42dd-8420-68361104cb4e&is_adv=&btn=buy&shop_rank=242&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۶۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۶۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ مدل Samsung Galaxy A14 با ظرفیت ۶۴GB و رم ۴ گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "فارس بازار",
+                    "shop_name2": "تهران",
+                    "shop_id": 18501,
+                    "prk": "3238a889-1a2d-499f-a5d7-86b546eb3282",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3238a889-1a2d-499f-a5d7-86b546eb3282&is_adv=&btn=buy_city&shop_rank=243&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۶۲۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۶۲۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "Samsung Galaxy A14 - 64/4",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی + تضمین رجیستری",
+                    "shop_name": "بازار موبایل دارابیـ",
+                    "shop_name2": "داراب",
+                    "shop_id": 18370,
+                    "prk": "a427337c-ba3f-4e41-b439-98bd6408c13a",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a427337c-ba3f-4e41-b439-98bd6408c13a&is_adv=&btn=buy&shop_rank=244&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۶۵۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۶۵۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در داراب با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای داراب با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۷ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۷ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ GALAXY A14 ظرفیت 64/GB 4GB RAM رنگ مشکی",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سامسونگ چی",
+                    "shop_name2": "تهران",
+                    "shop_id": 16664,
+                    "prk": "d30c6f70-64c6-436f-a0d3-436dff134903",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d30c6f70-64c6-436f-a0d3-436dff134903&is_adv=&btn=buy_city&shop_rank=245&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۶۹۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۶۹۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ SAMSUNG GALAXY A14 SM-A145F/DSN دوسیم حافظه 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "پرسام",
+                    "shop_name2": "تهران",
+                    "shop_id": 26447,
+                    "prk": "78b4e7b3-184f-4f57-94f3-51c437c804d6",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=78b4e7b3-184f-4f57-94f3-51c437c804d6&is_adv=&btn=buy_city&shop_rank=246&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۷۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۷۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت- ویتنام",
+                    "name2": "رجیستر شده | 18 ماه گارانتی کیان همراه",
+                    "shop_name": "تل اسمارت دات آی آر",
+                    "shop_name2": "دزفول",
+                    "shop_id": 45851,
+                    "prk": "a85d9b48-4f49-43f4-b71d-8b9993de3e7e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a85d9b48-4f49-43f4-b71d-8b9993de3e7e&is_adv=&btn=buy&shop_rank=247&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۷۱۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۷۱۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در اندیمشک، دزفول با هماهنگی",
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۳۵۰٫۰۰۰ تومان",
+                        "same_day_delivery": "امکان تحویل در همان روز برای اندیمشک، اهواز، دزفول، شوش، شوشتر، لالی، گتوند با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": "امکان ارسال رایگان در روش ارسال فوری فراهم نیست",
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - ویتنام",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر شرکتی به همراه رجیستری",
+                    "shop_name": "کالاوما",
+                    "shop_name2": "تهران",
+                    "shop_id": 629,
+                    "prk": "64adbc8f-635e-4955-b714-b8ad723745a1",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=64adbc8f-635e-4955-b714-b8ad723745a1&is_adv=&btn=buy_city&shop_rank=248&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۷۱۰٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۷۱۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "Samsung Galaxy A14 - 64/4 - Vietnam pack",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی + تضمین رجیستری",
+                    "shop_name": "بازار موبایل دارابیـ",
+                    "shop_name2": "داراب",
+                    "shop_id": 18370,
+                    "prk": "8aa5ab8e-3260-47e3-af61-3fd777a30732",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8aa5ab8e-3260-47e3-af61-3fd777a30732&is_adv=&btn=buy&shop_rank=249&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۷۵۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۷۵۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در داراب با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای داراب با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۷ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۷ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "موبایل Samsung Galaxy A14 – 64GB – RAM 4 - Green / رجیستر شده به همراه کد فعال سازی / ویتنام ا Samsung Galaxy A14 – 64GB – RAM 4",
+                    "name2": "رجیستر شده | ضمانت اصالت کالا",
+                    "shop_name": "دامبوموبایل",
+                    "shop_name2": "فردیس",
+                    "shop_id": 55154,
+                    "prk": "4b787533-c0ff-4123-a14d-79a3dcb46ff8",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4b787533-c0ff-4123-a14d-79a3dcb46ff8&is_adv=&btn=buy&shop_rank=250&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۶٫۲۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "۶٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۶٫۲۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، شهریار، فردیس، کرج با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۳۶ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ویتنام و چین ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی ـآرکا تجارت بیستون",
+                    "shop_name": "موبایل پایتخت جویبار",
+                    "shop_name2": "جویبار",
+                    "shop_id": 47416,
+                    "prk": "e1d24759-f625-45e2-874c-d38c55755dfa",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e1d24759-f625-45e2-874c-d38c55755dfa&is_adv=&btn=buy&shop_rank=251&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۶٫۴۰۰٫۰۰۰ تومان)",
+                    "price_text_striked": "۶٫۷۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۶٫۴۰۰٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای بابل، بابلسر، جویبار، ساری، قائم شهر با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۷۱ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 128/64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ای دی جی مارکت",
+                    "shop_name2": "شیراز",
+                    "shop_id": 2792,
+                    "prk": "a76d01a3-a40a-4f6d-b81c-84f33d120019",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a76d01a3-a40a-4f6d-b81c-84f33d120019&is_adv=&btn=buy&shop_rank=252&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۸٫۰۴۹٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۸٫۰۴۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۳ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Samsung A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص | شرکت داریا همراه پایتخت",
+                    "shop_name": "پنجره دات کام",
+                    "shop_name2": "بندرعباس",
+                    "shop_id": 51763,
+                    "prk": "5129475f-2eea-465b-868c-ce8978498aee",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5129475f-2eea-465b-868c-ce8978498aee&is_adv=&btn=buy&shop_rank=253&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۱۱۲٫۰۰۰ تومان)",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۱۱۲٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای خریدهای بالای ۲٫۰۰۰٫۰۰۰ تومان",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۵۴ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "A14 64GB RAM 4GB",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "نوآوران شرق",
+                    "shop_name2": "مشهد",
+                    "shop_id": 9904,
+                    "prk": "2a4eef44-e02c-4729-a100-51f4551d32f8",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=2a4eef44-e02c-4729-a100-51f4551d32f8&is_adv=&btn=buy&shop_rank=254&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود (۵٫۱۹۹٫۰۰۰ تومان)",
+                    "price_text_striked": "۵٫۶۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود (۵٫۱۹۹٫۰۰۰ تومان)",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشي موبايل سامسونگ مدل Galaxy A14 دو سيم کارت ظرفيت 64 گيگابايت و رم 4 گيگابايت نقره اي",
+                    "name2": "رجیستر شده | شرکتي",
+                    "shop_name": "مدیسه",
+                    "shop_name2": "تهران",
+                    "shop_id": 41,
+                    "prk": "1c806b27-e96a-4a4e-97f0-6771e2ddc006",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1c806b27-e96a-4a4e-97f0-6771e2ddc006&is_adv=&btn=buy_city&shop_rank=255&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 4/64 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آلتون تِک",
+                    "shop_name2": "گنبدکاووس",
+                    "shop_id": 31264,
+                    "prk": "d072eb33-e8d1-46e4-8944-fc2929d9b177",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d072eb33-e8d1-46e4-8944-fc2929d9b177&is_adv=&btn=buy&shop_rank=256&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای گنبدکاووس با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۹ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشي موبايل سامسونگ مدل Galaxy A14 دو سيم کارت ظرفيت 64 گيگابايت و رم 4 گيگابايت مشکي",
+                    "name2": "رجیستر شده | شرکتي",
+                    "shop_name": "مدیسه",
+                    "shop_name2": "تهران",
+                    "shop_id": 41,
+                    "prk": "4153c72f-526d-4665-8779-868c5be29ad3",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4153c72f-526d-4665-8779-868c5be29ad3&is_adv=&btn=buy_city&shop_rank=257&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "رونیک",
+                    "shop_name2": "تهران",
+                    "shop_id": 26528,
+                    "prk": "ad55a627-9ebb-4790-9aa8-91603d14e83b",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ad55a627-9ebb-4790-9aa8-91603d14e83b&is_adv=&btn=buy_city&shop_rank=258&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل SAMSUNG Galaxy A14 4G 64/4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "گجت تاپ",
+                    "shop_name2": "تهران",
+                    "shop_id": 6824,
+                    "prk": "8b89c2df-97db-43b5-b875-abdfd9123b85",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8b89c2df-97db-43b5-b875-abdfd9123b85&is_adv=&btn=buy_city&shop_rank=259&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل A14 ظرفیت 64 گیگابایت با رم 4 گیگابایت",
+                    "name2": "رجیستر شده | ✅18 ماه گارانتی شرکتی✅",
+                    "shop_name": "موبایل بازار",
+                    "shop_name2": "تهران",
+                    "shop_id": 9752,
+                    "prk": "64e0f009-a31a-42d0-b0d3-20d5f21ba98e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=64e0f009-a31a-42d0-b0d3-20d5f21ba98e&is_adv=&btn=buy_city&shop_rank=260&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت (ویتنام)",
+                    "name2": "رجیستر شده",
+                    "shop_name": "موبایلمون",
+                    "shop_name2": "مشهد",
+                    "shop_id": 28870,
+                    "prk": "6f627d67-68f6-4ebe-896b-7c9e72a79f4a",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6f627d67-68f6-4ebe-896b-7c9e72a79f4a&is_adv=&btn=buy&shop_rank=261&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۹ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 ظرفیت 64/4 گیگابایت دو سیم کارت (ویتنام)",
+                    "name2": "رجیستر شده",
+                    "shop_name": "123خرید",
+                    "shop_name2": "تهران",
+                    "shop_id": 38233,
+                    "prk": "2ab3570c-8bfa-4095-9ad8-b033ba03fd30",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=2ab3570c-8bfa-4095-9ad8-b033ba03fd30&is_adv=&btn=buy_city&shop_rank=262&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۶ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | رجیستر شده و 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "سوین تل",
+                    "shop_name2": "تهران",
+                    "shop_id": 10124,
+                    "prk": "09672d87-cc61-426a-99e7-fb796808d5c0",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=09672d87-cc61-426a-99e7-fb796808d5c0&is_adv=&btn=buy_city&shop_rank=263&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - مشکی (Black), رجیستر شده و 18 ماه گارانتی معتبر شرکتی",
+                    "name2": "رجیستر شده | رجیستر شده و 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "سوین تل",
+                    "shop_name2": "تهران",
+                    "shop_id": 10124,
+                    "prk": "c3470849-25e1-4fb9-8488-109a4a69f892",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c3470849-25e1-4fb9-8488-109a4a69f892&is_adv=&btn=buy_city&shop_rank=264&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - نقره ای (Silver), رجیستر شده و 18 ماه گارانتی معتبر شرکتی",
+                    "name2": "رجیستر شده | رجیستر شده و 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "سوین تل",
+                    "shop_name2": "تهران",
+                    "shop_id": 10124,
+                    "prk": "186cbcfb-690b-4165-b9c4-e2f2b8f77d38",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=186cbcfb-690b-4165-b9c4-e2f2b8f77d38&is_adv=&btn=buy_city&shop_rank=265&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G ظرفیت 64 گیگابایت رم 4 گیگابایت ا Samsung Galaxy A14 64/4GB",
+                    "name2": "رجیستر شده",
+                    "shop_name": "الو گوشی",
+                    "shop_name2": "تهران",
+                    "shop_id": 20493,
+                    "prk": "24879be0-e873-4c89-980a-9e8b491b3f2e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=24879be0-e873-4c89-980a-9e8b491b3f2e&is_adv=&btn=buy_city&shop_rank=266&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64/4 گیگابایت دو سیم کارت (ساخت ویتنام) ا Samsung A14 Dual SIM 64GB, 4GB Ram Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی مایکروتل",
+                    "shop_name": " اهوازتل",
+                    "shop_name2": "اهواز",
+                    "shop_id": 29634,
+                    "prk": "33810484-24a3-409a-8089-2f2b14d35dd4",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=33810484-24a3-409a-8089-2f2b14d35dd4&is_adv=&btn=buy&shop_rank=267&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اهواز با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "Mobile Samsung A14 (4GB 64GB 4G) Vietnam",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "راکیانو",
+                    "shop_name2": "تهران",
+                    "shop_id": 39100,
+                    "prk": "5005ba1c-2b11-4b64-94f1-6aaebc2603fc",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5005ba1c-2b11-4b64-94f1-6aaebc2603fc&is_adv=&btn=buy_city&shop_rank=268&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۵ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۵ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگ و رم 4 گیگ ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile",
+                    "name2": "رجیستر شده",
+                    "shop_name": "نیکوتل",
+                    "shop_name2": "تهران",
+                    "shop_id": 45448,
+                    "prk": "68b258bd-b75a-45fa-9c44-318cb5f86cde",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=68b258bd-b75a-45fa-9c44-318cb5f86cde&is_adv=&btn=buy_city&shop_rank=269&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۷۷ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "سامسونگ A14 با ظرفیت 64 گیگ",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "آترامارکت",
+                    "shop_name2": "تهران",
+                    "shop_id": 6020,
+                    "prk": "660be6fc-5f50-4e94-8fda-cb52f6f716bc",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=660be6fc-5f50-4e94-8fda-cb52f6f716bc&is_adv=&btn=buy_city&shop_rank=270&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشي موبايل سامسونگ مدل Galaxy A14 دو سيم کارت ظرفيت 64 گيگابايت و رم 4 گيگابايت سبز",
+                    "name2": "رجیستر شده | شرکتي",
+                    "shop_name": "مدیسه",
+                    "shop_name2": "تهران",
+                    "shop_id": 41,
+                    "prk": "aa40acd4-7dea-47c1-86a8-bbfe2df186ac",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=aa40acd4-7dea-47c1-86a8-bbfe2df186ac&is_adv=&btn=buy_city&shop_rank=271&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ A14 باظرفیت 64 گیابایت و 4 گیگابایت رم",
+                    "name2": "رجیستر شده",
+                    "shop_name": "فراکو",
+                    "shop_name2": "تهران",
+                    "shop_id": 18131,
+                    "prk": "96e412fb-6080-4d37-ab6d-7a1a3db0468f",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=96e412fb-6080-4d37-ab6d-7a1a3db0468f&is_adv=&btn=buy_city&shop_rank=272&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 4G دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت (پک ویتنام)",
+                    "name2": "رجیستر شده | 18 ماه گارانتی معتبر شرکتی",
+                    "shop_name": "رونیک",
+                    "shop_name2": "تهران",
+                    "shop_id": 26528,
+                    "prk": "6a53f0ae-4930-47c9-8f8d-f4e2cda08faa",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=6a53f0ae-4930-47c9-8f8d-f4e2cda08faa&is_adv=&btn=buy_city&shop_rank=273&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگ و رم 4 گیگ - ویتنام ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile - vietnam",
+                    "name2": "رجیستر شده",
+                    "shop_name": "نیکوتل",
+                    "shop_name2": "تهران",
+                    "shop_id": 45448,
+                    "prk": "20fe241b-2206-476f-bcf9-b7e4d7bbc741",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=20fe241b-2206-476f-bcf9-b7e4d7bbc741&is_adv=&btn=buy_city&shop_rank=274&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۷۷ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ مدل A14 با ظرفیت64 گیگابایت رام 4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آونگ موبایل",
+                    "shop_name2": "دلفان",
+                    "shop_id": 25434,
+                    "prk": "02439f01-b893-44a0-b6fc-026b3ec5c44f",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=02439f01-b893-44a0-b6fc-026b3ec5c44f&is_adv=&btn=buy&shop_rank=275&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "۷٫۴۹۹٫۰۰۰ تومان",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در دلفان با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای خرم آباد، خرم آباد، دلفان، نهاوند، هرسین، کرمانشاه با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی Samsung Galaxy A14 ظرفیت 64 گیگابایت مقدار رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "حامیران همراه",
+                    "shop_name2": "تهران",
+                    "shop_id": 12320,
+                    "prk": "0e3ccf1b-3769-4c9b-acaf-fe9126daa336",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0e3ccf1b-3769-4c9b-acaf-fe9126daa336&is_adv=&btn=buy_city&shop_rank=276&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 با ظرفیت 64/4GB دو سیم کارت -ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "این چند",
+                    "shop_name2": "تهران",
+                    "shop_id": 1337,
+                    "prk": "a26a0cb6-7d64-4bfa-97ae-2ae59b92d618",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a26a0cb6-7d64-4bfa-97ae-2ae59b92d618&is_adv=&btn=buy_city&shop_rank=277&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "بازارگاه (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "بازارگاه",
+                            "summary": [
+                                "با توجه به اینکه این چند از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ مدل Galaxy A14 با ظرفیت 64/4GB دو سیم کارت - چین",
+                    "name2": "رجیستر شده",
+                    "shop_name": "این چند",
+                    "shop_name2": "تهران",
+                    "shop_id": 1337,
+                    "prk": "88452b2e-ab4a-4326-ba1b-312ff382f54e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=88452b2e-ab4a-4326-ba1b-312ff382f54e&is_adv=&btn=buy_city&shop_rank=278&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "بازارگاه (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "بازارگاه",
+                            "summary": [
+                                "با توجه به اینکه این چند از چندین فروشنده مختلف تشکیل شده است، محاسبه امتیاز برای کل مجموعه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "پویش کالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 4799,
+                    "prk": "1c089271-2af1-4044-aa22-20277fc3f02e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1c089271-2af1-4044-aa22-20277fc3f02e&is_adv=&btn=buy_city&shop_rank=279&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18ماهه شرکتی",
+                    "shop_name": "بامن همراه",
+                    "shop_name2": "قم",
+                    "shop_id": 44521,
+                    "prk": "ce2f3078-35f1-4aee-b3db-59b18d270f01",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ce2f3078-35f1-4aee-b3db-59b18d270f01&is_adv=&btn=buy&shop_rank=280&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در قم با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵ تا ۱۰ سفارش در ۶۵ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت ویتنام",
+                    "name2": "رجیستر شده | گارانتی ۱۸ ماهه شرکتی",
+                    "shop_name": "کالالوژی",
+                    "shop_name2": "تهران",
+                    "shop_id": 23487,
+                    "prk": "3f6f551c-70c1-4098-8ce4-9672846d7f6a",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=3f6f551c-70c1-4098-8ce4-9672846d7f6a&is_adv=&btn=buy_city&shop_rank=281&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۹ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۹ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "سامسونگ Galaxy A14 ظرفیت 64/4 گیگ",
+                    "name2": "رجیستر شده | 18ماه گارانتی رسمی + رجیستر شده",
+                    "shop_name": "پیشروهمراه ارم",
+                    "shop_name2": "تهران",
+                    "shop_id": 17392,
+                    "prk": "f96f1bc6-a86b-4595-ab53-82910641905b",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f96f1bc6-a86b-4595-ab53-82910641905b&is_adv=&btn=buy_city&shop_rank=282&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی به همراه تضمین رجیستری",
+                    "shop_name": "پیشرو موبایل",
+                    "shop_name2": "کرج",
+                    "shop_id": 27841,
+                    "prk": "2f172f13-d6cd-46cd-ad0f-aa87b46743e6",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=2f172f13-d6cd-46cd-ad0f-aa87b46743e6&is_adv=&btn=buy_city&shop_rank=283&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای کرج با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ا ورود/ثبت نام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سریرکالا",
+                    "shop_name2": "تهران",
+                    "shop_id": 3929,
+                    "prk": "b67460d6-77bc-43fd-9815-34b59466621d",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b67460d6-77bc-43fd-9815-34b59466621d&is_adv=&btn=buy_city&shop_rank=284&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "کامپیوتر سورس",
+                    "shop_name2": "شیراز",
+                    "shop_id": 3503,
+                    "prk": "4272da80-23b7-482a-883f-5feea3c636d5",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4272da80-23b7-482a-883f-5feea3c636d5&is_adv=&btn=buy&shop_rank=285&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای شیراز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 رنگ قرمز - Dark Red گارانتی ۱۸ ماهه رسمی شرکتی حافظه ۶۴ گیگابایت با رم ۴ گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "برتر دیجیتال",
+                    "shop_name2": "تبریز",
+                    "shop_id": 955,
+                    "prk": "b41d4551-d4e2-4fb8-85f3-2b2a0a0ab59f",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b41d4551-d4e2-4fb8-85f3-2b2a0a0ab59f&is_adv=&btn=buy&shop_rank=286&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشي موبايل سامسونگ مدل Galaxy A14 دو سيم کارت ظرفيت 64 گيگابايت و رم 4 گيگابايت سبز ساخت ويتنام",
+                    "name2": "رجیستر شده | شرکتي",
+                    "shop_name": "مدیسه",
+                    "shop_name2": "تهران",
+                    "shop_id": 41,
+                    "prk": "d5752611-03ac-4d80-abe2-1cc01e41d1de",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d5752611-03ac-4d80-abe2-1cc01e41d1de&is_adv=&btn=buy_city&shop_rank=287&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ GALAXY A14 ظرفیت 64/GB 4GB RAM رنگ نقره‌ای - ساخت هند",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سامسونگ چی",
+                    "shop_name2": "تهران",
+                    "shop_id": 16664,
+                    "prk": "1051da7e-33a9-4adc-abfb-6f9cc63e4682",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1051da7e-33a9-4adc-abfb-6f9cc63e4682&is_adv=&btn=buy_city&shop_rank=288&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "قیمت و خرید گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "گوشیاتو",
+                    "shop_name2": "تهران",
+                    "shop_id": 14470,
+                    "prk": "8a560674-cd41-41b2-b712-70de98674b39",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8a560674-cd41-41b2-b712-70de98674b39&is_adv=&btn=buy_city&shop_rank=289&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست سفارشی"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت گلوبال",
+                    "name2": "رجیستر شده",
+                    "shop_name": "کامتل شاپ",
+                    "shop_name2": "تهران",
+                    "shop_id": 12924,
+                    "prk": "c3f47ad9-71c1-429e-bb7f-a80afc9e74db",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c3f47ad9-71c1-429e-bb7f-a80afc9e74db&is_adv=&btn=buy_city&shop_rank=290&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 با حافظه 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "فونر",
+                    "shop_name2": "تهران",
+                    "shop_id": 1791,
+                    "prk": "584fd876-d9a7-4956-9031-272b4ef592ca",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=584fd876-d9a7-4956-9031-272b4ef592ca&is_adv=&btn=buy_city&shop_rank=291&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 با ظرفیت 64 گیگابایت رم 4",
+                    "name2": "رجیستر شده",
+                    "shop_name": "پارس نوین مدیا",
+                    "shop_name2": "تهران",
+                    "shop_id": 11732,
+                    "prk": "27a4c201-2975-4182-907d-9249f05af4be",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=27a4c201-2975-4182-907d-9249f05af4be&is_adv=&btn=buy_city&shop_rank=292&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": "امکان ارسال رایگان برای کلیه خریدها",
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست سفارشی",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "موبایل سامسونگ A14 رم4 حافظه 64گیگ نقره ای ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ریزپردازنده",
+                    "shop_name2": "دزفول",
+                    "shop_id": 18027,
+                    "prk": "ed01d5a4-5010-4072-b43e-e776923fbe91",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ed01d5a4-5010-4072-b43e-e776923fbe91&is_adv=&btn=buy&shop_rank=293&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای دزفول با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۳۶ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ GALAXY A14 ظرفیت 64/GB 4GB RAM رنگ نقره‌ای - ساخت ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سامسونگ چی",
+                    "shop_name2": "تهران",
+                    "shop_id": 16664,
+                    "prk": "319252d1-cf2e-498d-9885-35db97c3adf2",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=319252d1-cf2e-498d-9885-35db97c3adf2&is_adv=&btn=buy_city&shop_rank=294&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشي موبايل سامسونگ مدل Galaxy A14 دو سيم کارت ظرفيت 64 گيگابايت و رم 4 گيگابايت نقره اي ساخت ويتنام",
+                    "name2": "رجیستر شده | شرکتي",
+                    "shop_name": "مدیسه",
+                    "shop_name2": "تهران",
+                    "shop_id": 41,
+                    "prk": "e811285c-2091-45e7-a93e-507605456d96",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e811285c-2091-45e7-a93e-507605456d96&is_adv=&btn=buy_city&shop_rank=295&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "ویمکولایف",
+                    "shop_name2": "تهران",
+                    "shop_id": 26198,
+                    "prk": "08ee5f3a-612c-469b-9fbf-5e7e096299e4",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=08ee5f3a-612c-469b-9fbf-5e7e096299e4&is_adv=&btn=buy_city&shop_rank=296&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل گلکسی A14 رم 4 حافظه 64 (هند)",
+                    "name2": "رجیستر شده",
+                    "shop_name": "آتاتل",
+                    "shop_name2": "مشهد",
+                    "shop_id": 54708,
+                    "prk": "017de578-6e64-4808-a330-59eeece505c2",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=017de578-6e64-4808-a330-59eeece505c2&is_adv=&btn=buy&shop_rank=297&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای مشهد با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۳۶ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "گلد مموری",
+                    "shop_name2": "تهران",
+                    "shop_id": 18458,
+                    "prk": "d61372b6-60ed-4848-b1da-ff443742aef1",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=d61372b6-60ed-4848-b1da-ff443742aef1&is_adv=&btn=buy_city&shop_rank=298&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ Galaxy A14 4G با حافظهٔ داخلی 64 گیگابایت و رم 4 گیگابایت (پک چین) ا Samsung Galaxy A14 4G Dual Sim 64GB Internal Memory and 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده | گارانتی ۱۸ماهه‌ی شرکتی",
+                    "shop_name": "کاژول",
+                    "shop_name2": "تهران",
+                    "shop_id": 39295,
+                    "prk": "407d2ac5-789a-46ed-aff3-b46aa8437d48",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=407d2ac5-789a-46ed-aff3-b46aa8437d48&is_adv=&btn=buy_city&shop_rank=299&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ GALAXY A14 ظرفیت 64/GB 4GB RAM رنگ سبز - ساخت هند",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سامسونگ چی",
+                    "shop_name2": "تهران",
+                    "shop_id": 16664,
+                    "prk": "bc6292b0-e742-487c-8011-e35b308ec77e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=bc6292b0-e742-487c-8011-e35b308ec77e&is_adv=&btn=buy_city&shop_rank=300&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ GALAXY A14 ظرفیت 64/GB 4GB RAM رنگ سبز - ساخت ویتنام",
+                    "name2": "رجیستر شده",
+                    "shop_name": "سامسونگ چی",
+                    "shop_name2": "تهران",
+                    "shop_id": 16664,
+                    "prk": "52759ae8-e834-4fdf-b836-dbd855234980",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=52759ae8-e834-4fdf-b836-dbd855234980&is_adv=&btn=buy_city&shop_rank=301&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل a14 سامسونگ حافظه 64 و رام 4 گیگ",
+                    "name2": "رجیستر شده",
+                    "shop_name": "گیمیلو",
+                    "shop_name2": "فردیس",
+                    "shop_id": 1345,
+                    "prk": "1a7a66d1-4fb7-48d9-abe3-4c562871552f",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1a7a66d1-4fb7-48d9-abe3-4c562871552f&is_adv=&btn=buy&shop_rank=302&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "۶٫۵۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۴ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۲۰۰ تا ۳۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "رجیستر شده | ⭕ گارانتی 18 ماهه شرکتی ⭕",
+                    "shop_name": "موبایل تندیس",
+                    "shop_name2": "تهران",
+                    "shop_id": 12247,
+                    "prk": "7fad3dcd-051e-492b-b118-3308f8f83c12",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=7fad3dcd-051e-492b-b118-3308f8f83c12&is_adv=&btn=buy_city&shop_rank=303&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "رجیستر شده",
+                    "shop_name": "جانب خان",
+                    "shop_name2": "بوئین زهرا",
+                    "shop_id": 40928,
+                    "prk": "4ea09613-df8e-4582-ba80-50e5c97ec3d5",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4ea09613-df8e-4582-ba80-50e5c97ec3d5&is_adv=&btn=buy&shop_rank=304&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۷ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۷ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "Galaxy A14 حافظه 64 گیگابایت و رام 4 گیگابایت گوشی موبایل سامسونگ",
+                    "name2": "رجیستر شده | 18 ماه گارانتی+دارای کد فعالسازی(کد رجیستری)+پلمپ و اکبند",
+                    "shop_name": "شاکر موبایل",
+                    "shop_name2": "مسجدسلیمان",
+                    "shop_id": 28990,
+                    "prk": "5952a5cc-44e6-4bf3-8c96-cc3cf1a74244",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5952a5cc-44e6-4bf3-8c96-cc3cf1a74244&is_adv=&btn=buy&shop_rank=305&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اهواز، دزفول، شوشتر، مسجدسلیمان با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱۱ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبايل سامسونگ مدل A14 ظرفیت 64 گیگابایت رم 4 گیگ دو سیم کارت",
+                    "name2": "رجیستر شده",
+                    "shop_name": "ویترین دیجیتال",
+                    "shop_name2": "تهران",
+                    "shop_id": 6396,
+                    "prk": "063f3b17-257b-4e8f-a6e8-680430c72c7c",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=063f3b17-257b-4e8f-a6e8-680430c72c7c&is_adv=&btn=buy_city&shop_rank=306&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "۷٫۰۰۰٫۰۰۰ تومان",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۳ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۳ سال در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰۰ تا ۲۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ - A14 - ظرفیت 64 گیگا بایت - رم 4 گیگابایت - سبز ا SAMSUNG GALAXY A14 - 64GB - RAM 4GB - GREEN",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی یزد",
+                    "shop_name2": "یزد",
+                    "shop_id": 5284,
+                    "prk": "1b3c9c2a-553d-4216-b38d-3f0fd14afd4e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1b3c9c2a-553d-4216-b38d-3f0fd14afd4e&is_adv=&btn=buy&shop_rank=307&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14دو سیم کارت ظرفیت 64/4 گیگابایت",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی با کد رجیستری",
+                    "shop_name": "دیجی‌چی",
+                    "shop_name2": "تهران",
+                    "shop_id": 9208,
+                    "prk": "76d148db-33e7-4f6c-bc6e-6169666d5a8c",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=76d148db-33e7-4f6c-bc6e-6169666d5a8c&is_adv=&btn=buy_city&shop_rank=308&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ - A14 - ظرفیت 64 گیگا بایت - رم 4 گیگابایت - قرمز ا SAMSUNG GALAXY A14 - 64GB - RAM 4GB - RED",
+                    "name2": "رجیستر شده",
+                    "shop_name": "دیجی یزد",
+                    "shop_name2": "یزد",
+                    "shop_id": 5284,
+                    "prk": "759e50d1-500a-4cf0-bbee-a5c8b7c6b959",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=759e50d1-500a-4cf0-bbee-a5c8b7c6b959&is_adv=&btn=buy&shop_rank=309&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 4.8,
+                        "score_text": "★۴.۸ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۸ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۴ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - مشکی",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "انارینو",
+                    "shop_name2": "بوشهر",
+                    "shop_id": 34461,
+                    "prk": "0b9dd213-f450-4ba7-bee5-f7f4b31d5386",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=0b9dd213-f450-4ba7-bee5-f7f4b31d5386&is_adv=&btn=buy&shop_rank=310&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در بوشهر با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای بوشهر با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۸ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - سبز روشن",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی",
+                    "shop_name": "انارینو",
+                    "shop_name2": "بوشهر",
+                    "shop_id": 34461,
+                    "prk": "b222d2a9-f946-4461-9caf-b06a9ac90800",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b222d2a9-f946-4461-9caf-b06a9ac90800&is_adv=&btn=buy&shop_rank=311&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در بوشهر با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای بوشهر با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۸ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - مشکی (ویتنام)",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی, ویتنام",
+                    "shop_name": "انارینو",
+                    "shop_name2": "بوشهر",
+                    "shop_id": 34461,
+                    "prk": "abf813ea-ea5a-4544-a485-aefc88ce5b44",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=abf813ea-ea5a-4544-a485-aefc88ce5b44&is_adv=&btn=buy&shop_rank=312&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در بوشهر با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای بوشهر با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۸ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - سبز روشن (ویتنام)",
+                    "name2": "رجیستر شده | 18 ماه گارانتی شرکتی, ویتنام",
+                    "shop_name": "انارینو",
+                    "shop_name2": "بوشهر",
+                    "shop_id": 34461,
+                    "prk": "9a39b764-5eb0-4aff-8896-86f5fa621557",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9a39b764-5eb0-4aff-8896-86f5fa621557&is_adv=&btn=buy&shop_rank=313&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در بوشهر با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای بوشهر با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۸ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۳۸ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت (مشکی)",
+                    "name2": "رجیستر شده | گارانتی 18 ماهه شرکتی",
+                    "shop_name": "کارزین تل",
+                    "shop_name2": "تهران",
+                    "shop_id": 12260,
+                    "prk": "b1454a5b-a560-492e-bebc-285e54a280fe",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b1454a5b-a560-492e-bebc-285e54a280fe&is_adv=&btn=buy_city&shop_rank=314&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.5,
+                        "score_text": "★۴.۵ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۵ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - مشکی (ویتنام)",
+                    "name2": "رجیستر شده | ضمانت اورجینال بودن",
+                    "shop_name": "جانبی با ما",
+                    "shop_name2": "یزد",
+                    "shop_id": 48251,
+                    "prk": "e497bd20-e4e9-4a52-a13e-1fa569fab698",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=e497bd20-e4e9-4a52-a13e-1fa569fab698&is_adv=&btn=buy&shop_rank=315&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای یزد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.5,
+                        "score_text": "★۴.۵ (۲ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۸۱ روز اخیر فعالیت در ترب",
+                                "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - نقره ای",
+                    "name2": "رجیستر شده | ضمانت اورجینال بودن",
+                    "shop_name": "جانبی با ما",
+                    "shop_name2": "یزد",
+                    "shop_id": 48251,
+                    "prk": "f7662df1-e2f4-4949-ba28-ef902c668158",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=f7662df1-e2f4-4949-ba28-ef902c668158&is_adv=&btn=buy&shop_rank=316&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای یزد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.5,
+                        "score_text": "★۴.۵ (۲ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۸۱ روز اخیر فعالیت در ترب",
+                                "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - سبز روشن",
+                    "name2": "رجیستر شده | ضمانت اورجینال بودن",
+                    "shop_name": "جانبی با ما",
+                    "shop_name2": "یزد",
+                    "shop_id": 48251,
+                    "prk": "cedb99c9-2741-4f7f-92e5-850ed48e6321",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=cedb99c9-2741-4f7f-92e5-850ed48e6321&is_adv=&btn=buy&shop_rank=317&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای یزد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.5,
+                        "score_text": "★۴.۵ (۲ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۸۱ روز اخیر فعالیت در ترب",
+                                "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 (RAM 4) ظرفیت 64GB - مشکی",
+                    "name2": "رجیستر شده | ضمانت اورجینال بودن",
+                    "shop_name": "جانبی با ما",
+                    "shop_name2": "یزد",
+                    "shop_id": 48251,
+                    "prk": "ed97645b-1993-4d8f-a415-c8c44bd9b9c7",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=ed97645b-1993-4d8f-a415-c8c44bd9b9c7&is_adv=&btn=buy&shop_rank=318&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای یزد با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.5,
+                        "score_text": "★۴.۵ (۲ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۸۱ روز اخیر فعالیت در ترب",
+                                "۱۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ A14 با ظرفیت ۶۴/۴ گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "موبایل استقلال",
+                    "shop_name2": "آمل",
+                    "shop_id": 22815,
+                    "prk": "b124f08e-40d7-445a-8dc5-cc263034c2af",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b124f08e-40d7-445a-8dc5-cc263034c2af&is_adv=&btn=buy&shop_rank=319&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "پست پیشتاز"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۸ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۸ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "اوج گستران",
+                    "shop_name2": "تهران",
+                    "shop_id": 761,
+                    "prk": "b0df8c34-3232-4a3a-9129-da01d9780fc0",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=b0df8c34-3232-4a3a-9129-da01d9780fc0&is_adv=&btn=buy_city&shop_rank=320&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در سراسر ایران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery",
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۴ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "دنیای پارس تک",
+                    "shop_name2": "تهران",
+                    "shop_id": 16873,
+                    "prk": "1fa4d22c-bfb6-47b3-8eef-0d391b22649a",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=1fa4d22c-bfb6-47b3-8eef-0d391b22649a&is_adv=&btn=buy_city&shop_rank=321&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64-4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "الوگوشی",
+                    "shop_name2": "خوی",
+                    "shop_id": 14994,
+                    "prk": "4d1367a6-9327-48e5-8bfc-8e21d2f06a72",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4d1367a6-9327-48e5-8bfc-8e21d2f06a72&is_adv=&btn=buy&shop_rank=322&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۰ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشي موبايل سامسونگ مدل Galaxy A14 دو سيم کارت ظرفيت 64-4 گيگابايت نسخه ويتنام",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "الوگوشی",
+                    "shop_name2": "خوی",
+                    "shop_id": 14994,
+                    "prk": "188af1c4-f511-4947-aa57-c23b361aa681",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=188af1c4-f511-4947-aa57-c23b361aa681&is_adv=&btn=buy&shop_rank=323&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۰ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۰ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "دنیای پارس تک",
+                    "shop_name2": "تهران",
+                    "shop_id": 16873,
+                    "prk": "5208a814-4c67-4437-bae2-5e33429df6c4",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=5208a814-4c67-4437-bae2-5e33429df6c4&is_adv=&btn=buy_city&shop_rank=324&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "خودروی فروشگاه",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64/4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "تک‌گستر",
+                    "shop_name2": "شمیرانات",
+                    "shop_id": 23972,
+                    "prk": "863097d9-3783-4eb5-a33e-3f8d3d7edbbc",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=863097d9-3783-4eb5-a33e-3f8d3d7edbbc&is_adv=&btn=buy_city&shop_rank=325&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، شمیرانات با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - سبز",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "اریکه استور",
+                    "shop_name2": "مشهد",
+                    "shop_id": 46771,
+                    "prk": "8efe9fbc-57cf-4b2b-9ca7-f434afec97dd",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=8efe9fbc-57cf-4b2b-9ca7-f434afec97dd&is_adv=&btn=buy&shop_rank=326&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۳ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۳ ماه در ترب)",
+                            "summary": [
+                                "حدود ۲۰ تا ۳۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "ائلمان کالا",
+                    "shop_name2": "تبریز",
+                    "shop_id": 19505,
+                    "prk": "dd16f2a7-2e79-4cad-8e11-2fb767761665",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=dd16f2a7-2e79-4cad-8e11-2fb767761665&is_adv=&btn=buy&shop_rank=327&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ ماه در ترب)",
+                            "summary": [
+                                "حدود ۵ تا ۱۰ سفارش در ۵۵ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت ۶۴ گیگابایت و رم ۴ گیگابایت به همراه شارژر سامسونگ",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "نیروانا",
+                    "shop_name2": "قشم",
+                    "shop_id": 18347,
+                    "prk": "9069d34d-0096-4642-8c62-df4054f20d99",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=9069d34d-0096-4642-8c62-df4054f20d99&is_adv=&btn=buy&shop_rank=328&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای قشم با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - ویتنام ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone - Vietnam",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "تل لند",
+                    "shop_name2": "ری",
+                    "shop_id": 30960,
+                    "prk": "cc073f54-4252-4fcd-b4f0-8f2433716236",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=cc073f54-4252-4fcd-b4f0-8f2433716236&is_adv=&btn=buy&shop_rank=329&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران، ری با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای ری با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۶۲ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی سامسونگ A14 | حافظه 64 رم 4 گیگابایت ا Samsung Galaxy A14 64/4 GB",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "بایت کالا",
+                    "shop_name2": "اصفهان",
+                    "shop_id": 22530,
+                    "prk": "a73c68fb-3db9-410c-929e-d17e0df448cb",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=a73c68fb-3db9-410c-929e-d17e0df448cb&is_adv=&btn=buy&shop_rank=330&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای اصفهان با هماهنگی",
+                        "shipping_types": [
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱ سال در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰ تا ۱۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۱ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ا Samsung Galaxy A14 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "تل لند",
+                    "shop_name2": "ری",
+                    "shop_id": 30960,
+                    "prk": "618cb1ec-1dd7-4a4d-aeae-cce2a003dcf1",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=618cb1ec-1dd7-4a4d-aeae-cce2a003dcf1&is_adv=&btn=buy&shop_rank=331&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران، ری با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای ری با هماهنگی",
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۶۲ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "ساعی گستر",
+                    "shop_name2": "تهران",
+                    "shop_id": 29097,
+                    "prk": "48cc9a41-b53b-46e4-98ec-78b9c5960b43",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=48cc9a41-b53b-46e4-98ec-78b9c5960b43&is_adv=&btn=buy_city&shop_rank=332&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": null,
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "★۵ (۱۲ ماه در ترب)",
+                        "score_color": "#0b5124",
+                        "score_background_color": "#daf2d5",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۵ (۱۲ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰ تا ۲۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "کاربری در ترب پیگیری سفارش ثبت نکرده است."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ویتنام",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "ویهان همراه",
+                    "shop_name2": "پردیس",
+                    "shop_id": 18869,
+                    "prk": "26d20df4-940f-4494-826f-326f161392a9",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=26d20df4-940f-4494-826f-326f161392a9&is_adv=&btn=buy&shop_rank=333&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای پردیس با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل GALAXY A14 سامسونگ ظرفیت 64 و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "فراز سیستم",
+                    "shop_name2": "تهران",
+                    "shop_id": 10648,
+                    "prk": "810d7c89-08d2-4822-a5be-c64691787662",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=810d7c89-08d2-4822-a5be-c64691787662&is_adv=&btn=buy_city&shop_rank=334&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": "امکان پرداخت در محل در تهران با هماهنگی",
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "payment_on_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۲ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۲ سال در ترب)",
+                            "summary": [
+                                "حدود ۵۰۰ تا ۱۰۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۷ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت هند",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "ویهان همراه",
+                    "shop_name2": "پردیس",
+                    "shop_id": 18869,
+                    "prk": "693e2a68-db22-41ba-adcb-af82e380cf3e",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=693e2a68-db22-41ba-adcb-af82e380cf3e&is_adv=&btn=buy&shop_rank=335&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای پردیس با هماهنگی",
+                        "shipping_types": [
+                            "دسترسی آنلاین",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.9,
+                        "score_text": "★۴.۹ (۱ سال در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۹ (۱ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 ظرفیت 64 گیگابایت و رم 4 گیگابایت پک چین رنگ مشکی",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "انتخاب من",
+                    "shop_name2": "تهران",
+                    "shop_id": 12457,
+                    "prk": "4869175f-2035-4f19-8f80-40c5a6647436",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4869175f-2035-4f19-8f80-40c5a6647436&is_adv=&btn=buy_city&shop_rank=336&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": null,
+                        "shipping_types": [
+                            "خودروی فروشگاه",
+                            "شرکتهای پست خصوصی نظیر تیپاکس"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 4.7,
+                        "score_text": "★۴.۷ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۷ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۳۰۰ تا ۵۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۶ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 حافظه 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "لیان سیستم",
+                    "shop_name2": "تهران",
+                    "shop_id": 43275,
+                    "prk": "4f951f30-54db-406a-93bf-902e1dc40ca0",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=4f951f30-54db-406a-93bf-902e1dc40ca0&is_adv=&btn=buy_city&shop_rank=337&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران، ری با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.6,
+                        "score_text": "★۴.۶ (۶ ماه در ترب)",
+                        "score_color": "#248212",
+                        "score_background_color": "#e7fae3",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۶ (۶ ماه در ترب)",
+                            "summary": [
+                                "حدود ۱۰۰ تا ۲۰۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۲ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "مشخصات گوشی سامسونگ A14 دو سیم کارت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "ساتل دیجیتال",
+                    "shop_name2": "تهران",
+                    "shop_id": 1305,
+                    "prk": "2fea7b51-45d5-49cd-a621-11b7699cb2b1",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=2fea7b51-45d5-49cd-a621-11b7699cb2b1&is_adv=&btn=buy_city&shop_rank=338&_bt__plp_logo=both",
+                    "is_filtered_by_city": true,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تهران با هماهنگی",
+                        "shipping_types": [
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": null,
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": [
+                            "same_day_delivery"
+                        ]
+                    },
+                    "score_info": {
+                        "score": 4.3,
+                        "score_text": "★۴.۳ (۴ سال در ترب)",
+                        "score_color": "#649124",
+                        "score_background_color": "#edfaeb",
+                        "complaints_info": {
+                            "title": "امتیاز فروشگاه ★۴.۳ (۴ سال در ترب)",
+                            "summary": [
+                                "حدود ۳۰ تا ۵۰ سفارش در ۹۰ روز اخیر فعالیت در ترب",
+                                "۵ کاربر از طریق ترب سفارش خود را پیگیری کرده اند."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                },
+                {
+                    "availability": false,
+                    "name1": "گوشی موبایل سامسونگ مدل Galaxy A14 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+                    "name2": "وضعیت رجیستری نامشخص",
+                    "shop_name": "پالادیوم استور",
+                    "shop_name2": "تبریز",
+                    "shop_id": 58492,
+                    "prk": "c9fd0a00-ad10-4a3b-ba1e-de2fb4143626",
+                    "problem_report_type": "",
+                    "page_url": "https://api.torob.com/v4/product-page/redirect/?source=next_desktop&uid=&discover_method=direct&_bt__experiment=&search_id=&suid=&bvid=&session_id=bsymjdwiifrxugcpjnketnxzwoanjrum&prk=c9fd0a00-ad10-4a3b-ba1e-de2fb4143626&is_adv=&btn=buy&shop_rank=339&_bt__plp_logo=both",
+                    "is_filtered_by_city": false,
+                    "is_filtered_by_official_shop": false,
+                    "shop_score_percentile": 0,
+                    "shop_votes_count": 0,
+                    "button_text": "خرید اینترنتی",
+                    "price": 0,
+                    "price_text": "ناموجود",
+                    "price_text_striked": "",
+                    "price_text_mode": "disabled",
+                    "is_price_unreliable": false,
+                    "price_string": "ناموجود",
+                    "shop_score": 5,
+                    "show_report_button": false,
+                    "more_info": {
+                        "payment_on_delivery": null,
+                        "free_shipping": null,
+                        "same_day_delivery": "امکان تحویل در همان روز برای تبریز با هماهنگی",
+                        "shipping_types": [
+                            "باربری های درون شهری یا برون شهری",
+                            "شرکتهای پست خصوصی نظیر تیپاکس",
+                            "پست سفارشی",
+                            "پست پیشتاز",
+                            "پیک"
+                        ],
+                        "heavy_items": "برای ارسال کالاهای سنگین تماس بگیرید",
+                        "same_day_free_shipping": null,
+                        "selected_shipping_info": []
+                    },
+                    "score_info": {
+                        "score": 5,
+                        "score_text": "فروشگاه جدید",
+                        "score_color": "#333333",
+                        "score_background_color": "#ecedef",
+                        "complaints_info": {
+                            "title": "فروشگاه جدید",
+                            "summary": [
+                                "با توجه به نبود داده‌ی کافی، محاسبه‌ی امتیاز برای این فروشگاه میسر نمی‌باشد."
+                            ]
+                        }
+                    },
+                    "is_adv": false,
+                    "last_price_change_date": null,
+                    "show_purchase_warning": false
+                }
             ]
         }
     }

@@ -1,10 +1,14 @@
-import React from 'react'
+import React,{FC,useState} from 'react'
 import { StAll } from './style'
 import {BsFlag} from 'react-icons/bs'
 import { Button, Dropdown, MenuProps } from 'antd'
 import { DownOutlined, SmileOutlined } from '@ant-design/icons';
 
-const PriceCard = () => {
+interface PropTypes{
+  data?:any
+  }
+const PriceCard :FC<PropTypes> = ({data}) => {
+  const [showAll, setshowAll] = useState<number>(3)
     const items: MenuProps['items'] = [
     {
       key: '1',
@@ -41,59 +45,55 @@ const PriceCard = () => {
   ];
   return (
     <StAll>
-        <div className="list-of-cards">
-            <div className="card">
-                <div className='card-location'>
-                    <b>Mobile 140</b>
-                    <small>
-                        Tehran
-                    </small>
-                </div>
-                <div className='delivery'>
-                            <div className='garranty'>
-                            <span>★5 (2 years in Tarb)</span>
-                            <div className='report'>
-                                <b>report</b>
-                              <BsFlag/>
-                            </div>
-                            </div>
-                        <a href="">Samsung Galaxy A14 mobile phone with 64 GB capacity and 4 GB RAM</a>
-                        <a href="">18 months warranty - registered</a>
-                        <div>
-                            <br />
-                        <Dropdown menu={{ items }}>
-    <a onClick={(e) => e.preventDefault()}>
-      <>
-        Hover me
-        <DownOutlined />
-      </>
-    </a>
-  </Dropdown>
-                        </div>
-
-                </div>
-                <div className='shopping'>
-                    <a href="">
-                    <p>4,899,000 Tomans</p>
-                    </a>
-                    <a href="">
-                        <div>
-                                <Button>
-                                    online
-                                </Button>
-                        </div>
-                        <div className='update-details'>
-                            <p>The last price change in the store: 20 hours ago</p>
-                        </div>
-                    </a>
-                </div>
-            </div>
+       {data?.sellers?.online?.map((res:any)=>
+         <div className="list-of-cards">
+         <div className="card">
+             <div className="div"><div className='card-location'>
+                 <b>{res?.shop_name}</b>
+                 <small>
+                     {res?.shop_name2}
+                 </small>
+             </div>
+             <div className='delivery'>
+                         <div className='garranty'>
+                         <span style={{background:res?.score_info?.score_background_color,
+                             whiteSpace: "nowrap",
+                             fontSize: '14px',
+                             padding:' 8px'}}>★{res?.score_info?.score} {res?.score_info?.score_text}</span>
+                         <div className='report'>
+                             <b>report</b>
+                           <BsFlag/>
+                         </div>
+                         </div>
+                     <a href="">{res?.address}</a>
+                     <a href="">{res?.name2}</a>
+                     <div>
+                         dropdown
+                     </div>
+ 
+             </div></div>
+             <div className='shopping'>
+                 <a href="">
+                 <p>{res?.price_string}</p>
+                 </a>
+                 <a href="">
+                     <div>
+                             <Button>
+                                 {res?.button_text}
+                             </Button>
+                     </div>
+                     <div className='update-details'>
+                         <p>The last price change in the store: {res?.last_price_change_date}</p>
+                     </div>
+                 </a>
+             </div>
+         </div>
+     </div>)?.slice(0,showAll)}
             <div className="all-sellers">
-                <Button>
-                    show all ... stores
+                <Button onClick={()=>setshowAll(data?.sellers?.online?.length)}>
+                    show all {data?.sellers?.online?.length} stores
                 </Button>
             </div>
-        </div>
     </StAll>
   )
 }
