@@ -7,7 +7,7 @@ interface PropTypes{
     chart?:any
     }
 const InPersonSellers:FC<PropTypes> = ({data}) => {
-    uses
+
   return (
     <StAll>
    {data?.sellers?.inPerson?.map((res:any)=><div className="list-of-cards">
