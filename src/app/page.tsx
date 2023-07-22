@@ -12,10 +12,14 @@ import HomeNavbar from '@/components/home/homeNavbar'
 import SubMenu from '@/components/subMenu'
 import InstallApp from '@/components/installApp'
 import { Datas } from '@/helpers/datas';
+import Head from 'next/head'
 
 export default function Home({children}:any) {
   return (
    <StAll >
+    
+    <Head><link href="https://fonts.cdnfonts.com/css/iranyekan" rel="stylesheet"
+        /></Head>
     <div className="homeNavbar">
     <HomeNavbar/>
     </div>

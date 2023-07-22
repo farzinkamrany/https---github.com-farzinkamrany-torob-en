@@ -2,7 +2,7 @@
 import React, { useState } from 'react'
 import Navbar from '@/components/navbar'
 import { StAll } from './style'
-import { Button, Image, Modal, Tabs, TabsProps, Tooltip } from 'antd'
+import { Anchor, Button, Image, Modal, Tabs, TabsProps, Tooltip } from 'antd'
 import { AiOutlineBell,AiOutlineHeart } from 'react-icons/ai';
 import {BsShare,BsFlag} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'
@@ -25,18 +25,6 @@ const Product = ({res}:any) => {
   };
   const results:any=Datas
   console.log(results)
-  const items: TabsProps['items'] = [
-    {
-      key: '1',
-      label: `online shopping ${onlineCounter}`,
-      children:<PriceCard/>,
-    },
-    {
-      key: '2',
-      label: `buy in person ${onlineCounter}`,
-      children: `Content of Tab Pane 2`,
-    },
-  ];
   return (
   <StAll>
     {/* <SearchNavbar/> */}
@@ -72,7 +60,7 @@ const Product = ({res}:any) => {
             </div>
         <div className='actions'>
         <div>
-        <AiOutlineBell/>
+        <AiOutlineBell style={{color:'#ff3333'}}/>
         <AiOutlineHeart/>
         <BsShare/>
         </div>
@@ -119,31 +107,40 @@ const Product = ({res}:any) => {
               <b>all of iran</b>
               <p>From 4,899,000 tomans</p>
             </div>
-            <div style={{display:'flex'}} className="card">
+            <div style={{display:'flex',flexDirection: 'row'}} className="card">
+                <TiLocation style={{padding: '5px',border:' 1px solid #f2f3f5',
+    borderRadius: '12px 0 0 12px',height: '100%',borderRight:'none'}}/>
+                <div style={{display:'flex',flexDirection: 'column',borderRight:'1px solid ',padding: '5px',border:' 1px solid #f2f3f5',
+    height: '100%',
+    borderRadius: '0 0 0 0',borderLeft:'none'}}>
                 <b>
-                <div>
-                <TiLocation/>
-                <p>tehran and sorrounding cities</p>
-                </div>
+                <p style={{}}>tehran and sorrounding cities</p>
                 </b>
-              <p>From 4,899,000 tomans</p>
+              <p style={{textAlign: 'left',width: '95%'}}>From 4,899,000 tomans</p>
+                </div>
+            <div className="arrow"  style={{display:'flex',flexDirection: 'column',borderRight:'1px solid ',padding: '5px',border:' 1px solid #f2f3f5',
+    height: '100%',
+    borderRadius: '0 12px 12px 0',borderLeft:'none'}}>
+              {" >"}
+            </div>
             </div>
           </div>
           {/* <Tabs defaultActiveKey="1" items={items} onChange={onChange} /> */}
-          <div className="navigateSellers">
+          {/* <div className="navigateSellers">
             <Button><a href="#onlineSellers">online sellers</a></Button>
             <Button><a href="#inPerson">in person</a></Button>
-          </div>
+          </div> */}
+          
+        <div className='in-person' id="part-1"> 
+        
+  <div  id="onlineSellers part-1"><PriceCard data={Datas}/></div>
+  <br />
+       <div id="part-2"> <InPersonSellers data={Datas}/></div>
+        </div>
         </div>
 {/* <div className="onlineShopping"id="onlineSellers">
 </div> */}
-        <div className='in-person' id="inPerson"> 
-        
-  <div id="onlineSellers"><PriceCard data={Datas}/></div>
-  <br />
-        <InPersonSellers data={Datas}/>
-        </div>
-          <div className='chart-items'>
+          <div className='chart-items '>
           <ChartContainer chart={Datas?.chart}/>
           </div>
         <div className='specs'>

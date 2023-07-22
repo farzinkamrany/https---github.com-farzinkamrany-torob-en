@@ -38,10 +38,10 @@ const LoginModal:FC<PropTypes> = ({isModalOpen=false,setIsModalOpen}) => {
     </>}
     <div style={{width:'100%',justifyContent:'center',display:'flex',flexDirection:'column'}} className="about">
    <Row style={{justifyContent:'center'}}>
-   Registering in Tarb means agreeing to  
-    <Link style={{marginLeft:'1%'}} href="/">  the terms of use of Tarb .</Link>
+   Registering in Torob means agreeing to  
+    <Link style={{marginLeft:'1%'}} href="/">  the terms of use of Torob .</Link>
    </Row>
-   
+
     <Button style={{border:'none'}} onClick={()=>setlogin((prev:any)=>!prev)}>
    {login? "I create a new user account.":"I used to have an account in Torb."}
     </Button>

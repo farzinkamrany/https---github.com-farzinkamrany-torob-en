@@ -1,50 +1,36 @@
 import React,{FC,useState} from 'react'
 import { StAll } from './style'
 import {BsFlag} from 'react-icons/bs'
-import { Button, Dropdown, MenuProps } from 'antd'
+import { Anchor, Button, Dropdown, MenuProps } from 'antd'
 import { DownOutlined, SmileOutlined } from '@ant-design/icons';
+import SendingDetails from '../sendingDetails';
 
 interface PropTypes{
   data?:any
   }
 const PriceCard :FC<PropTypes> = ({data}) => {
   const [showAll, setshowAll] = useState<number>(3)
-    const items: MenuProps['items'] = [
-    {
-      key: '1',
-      label: (
-        <a target="_blank" rel="noopener noreferrer" href="https://www.antgroup.com">
-          1st menu item
-        </a>
-      ),
-    },
-    {
-      key: '2',
-      label: (
-        <a target="_blank" rel="noopener noreferrer" href="https://www.aliyun.com">
-          2nd menu item (disabled)
-        </a>
-      ),
-    //   icon: <SmileOutlined />,
-      disabled: true,
-    },
-    {
-      key: '3',
-      label: (
-        <a target="_blank" rel="noopener noreferrer" href="https://www.luohanacademy.com">
-          3rd menu item (disabled)
-        </a>
-      ),
-      disabled: true,
-    },
-    {
-      key: '4',
-      danger: true,
-      label: 'a danger item',
-    },
-  ];
+console.log(data)
   return (
     <StAll>
+      
+  <div style={{     width:' 100%' }}>
+      <Anchor
+        direction="horizontal"
+        items={[
+          {
+            key: 'part-1',
+            href: '#part-1',
+            title: 'online sellers ('+data?.sellers?.online?.length+")",
+          },
+          {
+            key: 'part-2',
+            href: '#part-2',
+            title: 'in-person sellers('+data?.sellers?.inPerson?.length+")",
+          }
+        ]}
+      />
+    </div>
        {data?.sellers?.online?.map((res:any)=>
          <div className="list-of-cards">
          <div className="card">
@@ -59,7 +45,7 @@ const PriceCard :FC<PropTypes> = ({data}) => {
                          <span style={{background:res?.score_info?.score_background_color,
                              whiteSpace: "nowrap",
                              fontSize: '14px',
-                             padding:' 8px'}}>★{res?.score_info?.score} {res?.score_info?.score_text}</span>
+                             padding:' 8px'}}>{res?.score_info?.score_text}</span>
                          <div className='report'>
                              <b>report</b>
                            <BsFlag/>
@@ -68,7 +54,7 @@ const PriceCard :FC<PropTypes> = ({data}) => {
                      <a href="">{res?.address}</a>
                      <a href="">{res?.name2}</a>
                      <div>
-                         dropdown
+                         <SendingDetails/>
                      </div>
  
              </div></div>

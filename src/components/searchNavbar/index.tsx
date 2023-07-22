@@ -18,7 +18,7 @@ const SearchNavbar = () => {
       </div>
         <div>
             
-      <Button onClick={()=>setshowLoginModal(true)}>
+      <Button className='signup' onClick={()=>setshowLoginModal(true)}>
         login/sign-up
       </Button>
         </div>

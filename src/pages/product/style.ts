@@ -11,7 +11,7 @@ a{
   text-decoration: none;
 }
 @media (max-width:768px){
-    width: 117vw;
+    width: 160vw;
 }
 .details{
     display: grid;
@@ -234,6 +234,9 @@ p{
     border-radius: 4px;
     display: grid;
     grid-area: 2 / 1 / 3 / 2;
+.ant-anchor{
+        background: #fff;
+    }
     .title{
         display: flex;
         justify-content: space-between;
@@ -274,7 +277,7 @@ height: 52px;
     -webkit-tap-highlight-color: transparent;
     box-sizing: border-box;
     user-select: none;
-    border:1px solid #ddd;
+    /* border:1px solid #ddd; */
     p{
         font-size: 12px;
         margin: 0;
@@ -283,7 +286,11 @@ height: 52px;
 .active-card{
     margin-inline-start: 8px;
     outline-offset: 0px;
-    border: 2px solid #000;
+    border: 2px solid #333;
+    b{
+        text-align: left;
+    width: 100%;
+    }
         }
 }
 }

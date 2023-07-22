@@ -4,7 +4,8 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html>
-        <Head><link href="https://db.onlinewebfonts.com/c/50e9084d51fca72d0b7b32dc11e54eab?family=IRAN" rel="stylesheet" type="text/css"/>
+        <Head><link href="https://fonts.cdnfonts.com/css/iranyekan" rel="stylesheet"
+        />
         </Head>
         <body>
           <Main />

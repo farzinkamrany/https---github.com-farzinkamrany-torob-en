@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const StAll=styled.div`
     display: flex;
     background: #fff;
-    padding: 10px;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
@@ -14,6 +13,10 @@ export const StAll=styled.div`
     }
     .list-of-cards{
             width: 100%;
+            :hover{
+                background: #f7f8fa;
+    cursor: default;
+            }
         .card{
             display: flex;
             justify-content: space-between;
@@ -22,11 +25,14 @@ export const StAll=styled.div`
         .card-location{
             display: flex;
             flex-direction: column;
-            
+            b{
+                white-space: nowrap;
+            }
         }
         .delivery{
             display: flex;
             flex-direction: column;
+            margin-left: 11%;
         }
             .garranty{
                 display: flex;
@@ -37,17 +43,18 @@ export const StAll=styled.div`
     .report{
         background: #f2f3f5;
         color: #fff;
-        padding: 5px;
+        padding: 2px 10px;
         display: flex;
         align-items: center;
+        justify-content: center;
         border-radius: 16px;
         font-size: 12px;
     line-height: 28px;
     height: 28px;
-    color: #999;
-    margin-left:5%;
-    b{
-        color:#000;
+    color: #000;
+    margin-left: 8px;
+    svg{
+        margin-left:5px;
     }
     }
     span{
@@ -56,7 +63,7 @@ export const StAll=styled.div`
     padding: 1%;
     background: #daf2d5;
     border-color: #daf2d5;
-    
+    color: #0b5124;
     }
     a{
         color: #000;
@@ -72,13 +79,17 @@ export const StAll=styled.div`
                 display: flex;
                 flex-direction: column;
                 justify-content: flex-start;
-                width: 20%;
+                align-items: flex-end;
+                width: 50%;
                 a{
                     text-align: right;
                 }
                 p{
                     font-size: 14px;
                 }
+                    span{
+                        background-color: transparent;
+                    }
         button{
     align-self: center;
     height: 40px;

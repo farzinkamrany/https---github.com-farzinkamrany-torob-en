@@ -1,5 +1,5 @@
-import { Button } from 'antd'
-import React ,{FC}from 'react'
+import { Button, Modal } from 'antd'
+import React ,{FC,useState}from 'react'
 import {AiOutlineSearch} from 'react-icons/ai'
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
@@ -10,7 +10,7 @@ interface PropTypes{
 chart?:any
 }
 const ChartContainer:FC<PropTypes> = ({chart}) => {
-  
+  const [showModal, setshowModal] = useState(false)
   // const data = chart?.dataSets?.map((res:any)=>
   //   res?.entries?.map((resp:any)=>
   //   // ({
@@ -22,8 +22,8 @@ const ChartContainer:FC<PropTypes> = ({chart}) => {
   //   console.log(resp)
   //   ))
   const minimum=chart?.dataSets.entries?.map((res:any)=> ({
-    pv:res?.pv,
-   uv:res?.uv,
+    average_price:res?.pv,
+    low_price:res?.uv,
   }))
   console.log(minimum)
   
@@ -48,17 +48,41 @@ const ChartContainer:FC<PropTypes> = ({chart}) => {
           {/* <YAxis /> */}
           <Tooltip />
           <Legend />
-          <Line type="monotone" dataKey="pv" stroke="#8884d8" activeDot={{ r: 8 }} />
-          <Line type="monotone" dataKey="uv" stroke="#82ca9d" />
+          <Line type="monotone" dataKey="average_price" stroke="#8884d8" activeDot={{ r: 8 }} />
+          <Line type="monotone" dataKey="low_price" stroke="#82ca9d" />
         </LineChart>
        
         </div>
        <div className="more">
-       <Button>
+       <Button onClick={()=>setshowModal(true)}>
             <AiOutlineSearch/>
         </Button>
        </div>
       </div>
+      <Modal open={showModal} 
+      footer={false}
+      onCancel={()=>setshowModal(false)} 
+        width={1000}>
+      <LineChart
+          width={965}
+          height={465}
+          data={minimum}
+          margin={{
+            top: 5,
+            right: 30,
+            left: 20,
+            bottom: 5,
+          }}
+        >
+          <CartesianGrid strokeDasharray="3 3" />
+          <XAxis dataKey="name" />
+          {/* <YAxis /> */}
+          <Tooltip />
+          <Legend />
+          <Line type="monotone" dataKey="average_price" stroke="#8884d8" activeDot={{ r: 8 }} />
+          <Line type="monotone" dataKey="low_price" stroke="#82ca9d" />
+        </LineChart>
+      </Modal>
     </StAll>
   )
 }

@@ -2,6 +2,8 @@ import React,{FC,useState} from 'react'
 import { StAll } from './style'
 import { Button } from 'antd'
 import { BsFlag } from 'react-icons/bs'
+import SendingDetails from '../sendingDetails'
+import ContactInfo from '../contactInfo'
 
 interface PropTypes{
     data?:any
@@ -34,7 +36,8 @@ console.log(data)
                     <a href="">{res?.address}</a>
                     <a href="">{res?.name2}</a>
                     <div>
-                        dropdown
+                        
+                    <SendingDetails/>
                     </div>
 
             </div></div>
@@ -42,16 +45,12 @@ console.log(data)
                 <a href="">
                 <p>{res?.price_string}</p>
                 </a>
-                <a href="">
                     <div>
-                            <Button>
-                                {res?.button_text}
-                            </Button>
+                                <ContactInfo data={res}/>
                     </div>
                     <div className='update-details'>
                         <p>The last price change in the store: {res?.last_price_change_date}</p>
                     </div>
-                </a>
             </div>
         </div>
     </div>)?.slice(0,showAll)}

@@ -11,6 +11,10 @@ img{
     width: 40px;
     height: 40px;
 }
+.signup{
+    height: 48px;
+    color: #000;
+}
 .ant-select-selector{
     height: 100%;
     padding-left: 10px;

@@ -15,6 +15,9 @@ img{
 export const StCard=styled(Card)`
 width: 180px;
 padding: 12px;
+.div{
+    display: flex;
+}
 .ant-card-body{
     justify-content: space-between;
     display: flex;

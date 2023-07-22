@@ -3,13 +3,29 @@ import styled from 'styled-components';
 export const StAll=styled.div`
     display: flex;
     background: #fff;
-    padding: 10px;
     justify-content: space-between;
     align-items: center;
     border-radius: 10px;
+    align-items: flex-start;
 flex-direction:column;
+.ant-anchor{
+    .ant-anchor-ink-visible,.ant-anchor-wrapper-horizontal{
+        height: 4px;
+        background:#333 !important;
+    }
+    .ant-anchor-link{
+        padding: 16px 6px!important;
+    }
+    .ant-anchor-link-title,.ant-anchor-link-title-active{
+        color:#333 !important;
+    }
+}
     .list-of-cards{
             width: 100%;
+            :hover{
+                background: #f7f8fa;
+    cursor: default;
+            }
         .card{
             display: flex;
             justify-content: space-between;
@@ -19,16 +35,26 @@ flex-direction:column;
                 flex-direction: column;
             align-items: flex-start;
             }
+            .div{
+                display: flex;
+                width: 67%;
+    justify-content: space-evenly;
+            }
         .card-location{
             display: flex;
             flex-direction: column;
-            
+            b{
+                white-space: nowrap;
+            }
         }
         .delivery{
             display: flex;
             flex-direction: column;
+            margin-left: 11%;
     a{
         color:#000;
+        line-height: 24px;
+    margin-top: 1%;
     }
         }
             .garranty{
@@ -44,7 +70,7 @@ flex-direction:column;
     .report{
         background: #f2f3f5;
         color: #fff;
-        padding: 5px;
+        padding: 2px 10px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -52,17 +78,19 @@ flex-direction:column;
         font-size: 12px;
     line-height: 28px;
     height: 28px;
-    color: #999;
+    color: #000;
+    margin-left: 8px;
     svg{
         margin-left:5px;
     }
     }
     span{
-        
+        padding: 4px 8px;
     border-radius: 20px;
-    padding: 1%;
     background: #daf2d5;
     border-color: #daf2d5;
+    color: #0b5124;
+    
     }
     a{
         color: #000;
@@ -76,9 +104,13 @@ flex-direction:column;
                 width: 20%;
                 a{
                     text-align: right;
+                    span{
+                        background-color: transparent;
+                    }
                 }
                 p{
                     font-size: 14px;
+                    line-height: 24px;
                 }
         button{
     align-self: center;
