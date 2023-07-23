@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import localFont from 'next/font/local'
-const myFont = localFont({ src: '../assets/fonts/IRAN.ttf' })
+const myFont = localFont({ src: '../assets/fonts/IRANN.ttf' })
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,8 +17,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html  lang="en">
-      <body className={myFont.className}>{children}</body>
-    </html>
+    <main lang="en"className={myFont.className}>
+      <body >{children}</body>
+    </main>
   )
 }

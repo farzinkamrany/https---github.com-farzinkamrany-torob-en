@@ -17,7 +17,7 @@ a{
     display: grid;
     max-width: 1280px;
     margin: 2% auto;
-    grid-template-columns: 840px 416px;
+    /* grid-template-columns: 840px 416px; */
     gap: 24px;
 
     @media (max-width:768px) {
@@ -113,7 +113,6 @@ text-align: center;
     }
   width:20%;
 }
-  
     span{
         display: flex;
         align-items: center;
@@ -122,6 +121,7 @@ text-align: center;
         border-radius: 14px;
         border: none;
         height: 28px;
+        margin-left: 8px;
         svg{
             margin-inline-end: 5px;
         }
@@ -322,7 +322,7 @@ height: 52px;
     display: grid;
     grid-area: 4 / 1 / 5 / 2;
 @media (max-width:768px) {
-    display: grid;
+    display: none;
     grid-area: 8 / 1 / 9 / 2;
 }
 }

@@ -40,16 +40,17 @@ console.log(data)
                     <SendingDetails/>
                     </div>
 
-            </div></div>
+            </div>
+            </div>
             <div className='shopping'>
                 <a href="">
                 <p>{res?.price_string}</p>
                 </a>
                     <div>
                                 <ContactInfo data={res}/>
-                    </div>
                     <div className='update-details'>
                         <p>The last price change in the store: {res?.last_price_change_date}</p>
+                    </div>
                     </div>
             </div>
         </div>

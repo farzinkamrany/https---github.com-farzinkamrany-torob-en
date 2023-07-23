@@ -13,7 +13,9 @@ height: 260px;
     flex-direction: column;
     align-items: start;
     justify-content: flex-start;
-    
+   ~ :nth-child(3){
+    display: none;
+    }
     .row-specs{
         display: flex;
         flex-direction: column;
@@ -24,5 +26,27 @@ height: 260px;
         }
     }
 }
-
+.mobile{
+    display: none;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    box-shadow: none;
+    color: #d73948;
+    border: 0;
+}
+    @media(max-width:768px){
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        overflow: auto;
+.detailed{
+    height: 160px;
+    overflow: scroll;
+}
+        .mobile{
+            display: flex;
+        }
+    }
 `

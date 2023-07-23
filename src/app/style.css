@@ -1,6 +1,4 @@
-#__next{
-    display: flex;
-}
+
 @font-face{
     font-family: 'IRANN';
   src: url(../assets/fonts/IRANN.ttf)  format('truetype');

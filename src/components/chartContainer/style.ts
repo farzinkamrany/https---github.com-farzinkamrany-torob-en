@@ -8,6 +8,7 @@ export const StAll=styled.div`
     background-color: #fff;
     border-radius: 4px;
     padding: 5px;
+    margin-bottom: 70px;
     .chart{
         width: 365px;
         height: 165px;

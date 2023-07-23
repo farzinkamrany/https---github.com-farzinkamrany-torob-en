@@ -37,5 +37,10 @@ align-items: center;
     max-width: 148px;
 }
     }
+    @media (max-width:768px) {
+        
+flex-direction: row;
+justify-content: flex-end;
+    }
 
 `

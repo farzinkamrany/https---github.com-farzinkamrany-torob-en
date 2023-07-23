@@ -13,6 +13,7 @@ export const StAll=styled.div`
     }
     .list-of-cards{
             width: 100%;
+            padding: 4px 0;
             :hover{
                 background: #f7f8fa;
     cursor: default;
@@ -33,6 +34,10 @@ export const StAll=styled.div`
             display: flex;
             flex-direction: column;
             margin-left: 11%;
+    @media (max-width:768px){
+            margin-left: 2%;
+            width: 100%;
+    }
         }
             .garranty{
                 display: flex;
@@ -40,6 +45,10 @@ export const StAll=styled.div`
     align-items: center;
     height: 20px;
     margin-bottom: 7%;
+    
+    @media (max-width:768px) {
+    margin: 5% 0;
+                    }
     .report{
         background: #f2f3f5;
         color: #fff;
@@ -130,6 +139,11 @@ export const StAll=styled.div`
                     width: 100%;
     align-items: center;
                     flex-direction:row;
+                    .div{
+                        flex-direction: column;
+                        width: 100%;
+    justify-content: space-between;
+                    }
                     small{
                         margin-left:3%;
                     }
@@ -141,8 +155,13 @@ export const StAll=styled.div`
     .div{
         display:flex;
                     align-items: flex-start;
+                    width: 100%;
                     .delivery{
                         margin-left:3%;
+                    }
+                    @media (max-width:768px) {
+                        flex-direction: column;
+                        
                     }
     }
 .all-sellers{

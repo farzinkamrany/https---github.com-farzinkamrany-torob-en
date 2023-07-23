@@ -22,6 +22,7 @@ flex-direction:column;
 }
     .list-of-cards{
             width: 100%;
+            padding: 4px 0;
             :hover{
                 background: #f7f8fa;
     cursor: default;
@@ -37,7 +38,7 @@ flex-direction:column;
             }
             .div{
                 display: flex;
-                width: 67%;
+                width: 100%;
     justify-content: space-evenly;
             }
         .card-location{

@@ -13,23 +13,35 @@ import SubMenu from '@/components/subMenu'
 import InstallApp from '@/components/installApp'
 import { Datas } from '@/helpers/datas';
 import Head from 'next/head'
-
+import '../app/style.css'
+import { createGlobalStyle } from 'styled-components'
+import { AppProps } from 'next/app'
+const GlobalStyle = createGlobalStyle`
+  body {
+    margin: 0;
+    padding: 0;
+    background: teal;
+    font-family: 'IRANN';
+    src: url('../assets/fonts/IRANN.ttf')format('truetype');
+  }
+`;
 export default function Home({children}:any) {
   return (
-   <StAll >
-    
-    <Head><link href="https://fonts.cdnfonts.com/css/iranyekan" rel="stylesheet"
-        /></Head>
+   <StAll>
+    <GlobalStyle/>
+    {/* <Head><link href="https://fonts.cdnfonts.com/css/iranyekan" rel="stylesheet"
+        /></Head> */}
     <div className="homeNavbar">
     <HomeNavbar/>
     </div>
     <div className="searchBox">
     <HomeSearchBox data={Datas}/>
-    {children}
+    {children} 
     </div>
-    <Footer/>
-    <SubMenu/>
-    <InstallApp/>
+     <Footer/> 
+     <SubMenu/> 
+    <InstallApp/> 
    </StAll>
+   
   )
 }
