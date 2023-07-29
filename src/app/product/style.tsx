@@ -11,7 +11,7 @@ a{
   text-decoration: none;
 }
 @media (max-width:768px){
-    width: 160vw;
+    // width: 160vw;
 }
 .details{
     display: grid;
@@ -21,7 +21,8 @@ a{
     gap: 24px;
 
     @media (max-width:768px) {
-    gap: 24px 0;
+    gap: 24px ;
+    width:100%;
     margin: 1% auto;
         grid-template-columns: 100%;
     }

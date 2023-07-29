@@ -1,8 +1,8 @@
-
+'use client'
 import React, { useState } from 'react'
 import Navbar from '@/components/navbar'
 import { StAll } from './style'
-import { Anchor, Button, Image, Modal, Tabs, TabsProps, Tooltip } from 'antd'
+import { Anchor, Button, Image, Modal, Tabs, Tooltip } from 'antd'
 import { AiOutlineBell,AiOutlineHeart } from 'react-icons/ai';
 import {BsShare,BsFlag} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'

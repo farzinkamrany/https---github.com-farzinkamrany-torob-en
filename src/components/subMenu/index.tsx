@@ -1,8 +1,9 @@
+'use client'
 import React,{FC} from 'react'
 import { StAll } from './style'
 import { Button, Drawer } from 'antd'
 import Link from 'next/link'
-import DetailsDrawer from '@/pages/browse/[name]/[details]'
+import DetailsDrawer from '@/app/browse/[name]/[details]'
 
 interface PropTypes{
   setopenDrawer?:any

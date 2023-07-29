@@ -147,10 +147,11 @@ flex-direction:column;
             align-items: flex-start;
             white-space: nowrap;
             p{
-                color: #d73948;
+                
             }
             a:first-child{
                 font-size:16px;
+                font-weight:bold;
             }
         }
             }
@@ -179,4 +180,12 @@ flex-direction:column;
     align-items: center;
     }
 }
+
+.card {
+    .delivery{
+        margin-left:0 !important;
+    }
+.div{
+    flex-direction:column;
+}}
 `

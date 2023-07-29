@@ -189,5 +189,10 @@ export const StAll=styled.div`
 }
     @media (max-width:768px) {
         grid-area: 3 / 1 / 4 / 2;
+
+    width:auto;
+.card .div{
+    flex-direction:column;
+}
     }
 `

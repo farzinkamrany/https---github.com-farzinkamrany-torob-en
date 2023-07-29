@@ -4,7 +4,7 @@ import { Button, Dropdown, MenuProps } from 'antd'
 import SearchBox from '../searchBox'
 import SearchNavbar from '../searchNavbar'
 import Link from 'next/link'
-import { Router, useRouter } from 'next/router'
+import { useRouter } from 'next/navigation'
 
 const Navbar = () => {
   const items: any =  [ {

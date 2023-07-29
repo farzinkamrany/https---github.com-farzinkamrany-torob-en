@@ -1,3 +1,4 @@
+'use client'
 import React, { useState } from 'react'
 import { StAll, StRow } from './style'
 import SearchNavbar from '@/components/searchNavbar'
