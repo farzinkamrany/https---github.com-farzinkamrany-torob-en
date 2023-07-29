@@ -44,13 +44,11 @@ console.log(data)
             </div>
             <div className='shopping'>
                 <a href="">
-                <p>{res?.price_string}</p>
+                <b>{res?.price_string}</b>
                 </a>
-                    <div>
                                 <ContactInfo data={res}/>
                     <div className='update-details'>
                         <p>The last price change in the store: {res?.last_price_change_date}</p>
-                    </div>
                     </div>
             </div>
         </div>

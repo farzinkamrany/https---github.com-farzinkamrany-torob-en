@@ -5,7 +5,7 @@ display: flex;
 position: relative;
 /* position: fixed; */
 /* top: 110px; */
-width: 23%;
+width: 384px;
 height:40%;
 overflow-y:scroll;
 position: sticky;

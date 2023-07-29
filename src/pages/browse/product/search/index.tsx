@@ -1,7 +1,7 @@
-import Sidebar from '../components/sidebar'
+import Sidebar from '@/components/sidebar'
 import React from 'react'
 import { StAll } from './style'
-import MainPage from '../components/main'
+import MainPage from '@/components/main'
 
 const Search = () => {
   return (

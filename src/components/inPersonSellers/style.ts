@@ -14,6 +14,9 @@ export const StAll=styled.div`
     .list-of-cards{
             width: 100%;
             padding: 4px 0;
+            @media (max-width:768px) {
+                
+            }
             :hover{
                 background: #f7f8fa;
     cursor: default;
@@ -116,6 +119,7 @@ export const StAll=styled.div`
     span{
     color: #fff;
     }
+    
 
         }
         .update-details{
@@ -124,6 +128,10 @@ export const StAll=styled.div`
     color: #808080;
     line-height: 20px;
     text-align: end;
+    @media (max-width:768px) {
+        white-space: normal;
+    }
+
         }
             }
             @media(max-width:768px) {
@@ -134,6 +142,10 @@ export const StAll=styled.div`
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
+    
+    /* b{
+                color: #d73948;
+            } */
                 }
                 .card-location{
                     width: 100%;
@@ -189,10 +201,9 @@ export const StAll=styled.div`
 }
     @media (max-width:768px) {
         grid-area: 3 / 1 / 4 / 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-    width:auto;
-.card .div{
-    flex-direction:column;
-}
     }
 `

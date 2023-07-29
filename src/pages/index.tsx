@@ -13,7 +13,6 @@ import SubMenu from '@/components/subMenu'
 import InstallApp from '@/components/installApp'
 import { Datas } from '@/helpers/datas';
 import Head from 'next/head'
-import '../app/style.css'
 import { createGlobalStyle } from 'styled-components'
 import { AppProps } from 'next/app'
 const GlobalStyle = createGlobalStyle`

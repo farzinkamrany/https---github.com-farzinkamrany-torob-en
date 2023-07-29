@@ -24,7 +24,7 @@ const MainPage = () => {
       <Menu/>
 
       <SearchResult/>
-      <Footer/>
+      {/* <Footer/> */}
     </StAll>
   )
 }

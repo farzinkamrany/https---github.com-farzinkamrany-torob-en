@@ -40,7 +40,4 @@ width: 100%;
 }
 }
 }
-@media(max-width:768px){
-    width:auto;
-}
 `

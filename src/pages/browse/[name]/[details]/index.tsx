@@ -1,8 +1,10 @@
-
+import Menu from '@/components/menu'
+import MenuList from '@/components/menuList'
+import Navbar from '@/components/navbar'
+import SearchResult from '@/components/searchResult'
 import { Drawer } from 'antd'
 import React,{FC} from 'react'
 import { StRow } from '../../style'
-import MenuList from '../../../../components/menuList'
 
 
 interface PropTypes{

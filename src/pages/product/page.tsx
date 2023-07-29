@@ -1,27 +1,30 @@
-
-"use client"
+'use client'
 import React, { useState } from 'react'
+import Navbar from '@/components/navbar'
 import { StAll } from './style'
 import { Anchor, Button, Image, Modal, Tabs, Tooltip } from 'antd'
 import { AiOutlineBell,AiOutlineHeart } from 'react-icons/ai';
 import {BsShare,BsFlag} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'
-import ProductTitle from '../../components/productHeader'
-import BreadCrumb from '../../components/breadCrumb'
-import PriceCard from '../../components/priceCard'
-import InPersonSellers from '../../components/inPersonSellers'
-import ChartContainer from '../../components/chartContainer'
-import Specs from '../../components/specs'
-import ProductSection from '../../components/productSection'
-import Reports from '../../components/reports'
-import Navbar from '../../components/navbar';
-import { Datas } from '../../helpers/datas';
+import PriceCard from '@/components/priceCard'
+import ChartContainer from '@/components/chartContainer'
+import Specs from '@/components/specs'
+import ProductSection from '@/components/productSection'
+import InPersonSellers from '@/components/inPersonSellers'
+import SubMenu from '@/components/subMenu';
+import SearchNavbar from '@/components/searchNavbar';
+import BreadCrumb from '@/components/breadCrumb';
+import ProductTitle from '@/components/productHeader';
+import Reports from '@/components/reports';
+import { Datas } from '@/helpers/datas';
 const Product = ({res}:any) => {
   const [onlineCounter, setonlineCounter] = useState(1234)
   const [reportModal, setreportModal] = useState(false)
   const openReportModal = () => {
     setreportModal(true);
   };
+  const results:any=Datas
+  console.log(results)
   return (
   <StAll>
     {/* <SearchNavbar/> */}
@@ -147,6 +150,7 @@ const Product = ({res}:any) => {
           <ProductSection ProCons={Datas.ProCons}/>
         </div>
       </div>
+    <SubMenu/>
    <Reports oprnModalReport={reportModal} setreportModal={setreportModal}/>
    </StAll>
   )

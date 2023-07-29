@@ -67,7 +67,7 @@ text-align: center;
 @media (max-width:768px) {
     line-height: 45px;
     white-space: normal;
-    font-size:large;
+    font-size:x-large;
 }
     }
     span{
@@ -88,9 +88,8 @@ text-align: center;
     
 @media (max-width:768px) {
     flex-wrap: nowrap;
-    /* width: 100%; */
+    width: 100%;
     justify-content: space-between;
-
 }
 }
 .actions{
@@ -156,7 +155,6 @@ text-align: center;
     justify-content: space-between;
    span{
     padding: 8px;
-    height: auto;
 }
 p{
     white-space: nowrap;
@@ -184,7 +182,7 @@ p{
         }
     }
         @media (max-width:768px) {
-            /* padding-right: 40px; */
+            padding-right: 40px;
            .red{ 
             width: 100%;
             padding: 16px;
@@ -257,9 +255,7 @@ p{
     }
     @media (max-width:768px) {
     grid-area:4/1/5/2;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
+        
     }
 .cards{
 display: flex;
@@ -306,9 +302,6 @@ height: 52px;
     width: 100%;
     @media (max-width:768px) {
     grid-area: 5 / 1 / 6 / 2;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     }
 }
 .specs{

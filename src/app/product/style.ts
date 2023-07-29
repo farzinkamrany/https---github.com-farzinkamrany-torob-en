@@ -11,7 +11,7 @@ a{
   text-decoration: none;
 }
 @media (max-width:768px){
-    // width: 160vw;
+    width: 160vw;
 }
 .details{
     display: grid;
@@ -21,8 +21,7 @@ a{
     gap: 24px;
 
     @media (max-width:768px) {
-    gap: 24px ;
-    width:100%;
+    gap: 24px 0;
     margin: 1% auto;
         grid-template-columns: 100%;
     }
@@ -88,9 +87,8 @@ text-align: center;
     
 @media (max-width:768px) {
     flex-wrap: nowrap;
-    /* width: 100%; */
+    width: 100%;
     justify-content: space-between;
-
 }
 }
 .actions{
@@ -184,7 +182,7 @@ p{
         }
     }
         @media (max-width:768px) {
-            /* padding-right: 40px; */
+            padding-right: 40px;
            .red{ 
             width: 100%;
             padding: 16px;
@@ -260,6 +258,7 @@ p{
     display: flex;
     flex-direction: column;
     width: 100%;
+        
     }
 .cards{
 display: flex;

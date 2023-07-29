@@ -60,14 +60,12 @@ console.log(data)
              </div></div>
              <div className='shopping'>
                  <a href="">
-                 <p>{res?.price_string}</p>
+                 <b>{res?.price_string}</b>
                  </a>
                  <a href="">
-                     <div>
-                             <Button>
+                           <Button>
                                  {res?.button_text}
                              </Button>
-                     </div>
                      <div className='update-details'>
                          <p>The last price change in the store: {res?.last_price_change_date}</p>
                      </div>

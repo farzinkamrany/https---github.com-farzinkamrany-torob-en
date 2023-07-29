@@ -1,231 +1,24 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { ListOfMenu, StAll } from './style'
 import { Button, Dropdown, MenuProps } from 'antd'
 import SearchBox from '../searchBox'
 import SearchNavbar from '../searchNavbar'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
+import ItemsList from '../itemsList'
 
 const Navbar = () => {
-  const items: any =  [ {
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },{
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },{
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },{
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },{
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },]
+ 
   const router=useRouter()
-  const onClick: MenuProps['onClick'] = ({ key }) => {
-    // <Link  href="/browse"/>
-    console.log('object')
-    router.push('/browse')
-    // message.info(`Click on item ${key}`);
-    
+  const [showList, setshowList] = useState(false)
+  const [openedItem, setopenedItem] = useState<string>('')
+
+  const onClick= (e:any) => {
+    setshowList(e.target.value===openedItem?false:true)
+    setopenedItem(e.target.value)
+    console.log(e.target.value)
   };
+  console.log(openedItem)
   return (
     
     <>
@@ -233,37 +26,39 @@ const Navbar = () => {
       
       <SearchNavbar/>
       <ListOfMenu>
-        <Dropdown menu={{ items,onClick:onClick }} >
-          <li>Mobile and digital goods</li>
-        </Dropdown>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='1'>Mobile and digital goods</li>
+        </Button>
 
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Laptop, computer, office</li></Dropdown>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='2'>Laptop, computer, office</li></Button>
 
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Hypermarket</li></Dropdown>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='3'>Hypermarket</li></Button>
 
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Home Appliances</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Fashion and clothing</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Beauty and health</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Video and Audio</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Cars and other vehicles</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>sport and entertainment</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Health and medicine</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Artistic culture</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>child and baby</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Other categories</li></Dropdown>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='4'>Home Appliances</li></Button>
+          
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='5'>Fashion and clothing</li></Button>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='6' >Beauty and health</li></Button>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='7'>Video and Audio</li></Button>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='8'>Cars and other vehicles</li></Button>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='9'>sport and entertainment</li></Button>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='10'>Health and medicine</li></Button>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='11'>Artistic culture</li></Button>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='12'>child and baby</li></Button>
+        <Button onClick={(e)=>onClick(e)}>
+          <li value='13'>Other categories</li></Button>
       </ListOfMenu>
+    {showList&&<ItemsList/>}
     </StAll>
     </>
   )

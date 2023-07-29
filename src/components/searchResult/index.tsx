@@ -6,7 +6,7 @@ import { Button, Col, Dropdown, MenuProps, Tag } from 'antd'
 import SearchNavbar from '../searchNavbar'
 import BreadCrumb from '../breadCrumb'
 import { GoLocation } from 'react-icons/go';
-import { Datas } from '@/helpers/datas';
+import { Datas } from '../../helpers/datas';
 import { AiOutlineDown } from 'react-icons/ai';
 
 const SearchResult = () => {

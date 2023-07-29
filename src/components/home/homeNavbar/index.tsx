@@ -1,10 +1,12 @@
 import React,{useState} from 'react'
 import { StAll } from './style'
 import { Button, Divider, Dropdown, Input, MenuProps, Modal, Row } from 'antd'
-import { ListOfMenu } from '@/components/navbar/style'
+// import { ListOfMenu } from '../components/navbar/style'
 import Link from 'next/link'
-import LoginModal from '@/components/loginModal'
+// import LoginModal from '../components/loginModal'
 import { useRouter } from 'next/navigation'
+import { ListOfMenu } from '../../navbar/style'
+import LoginModal from '../../loginModal'
 
 const HomeNavbar = () => {
     

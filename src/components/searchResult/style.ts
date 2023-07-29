@@ -25,10 +25,14 @@ justify-content:space-between;
     }
 }
 .ant-col{
-    width:76%;
+    width:82%;
     padding:10px;
 }
 @media (max-width:768px){
+
+.ant-col{
+    width:100%;
+}
 margin-top: 0;
     width: 100%;
     flex-direction: column;
@@ -45,6 +49,7 @@ export const StCardContainer=styled.div`
 display: flex;
 flex-wrap: wrap;
 margin: 2px;
+
 /* width: 91%; */
 .ant-card{
     margin: 3px;
@@ -67,16 +72,44 @@ margin: 2px;
 }
 @media(max-width:768px){
     width:100%;
-    justify-content:stretch;
+    justify-content:center;
     
 .ant-card{
-    width: auto;
+    /* width: auto; */
     margin: 2px;
-    img{
+    
+    padding: 12px;
+    background-color: white;
+    border-radius: 8px;
+    width: 100%;
+    height: 416px;
+    display: block;
+}
+
+    .ant-card-cover{
         height: 176px;
-        width: 157px;
+    text-align: center;
+    display: block;
+    vertical-align: middle;
+    margin-bottom: 8px;
+    position: relative;
+    }
+    .ant-card img{
+        position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    object-fit: contain;
+    color: transparent;
     }
 }
+@media (max-width:425px) {
+    .ant-card{
+        /* width: 46%; */
+    }
 }
 `
 

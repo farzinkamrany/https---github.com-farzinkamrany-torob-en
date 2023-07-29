@@ -9,6 +9,9 @@ align-items: center;
     align-items: center;
     justify-content: space-between;
     padding: 4px 7px;
+    @media (max-width:768px) {
+        padding:4px;
+    }
 }
 .contact{
      /* display: flex; */

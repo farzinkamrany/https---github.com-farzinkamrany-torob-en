@@ -1,4 +1,3 @@
-'use client'
 import React,{FC} from 'react'
 import { StAll } from './style'
 import { Button, Drawer } from 'antd'

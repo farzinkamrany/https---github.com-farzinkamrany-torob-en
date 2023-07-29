@@ -27,11 +27,15 @@ export const ListOfMenu=styled.ul`
     display: flex;
     align-items: center;
     list-style: none;
-    justify-content: space-between;
+    justify-content: flex-start;
     padding: 12px;
     width: 100%;
     background: #f9fafb;
     margin: 0;
+    button{
+        border: none;
+        box-shadow: none;
+    }
     li{
         font-size: 14px;
         margin: 0 8px;
