@@ -26,6 +26,7 @@ const Navbar = () => {
       
       <SearchNavbar/>
       <ListOfMenu>
+        
         <Button onClick={(e)=>onClick(e)}>
           <li value='1'>Mobile and digital goods</li>
         </Button>
