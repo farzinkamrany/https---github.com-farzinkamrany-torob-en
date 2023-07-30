@@ -49,7 +49,10 @@ export const StCardContainer=styled.div`
 display: flex;
 flex-wrap: wrap;
 margin: 2px;
-
+.infinite-scroll-component{
+    display: flex;
+    flex-wrap: wrap;
+}
 /* width: 91%; */
 .ant-card{
     margin: 3px;

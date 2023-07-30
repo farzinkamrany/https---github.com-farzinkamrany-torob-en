@@ -23445,7 +23445,28 @@ export const Datas={
                     "show_purchase_warning": false
                 }
             ]
-        }
+        },
+        submenu:[
+            {label:'title sub',value:0,items:[
+                
+            {label:'title1',value:1,items:[
+                {label:'title5',value:1,items:[]},
+                {label:'title6',value:1,items:[]},
+                {label:'title7',value:1,items:[]},]},
+            {label:'title2',value:1,items:[]},
+            {label:'title3',value:1,items:[]},
+            {label:'title4',value:1,items:[]},
+            {label:'title5',value:1,items:[]},
+            {label:'title6',value:1,items:[]},
+            {label:'title7',value:1,items:[]},
+            ]},
+            {label:'title 1',value:1,items:[]},
+            {label:'title 2',value:2,items:[]},
+            {label:'title 3',value:3,items:[]},
+            {label:'title 4',value:4,items:[]},
+            {label:'title 5',value:5,items:[]},
+            {label:'title 6',value:6,items:[]},
+        ]
     }
     
 

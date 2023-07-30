@@ -1,3 +1,4 @@
+"use client"
 import React,{useState} from 'react'
 import { StAll } from './style'
 import { Button, Divider, Dropdown, Input, MenuProps, Modal, Row } from 'antd'

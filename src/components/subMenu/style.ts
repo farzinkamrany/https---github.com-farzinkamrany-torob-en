@@ -13,6 +13,10 @@ bottom: 0;
     height: 50px;
     font-size: 12px;
 }
+.ant-drawer-header{
+    text-align:center;
+}
+
 @media (max-width:768px) {
 display: flex;
 }

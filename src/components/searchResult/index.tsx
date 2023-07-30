@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { StAll, StCardContainer, StHeader, StMobileHeader } from './style'
 import Card from '../card'
 import Sidebar from '../sidebar'
@@ -8,8 +8,10 @@ import BreadCrumb from '../breadCrumb'
 import { GoLocation } from 'react-icons/go';
 import { Datas } from '../../helpers/datas';
 import { AiOutlineDown } from 'react-icons/ai';
+import InfiniteScroll from 'react-infinite-scroll-component';
 
 const SearchResult = () => {
+  const [nextPage, setnextPage] = useState(15)
     const items: MenuProps['items'] = [
         {
           label: (
@@ -44,6 +46,10 @@ const SearchResult = () => {
           key: '4',
         },
       ];
+      const handleNext=()=>{
+        setnextPage((prev)=>prev+15)
+      }
+      console.log(nextPage)
   return (
     <StAll>
         {/* <SearchNavbar/> */}
@@ -91,8 +97,31 @@ const SearchResult = () => {
   <hr />
   <h2>List Of Products</h2>
       <StCardContainer>
-      {Datas?.listOfProducts?.map((res:any)=><Card data={res}/>)}
+      {/* {Datas?.listOfProducts?.map((res:any)=><Card data={res}/>)} */}
+      <InfiniteScroll
+  dataLength={Datas?.listOfProducts?.length} //This is important field to render the next data
+  next={handleNext}
+  hasMore={nextPage<Datas?.listOfProducts?.length?true:false}
+  loader={<h4>Loading...</h4>}
+  endMessage={
+    <p style={{textAlign: 'center'}}>
+      <b>Yay! You have seen it all</b>
+    </p>
+  }
+  // below props only if you need pull down functionality
+  // refreshFunction={this.refresh}
+  // pullDownToRefresh
+  // pullDownToRefreshContent={
+  //   <h3 style={{textAlign: 'center'}}>&#8595; Pull down to refresh</h3>
+  // }
+  // releaseToRefreshContent={
+  //   <h3 style={{textAlign: 'center'}}>&#8593; Release to refresh</h3>
+  // }
+  >
+  {Datas?.listOfProducts?.slice(0,nextPage).map((res:any)=><Card data={res}/>)}
+</InfiniteScroll>
       </StCardContainer>
+      
       </Col>
     </StAll>
   )

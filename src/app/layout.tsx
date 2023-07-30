@@ -3,6 +3,8 @@ import SubMenu from '@/components/subMenu'
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import { useState } from 'react';
+import { Datas } from '@/helpers/datas'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -16,13 +18,14 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  const [openDrawer, setopenDrawer] = useState(false)
   return (
     <html lang="en">
       <body 
       className={inter.className}
       >
         {children}
-        <SubMenu/>
+        <SubMenu items={Datas.submenu} title={Datas?.submenu?.label} openDrawer={openDrawer} setopenDrawer={setopenDrawer}/>
         </body>
     </html>
   )

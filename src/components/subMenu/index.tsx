@@ -3,14 +3,18 @@ import { StAll } from './style'
 import { Button, Drawer } from 'antd'
 import Link from 'next/link'
 import DetailsDrawer from '@/app/browse/[name]/[details]'
+import { Datas } from '@/helpers/datas'
+import { useState } from 'react';
 
 interface PropTypes{
   setopenDrawer?:any
   openDrawer?:boolean
+  items?:any
+  title?:string
 }
+
 const SubMenu:FC<PropTypes> = ({
-  openDrawer=false,
-  setopenDrawer
+  items,openDrawer,setopenDrawer,title
 }) => {
   return (
     <StAll>
@@ -19,8 +23,9 @@ const SubMenu:FC<PropTypes> = ({
         <Button>Special Offer</Button>
         <Button>My torob</Button>
         
-    <Drawer open={openDrawer} onClose={()=>setopenDrawer(false)}>
-      <DetailsDrawer setopenDetails={setopenDrawer} openDetails={openDrawer}/>
+    <Drawer width={1000}
+    bodyStyle={{padding:5}} title="Products"  open={openDrawer} onClose={()=>setopenDrawer(false)}>
+      <DetailsDrawer openDetails={openDrawer}setopenDetails={setopenDrawer} items={items}/>
     </Drawer>
     </StAll>
   )

@@ -4,10 +4,11 @@ export const InputStyle=styled.div`
 display: flex;
 flex-direction: column;
 justify-content: center;
-width: 80%;
+width: 100%;
     align-items: center;
     /* position: relative; */
     float: right;
+    min-height: 60vh;
     margin: 7% auto;
     overflow:clip;
     /* margin-top: 10%; */

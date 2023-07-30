@@ -105,3 +105,6 @@ a {
     color-scheme: dark;
   }
 }
+.ant-drawer-header {
+  text-align: center;
+}

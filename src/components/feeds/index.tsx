@@ -1,3 +1,4 @@
+"use client"
 import React,{FC}  from 'react'
 import Slider from '../slider'
 import Tiles from '../tiles'
