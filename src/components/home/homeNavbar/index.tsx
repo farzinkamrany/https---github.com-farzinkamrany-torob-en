@@ -265,9 +265,12 @@ const HomeNavbar = () => {
       </ListOfMenu>
         <div>
             
-      <Button onClick={()=>!localStorage.getItem('phone number')?setIsModalOpen(true):router.push('/profile')}>
+      <Button onClick={()=>
+         (typeof window !== 'undefined')&& !localStorage.getItem('phone number')?setIsModalOpen(true):router.push('/profile')}>
         
-      {localStorage.getItem('phone number')===null?'login/sign-up':localStorage.getItem('phone number')}
+      {
+         (typeof window !== 'undefined')&& 
+      localStorage.getItem('phone number')===null?'login/sign-up':localStorage.getItem('phone number')}
       </Button>
         </div>
           <LoginModal setIsModalOpen={setIsModalOpen} isModalOpen={isModalOpen} />
