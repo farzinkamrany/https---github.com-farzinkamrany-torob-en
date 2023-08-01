@@ -25,7 +25,7 @@ export default function RootLayout({
       className={inter.className}
       >
         {children}
-        <SubMenu items={Datas.submenu} title={Datas?.submenu?.label} openDrawer={openDrawer} setopenDrawer={setopenDrawer}/>
+        <SubMenu items={Datas.submenu} openDrawer={openDrawer} setopenDrawer={setopenDrawer}/>
         </body>
     </html>
   )

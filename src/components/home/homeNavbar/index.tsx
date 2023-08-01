@@ -8,10 +8,14 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { ListOfMenu } from '../../navbar/style'
 import LoginModal from '../../loginModal'
+import { Datas } from '@/helpers/datas'
+import ItemsList from '@/components/itemsList'
 
 const HomeNavbar = () => {
     const router=useRouter()
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [showList, setshowList] = useState(false)
+  const [openedItem, setopenedItem] = useState<string>('')
 
   const items: any = [ {
     key: '1',
@@ -224,53 +228,31 @@ const HomeNavbar = () => {
       },
     ],
   },]
-  const onClick: MenuProps['onClick'] = ({ key }) => {
-    router.push(key)
+  const onClick = ( e:any ) => {
     
+    setshowList((prev)=>!prev)
+    setopenedItem(e.target.value)
   };
   return (
     <StAll>
       
+      <Row>
       <ListOfMenu>
-        <Dropdown menu={{ items,onClick:onClick }} trigger={['click']}>
-          <li>Mobile and digital goods</li>
-        </Dropdown>
-
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Laptop, computer, office</li></Dropdown>
-
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Hypermarket</li></Dropdown>
-
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Home Appliances</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Fashion and clothing</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Beauty and health</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Video and Audio</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Cars and other vehicles</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>sport and entertainment</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Health and medicine</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Artistic culture</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>child and baby</li></Dropdown>
-        <Dropdown menu={{ items }} trigger={['click']}>
-          <li>Other categories</li></Dropdown>
+      {Datas?.dropMenu?.map((res:any)=><Button onClick={(e)=>onClick(e)}>
+          <li value={res?.value}>{res?.title}</li>
+        </Button>)}
+        
       </ListOfMenu>
-        <div>
+    {showList&&<ItemsList data={Datas?.dropMenu?.find((res:any)=>res?.value===JSON.stringify(openedItem))}/>}
+      </Row>
             
+        <div>
       <Button onClick={()=>
-         (typeof window !== 'undefined')&& !localStorage.getItem('phone number')?setIsModalOpen(true):router.push('/profile')}>
+         (typeof window !== 'undefined')? !localStorage.getItem('phone number')?setIsModalOpen(true):router.push('/profile'):null}>
         
       {
-         (typeof window !== 'undefined')&& 
-      localStorage.getItem('phone number')===null?'login/sign-up':localStorage.getItem('phone number')}
+        (typeof window !== 'undefined')?
+      localStorage.getItem('phone number')===null?'login/sign-up':localStorage.getItem('phone number'):null}
       </Button>
         </div>
           <LoginModal setIsModalOpen={setIsModalOpen} isModalOpen={isModalOpen} />

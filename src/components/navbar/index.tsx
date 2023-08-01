@@ -19,7 +19,6 @@ console.log(openedItem)
     setopenedItem(e.target.value)
     console.log(e.target.value)
   };
-  console.log(Datas?.dropMenu?.find((res:any)=>res?.value===JSON.stringify(openedItem)))
   return (
     
     <>
