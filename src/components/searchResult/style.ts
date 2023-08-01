@@ -9,6 +9,25 @@ display: flex;
 justify-content:space-between;
 /* width: 80%; */
     /* margin-top: 4%; */
+    
+.shopper {
+    
+    display: flex;
+    align-items: center;
+    .ant-btn{
+    border:none;
+    box-shadow: none;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    svg{
+        font-size:20px;
+        /* fill: rgb(215, 57, 72); */
+    }
+    span{
+    margin:0 5px;
+}
+}}
 .ant-dropdown-trigger{
     background-color: transparent;
     padding: 2px 5px;
@@ -29,7 +48,9 @@ justify-content:space-between;
     padding:10px;
 }
 @media (max-width:768px){
-
+.shopper .ant-btn{
+    display: none;
+}
 .ant-col{
     width:100%;
 }
@@ -56,9 +77,9 @@ margin: 2px;
 /* width: 91%; */
 .ant-card{
     margin: 3px;
-    padding: 3px;
+    padding: 12px;
     img{
-        height: 181px;
+        /* height: 181px; */
         width: 148px;
     }
     .ant-btn{
@@ -152,7 +173,7 @@ h3{
     white-space:nowrap;
 }
 }
-.shoppers{
+.mobileShoppers{
     display: flex;
 width:100%;
 align-items:center;

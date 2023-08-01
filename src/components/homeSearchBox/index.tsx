@@ -13,7 +13,8 @@ const HomeSearchBox:FC<PropTypes> = ({data}) => {
   return (
     <InputStyle>
    <div className="pcImg">
-   <img src="https://api.torob.com/static/webservice/img/Eid-Ghadir-1402-Desktop.gif" alt="" />
+   <img src="https://torob.com/static/images/logo_original.png" alt="" />
+   <span>Torob</span>
    </div>
     <div className="imgMobile">
     <img src="https://torob.com/static/images/torob_logo.svg" alt="" />

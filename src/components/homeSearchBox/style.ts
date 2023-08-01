@@ -8,10 +8,20 @@ width: 100%;
     align-items: center;
     /* position: relative; */
     float: right;
-    min-height: 60vh;
+    min-height: 70vh;
     margin: 7% auto;
     overflow:clip;
     /* margin-top: 10%; */
+    .pcImg{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        span{
+            color: #ff3333;
+            font-size: 40px;
+            font-weight: bold;
+        }
+    }
 .sticky{
     position:sticky;
     top:0;
@@ -30,8 +40,7 @@ width: 100%;
     display: none;
 }
 img{
-    width: 500px;
-    height: 180px;
+    
 }
 .mobileView{
     display: none;

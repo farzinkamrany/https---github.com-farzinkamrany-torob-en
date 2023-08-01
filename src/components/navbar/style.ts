@@ -37,8 +37,9 @@ export const ListOfMenu=styled.ul`
         box-shadow: none;
     }
     li{
-        font-size: 14px;
+        font-size: 11px;
         margin: 0 8px;
+        font-weight: bold;
         cursor: pointer;
     }
 

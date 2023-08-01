@@ -19,7 +19,7 @@ const SearchNavbar = () => {
         <div>
             
       <Button className='signup' onClick={()=>setshowLoginModal(true)}>
-        login/sign-up
+        {!localStorage.getItem('phone number')?'login/sign-up':localStorage.getItem('phone number')}
       </Button>
         </div>
           <LoginModal setIsModalOpen={setshowLoginModal} isModalOpen={showLoginModal} />

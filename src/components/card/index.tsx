@@ -29,11 +29,11 @@ const Card:FC<PropTypes> = ({
       <div className='shops'>{data?.shop_text}</div>
       <br />
     <div className='action-items'>
-      <div><Button onClick={(e:any)=>e.preventDefault()}>
+      <div><Button style={{marginRight:10}} onClick={(e:any)=>e.preventDefault()}>
       <AiOutlineHeart/>
       </Button></div>
       <div>
-        <Button  onClick={(e:any)=>e.preventDefault()}> 
+        <Button onClick={(e:any)=>e.preventDefault()}> 
         <AiOutlineBell/>
         </Button>
       </div>

@@ -4,6 +4,7 @@ import { Button, Checkbox, Col, Input, Menu, MenuProps, Row } from 'antd'
 import SubMenu from '../subMenu';
 import Card from '../card';
 import { AiOutlineSearch } from 'react-icons/ai';
+import { Datas } from '@/helpers/datas';
 
 const Sidebar = () => {
   type MenuItem = Required<MenuProps>['items'][number];
@@ -25,9 +26,12 @@ function getItem(
 }
   const items:any=[
     
+    getItem('Specific detail', 'sub0','', 
+      Datas?.category?.map((res:any)=>getItem(res?.title, res?.id)),
+    ),
     getItem('Working Condition', 'sub1','', [
-      getItem('Option 5', '5'),
-      getItem('Option 6', '6'),
+      getItem('new', '5'),
+      getItem('second hand ', '6'),
     ]),
     getItem('Prices', 'sub2', '', [getItem((<Col style={{height:250}}>
       <Row><Input prefix={'from'}/>  <Input prefix={'to'}/></Row>

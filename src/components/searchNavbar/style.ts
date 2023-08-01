@@ -7,6 +7,7 @@ export const StAll=styled.div`
     align-items: center;
     padding:  5px;
     height: 48px;
+    margin-top: 10px;
 img{
     width: 40px;
     height: 40px;

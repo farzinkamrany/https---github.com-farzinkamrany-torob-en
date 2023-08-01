@@ -6,19 +6,20 @@ import SearchNavbar from '../searchNavbar'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import ItemsList from '../itemsList'
+import { Datas } from '@/helpers/datas'
 
 const Navbar = () => {
  
   const router=useRouter()
   const [showList, setshowList] = useState(false)
   const [openedItem, setopenedItem] = useState<string>('')
-
+console.log(openedItem)
   const onClick= (e:any) => {
-    setshowList(e.target.value===openedItem?false:true)
+    setshowList((prev)=>!prev)
     setopenedItem(e.target.value)
     console.log(e.target.value)
   };
-  console.log(openedItem)
+  console.log(Datas?.dropMenu?.find((res:any)=>res?.value===JSON.stringify(openedItem)))
   return (
     
     <>
@@ -27,39 +28,11 @@ const Navbar = () => {
       <SearchNavbar/>
       <ListOfMenu>
         
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='1'>Mobile and digital goods</li>
-        </Button>
-
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='2'>Laptop, computer, office</li></Button>
-
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='3'>Hypermarket</li></Button>
-
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='4'>Home Appliances</li></Button>
-          
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='5'>Fashion and clothing</li></Button>
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='6' >Beauty and health</li></Button>
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='7'>Video and Audio</li></Button>
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='8'>Cars and other vehicles</li></Button>
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='9'>sport and entertainment</li></Button>
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='10'>Health and medicine</li></Button>
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='11'>Artistic culture</li></Button>
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='12'>child and baby</li></Button>
-        <Button onClick={(e)=>onClick(e)}>
-          <li value='13'>Other categories</li></Button>
+        {Datas?.dropMenu?.map((res:any)=><Button onClick={(e)=>onClick(e)}>
+          <li value={res?.value}>{res?.title}</li>
+        </Button>)}
       </ListOfMenu>
-    {showList&&<ItemsList/>}
+    {showList&&<ItemsList data={Datas?.dropMenu?.find((res:any)=>res?.value===JSON.stringify(openedItem))}/>}
     </StAll>
     </>
   )

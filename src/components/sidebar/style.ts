@@ -6,7 +6,7 @@ position: relative;
 /* position: fixed; */
 /* top: 110px; */
 width: 384px;
-height:40%;
+height:70vh;
 overflow-y:scroll;
 position: sticky;
     top: 0;
@@ -43,7 +43,7 @@ li:hover,ul:hover{
     .ant-menu-item-selected{
         padding-left:0;
     }
-    li:nth-child(2) ul li{
+    li:nth-child(3) ul li{
     height: 150px;
     padding-top:50%;
     padding-left: 2px !important;

@@ -5,7 +5,7 @@ import Sidebar from '../sidebar'
 import { Button, Col, Dropdown, MenuProps, Tag } from 'antd'
 import SearchNavbar from '../searchNavbar'
 import BreadCrumb from '../breadCrumb'
-import { GoLocation } from 'react-icons/go';
+import { MdLocationOn } from 'react-icons/md';
 import { Datas } from '../../helpers/datas';
 import { AiOutlineDown } from 'react-icons/ai';
 import InfiniteScroll from 'react-infinite-scroll-component';
@@ -49,7 +49,6 @@ const SearchResult = () => {
       const handleNext=()=>{
         setnextPage((prev)=>prev+15)
       }
-      console.log(nextPage)
   return (
     <StAll>
         {/* <SearchNavbar/> */}
@@ -88,14 +87,18 @@ const SearchResult = () => {
     <div className="cards">3</div>
   </div> */}
   
-  <div className='shoppers'>  
-    <Button><GoLocation/>online shopping</Button>
-    <Button><GoLocation/>in-person</Button>
+  <div className='mobileShoppers'>  
+    <Button><MdLocationOn/>online shopping</Button>
+    <Button><MdLocationOn/>in-person</Button>
   </div>
   </StMobileHeader>
   <br />
   <hr />
   <h2>List Of Products</h2>
+    <div className="shopper">
+    <Button><MdLocationOn style={{fill: 'rgb(215, 57, 72)'}}/>online shopping</Button>
+    <Button><MdLocationOn style={{fill: 'rgb(52, 104, 204)'}}/>in-person</Button>
+    </div>
       <StCardContainer>
       {/* {Datas?.listOfProducts?.map((res:any)=><Card data={res}/>)} */}
       <InfiniteScroll

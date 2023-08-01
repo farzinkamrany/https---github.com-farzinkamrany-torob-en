@@ -1,21 +1,25 @@
-import React from 'react'
+import React,{FC} from 'react'
 import { StAll } from './style'
 import Link from 'next/link'
-
-const ItemsList = () => {
+interface PropTypes{
+  data?:any
+}
+const ItemsList:FC<PropTypes> = ({data}) => {
   return (
     <StAll>
       <Link href=''>
         <h4>Title</h4>
       </Link>
-      <div className='dropitems'>
-        <Link href=''>
-        link
+      <p>
+      {data?.items?.map((res:any)=><div className='dropitems'>
+        <Link href={'/browse/x'}>
+        <b>{res?.title}</b>
         </Link>
-        <ul>
-    ul
-        </ul>
-      </div>
+        {res?.items?.length>0&&<ul>
+    {res?.items?.map((resp:any)=><Link href={'/product/'+res?.title}><li>{resp?.title}</li></Link>)}
+        </ul>}
+      </div>)}
+      </p>
     </StAll>
   )
 }

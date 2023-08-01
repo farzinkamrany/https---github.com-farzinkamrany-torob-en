@@ -10,7 +10,7 @@ import { ListOfMenu } from '../../navbar/style'
 import LoginModal from '../../loginModal'
 
 const HomeNavbar = () => {
-    
+    const router=useRouter()
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const items: any = [ {
@@ -224,7 +224,6 @@ const HomeNavbar = () => {
       },
     ],
   },]
-  const router=useRouter()
   const onClick: MenuProps['onClick'] = ({ key }) => {
     router.push(key)
     
@@ -266,8 +265,9 @@ const HomeNavbar = () => {
       </ListOfMenu>
         <div>
             
-      <Button onClick={()=>setIsModalOpen(true)}>
-        login/sign-up
+      <Button onClick={()=>!localStorage.getItem('phone number')?setIsModalOpen(true):router.push('/profile')}>
+        
+      {localStorage.getItem('phone number')===null?'login/sign-up':localStorage.getItem('phone number')}
       </Button>
         </div>
           <LoginModal setIsModalOpen={setIsModalOpen} isModalOpen={isModalOpen} />
