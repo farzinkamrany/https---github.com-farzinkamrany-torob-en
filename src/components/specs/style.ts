@@ -1,18 +1,26 @@
 import styled from 'styled-components';
 
 export const StAll=styled.div`
-display: grid;
-grid-area: 5 / 1 / 6 / 2; 
+/* display: grid; */
+/* grid-area: 1 / 2 / 4 / 3;  */
+display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 background-color: #fff;
 padding: 8px;
 border-radius:4px;
-height: 260px;
+/* height: 260px; */
+
     overflow-y: scroll;
+    .detailed{
+        margin:4%;
+    }
 .specs{
     display: flex;
     flex-direction: column;
     align-items: start;
     justify-content: flex-start;
+    margin-top: 12px;
    ~ :nth-child(3){
     display: none;
     }
@@ -36,11 +44,17 @@ height: 260px;
     color: #d73948;
     border: 0;
 }
+.ant-btn{
+    display: none;
+}
     @media(max-width:768px){
         display: flex;
         flex-direction: column;
         width: 100%;
         overflow: auto;
+.ant-btn{
+    display: flex;
+}
 .detailed{
     height: 160px;
     overflow: scroll;

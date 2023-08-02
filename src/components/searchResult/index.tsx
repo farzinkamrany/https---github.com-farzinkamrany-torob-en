@@ -3,7 +3,6 @@ import { StAll, StCardContainer, StHeader, StMobileHeader } from './style'
 import Card from '../card'
 import Sidebar from '../sidebar'
 import { Button, Col, Dropdown, MenuProps, Tag } from 'antd'
-import SearchNavbar from '../searchNavbar'
 import BreadCrumb from '../breadCrumb'
 import { MdLocationOn } from 'react-icons/md';
 import { Datas } from '../../helpers/datas';

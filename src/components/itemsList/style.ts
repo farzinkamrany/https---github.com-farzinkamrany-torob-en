@@ -1,8 +1,10 @@
 import styled from 'styled-components';
 
 export const StAll=styled.div`
-width: 96%;
-margin-top: 10px;
+    width: 96%;
+    margin-top: 4%;
+    position: absolute;
+z-index: 10;
     background-color: #f9fafb;
     border-radius:12px;
     p{

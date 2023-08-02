@@ -26,6 +26,11 @@ export const StAll=styled.div`
             justify-content: space-between;
             width: 100%;
             align-items: center;
+            border-bottom: 1px solid#dfe3e8;
+            padding: 0 16px 24px 24px;
+            :last-child{
+                border-bottom: 0;
+            }
         .card-location{
             display: flex;
             flex-direction: column;
@@ -138,8 +143,8 @@ export const StAll=styled.div`
                 /* width: 84%; */
                 flex-direction: column;
                 .shopping{
-                    align-items: center;
-    flex-direction: row;
+                    align-items: flex-end;
+    flex-direction: column;
     justify-content: space-between;
     width: 100%;
     
@@ -204,6 +209,5 @@ export const StAll=styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-
     }
 `

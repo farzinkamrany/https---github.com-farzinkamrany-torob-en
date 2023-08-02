@@ -29,11 +29,13 @@ width: 100%;
   position: -webkit-sticky;
 }
 .ant-select{
+    
+    /* height: 48px; */
     margin: 2% 0;
     width: 500px;
-    height: 50px;
+    /* height: 50px; */
     .ant-select-selector{
-        height: 48px;
+        /* height: 48px; */
     }
 }
 .imgMobile{

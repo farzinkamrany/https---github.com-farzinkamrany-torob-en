@@ -8,7 +8,7 @@ const ItemsList:FC<PropTypes> = ({data}) => {
   return (
     <StAll>
       <Link href=''>
-        <h4>Title</h4>
+        {/* <h4>{data?.title}</h4> */}
       </Link>
       <p>
       {data?.items?.map((res:any)=><div className='dropitems'>

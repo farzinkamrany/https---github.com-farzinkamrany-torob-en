@@ -3,11 +3,18 @@ import styled from 'styled-components';
 export const StAll=styled.div`
     display: flex;
     width: 100%;
+    position: fixed;
+    top:0;
     justify-content: space-between;
     align-items: center;
     padding:  5px;
     background-color: #f9fafb;
     padding: 0 40px;
+    .ant-btn{
+        /* max-width: 130px; */
+        padding: 0;
+        background-color: transparent;
+    }
 img{
     width: 40px;
     height: 40px;

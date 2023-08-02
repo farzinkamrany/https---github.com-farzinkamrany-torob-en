@@ -233,7 +233,7 @@ p{
 .sellers{
     min-height: 180px;
     background-color: #fff;
-    padding:5px 12px;
+    padding:5px 3px;
     border-radius: 4px;
     display: grid;
     grid-area: 2 / 1 / 3 / 2;
@@ -245,7 +245,7 @@ p{
         justify-content: space-between;
         align-items: center;
         width: 100%;
-        padding: 2px;
+        padding: 12px;
         margin: 10px 0;
         h3{
             margin: 0;
@@ -312,6 +312,7 @@ height: 52px;
     }
 }
 .specs{
+    /* display: grid; */
 @media (max-width:768px) {
     display: grid;
     grid-area: 6 / 1 / 7 / 2;
@@ -336,5 +337,13 @@ height: 52px;
 }
 @media (max-width:768px) {
     /* width: 637px; */
+   .sellers .cards .active-card {
+    margin-top: 1%;
+        p{
+            font-size: 11px;
+        }
+        b{
+        font-size: 12px;
+    }}
 }
 `

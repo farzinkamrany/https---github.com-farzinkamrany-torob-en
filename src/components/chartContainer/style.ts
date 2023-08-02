@@ -7,6 +7,7 @@ export const StAll=styled.div`
     align-items: center;
     background-color: #fff;
     border-radius: 4px;
+    height: 100%;
     padding: 5px;
     margin-bottom: 70px;
     .chart{

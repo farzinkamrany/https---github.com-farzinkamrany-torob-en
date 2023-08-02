@@ -34,7 +34,9 @@ flex-direction:column;
             display: flex;
             justify-content: space-between;
             width: 100%;
+            border-bottom: 1px solid#dfe3e8;
             align-items: center;
+            padding: 0 16px 24px 24px;
             @media(max-width:768px){
                 flex-direction: column;
             align-items: flex-start;
@@ -49,7 +51,7 @@ flex-direction:column;
             .div{
                 display: flex;
                 width: 100%;
-    justify-content: space-evenly;
+    justify-content: space-between;
             }
         .card-location{
             display: flex;

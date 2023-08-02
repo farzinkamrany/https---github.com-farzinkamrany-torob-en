@@ -24,11 +24,27 @@ border-radius: 10px;
     ul{
         margin: 0;
         padding-left: 20px;
+        
+            list-style: none;
         li{
+            line-height: 24px;
             font-size: 12px;
+            display: flex;
+                align-items: center;
             /* padding-inline-start: 20px; */
 }
+
     }
+    .strengths span{
+                color: #00528c;
+                width: 1rem;
+
+            }
+           .weaknesses span{
+                color: #f49342;
+                width: 1rem;
+
+            }
     .s-title{
         color: #4caf50;
     }
@@ -43,6 +59,7 @@ border-radius: 10px;
             border: none;
             font-weight: bold;
             color: #d73948;
+            box-shadow: none;
         }
     }
 `

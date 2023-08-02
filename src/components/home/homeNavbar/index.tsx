@@ -1,7 +1,7 @@
 "use client"
 import React,{useState} from 'react'
 import { StAll } from './style'
-import { Button, Divider, Dropdown, Input, MenuProps, Modal, Row } from 'antd'
+import { Button, Col, Divider, Dropdown, Input, MenuProps, Modal, Row } from 'antd'
 // import { ListOfMenu } from '../components/navbar/style'
 import Link from 'next/link'
 // import LoginModal from '../components/loginModal'
@@ -17,219 +17,8 @@ const HomeNavbar = () => {
   const [showList, setshowList] = useState(false)
   const [openedItem, setopenedItem] = useState<string>('')
 
-  const items: any = [ {
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },{
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },{
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },{
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },{
-    key: '1',
-    type: 'group',
-    label: 'Group title',
-    children: [
-      {
-        key: '1-1',
-        label: '1st menu item',
-      },
-      {
-        key: '1-2',
-        label: '2nd menu item',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },{
-        label: 'example', value: '',
-      },
-    ],
-  },]
+  
   const onClick = ( e:any ) => {
-    
     setshowList((prev)=>!prev)
     setopenedItem(e.target.value)
   };
@@ -238,9 +27,11 @@ const HomeNavbar = () => {
       
       <Row>
       <ListOfMenu>
-      {Datas?.dropMenu?.map((res:any)=><Button onClick={(e)=>onClick(e)}>
-          <li value={res?.value}>{res?.title}</li>
-        </Button>)}
+      {Datas?.dropMenu?.map((res:any)=>
+      <Col><Button onClick={(e)=>onClick(e)}>
+      <li value={res?.value}>{res?.title}</li>
+    </Button></Col>
+      )}
         
       </ListOfMenu>
     {showList&&<ItemsList data={Datas?.dropMenu?.find((res:any)=>res?.value===JSON.stringify(openedItem))}/>}

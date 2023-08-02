@@ -5,8 +5,8 @@ import { Button } from 'antd'
 const Specs = () => {
   return (
     <StAll>
-      <h2>Product Specifications</h2>
         <div className="detailed">
+      <h2>Product Specifications</h2>
         <div className="specs">
             <div className="row-specs">
             <b>Central processor</b>

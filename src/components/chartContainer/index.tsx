@@ -53,12 +53,12 @@ const ChartContainer:FC<PropTypes> = ({chart}) => {
         </LineChart>
        
         </div>
+      </div>
        <div className="more">
        <Button onClick={()=>setshowModal(true)}>
             <AiOutlineSearch/>
         </Button>
        </div>
-      </div>
       <Modal open={showModal} 
       footer={false}
       onCancel={()=>setshowModal(false)} 

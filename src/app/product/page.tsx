@@ -128,7 +128,7 @@ const Product = ({res}:any) => {
             <Button><a href="#inPerson">in person</a></Button>
           </div> */}
           
-        <div className='in-person' id="part-1"> 
+        <div className='in-person' id="part-1" style={{marginTop:10}}> 
         
   <div  id="onlineSellers part-1"><PriceCard data={Datas}/></div>
   <br />

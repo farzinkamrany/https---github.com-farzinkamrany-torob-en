@@ -2,11 +2,13 @@ import React, { useState } from 'react'
 import { ListOfMenu, StAll } from './style'
 import { Button, Dropdown, MenuProps } from 'antd'
 import SearchBox from '../searchBox'
-import SearchNavbar from '../searchNavbar'
+
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import ItemsList from '../itemsList'
 import { Datas } from '@/helpers/datas'
+import dynamic from 'next/dynamic'
+const SearchNavbar=dynamic(()=>import('@/components/searchNavbar'),{ssr:false})
 
 const Navbar = () => {
  
