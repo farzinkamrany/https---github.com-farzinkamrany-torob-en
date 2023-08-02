@@ -87,7 +87,7 @@ const Product = ({res}:any) => {
           <div className='installer'>
         <div className='question'>you want app on your phone?</div>
         <br />
-        <div><Button className='yes' style={{background:'linear-gradient(180deg,#f04151,#d73948)',color:'#fff'}}>yes, install it</Button>
+        <div className='btns'><Button className='yes' style={{background:'linear-gradient(180deg,#f04151,#d73948)',color:'#fff'}}>yes, install it</Button>
         <Button className='no'>No</Button></div>
           </div>
           <div className='logo'>

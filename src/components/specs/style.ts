@@ -9,6 +9,7 @@ display: flex;
 background-color: #fff;
 padding: 8px;
 border-radius:4px;
+height: 100%;
 /* height: 260px; */
 
     overflow-y: scroll;

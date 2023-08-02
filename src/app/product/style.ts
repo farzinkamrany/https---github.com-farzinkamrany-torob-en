@@ -211,12 +211,23 @@ p{
         .question{
             font-size:18px;
         }
+        .btns{
+            display: flex;
+    flex-direction: column;
+    width: 100%;
+        }
+        .btns{
+            display: flex;
+    flex-direction: column;
+    width: 100%;
+        }
         .no{
-            
+            margin-top: 8px;
+            margin-top: 8px;
     background: white;
     color: #d73948;
     border: 1px solid #d73948;
-
+            width: 40%;
         }
         img{
             width:100px;
@@ -340,7 +351,12 @@ height: 52px;
 }
 @media(max-width:768px){
     /* width: 637px; */
-    
+    .sellers{
+        padding: 0;
+        .title{
+            background: #f2f3f5;
+        }
+    }
    .cards .active-card b{
         font-size: 12px;
     }

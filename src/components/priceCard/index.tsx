@@ -57,17 +57,22 @@ console.log(data)
                          <SendingDetails/>
                      </div>
  
-             </div></div>
+             </div>
+             </div>
              <div className='shopping'>
                  <a href="">
                  <b>{res?.price_string}</b>
+                 
+                 <div className='update-details-mobile'>
+                         <p><span>The last price change in the store:</span> {res?.last_price_change_date}</p>
+                     </div>
                  </a>
                  <a href="">
                            <Button>
                                  {res?.button_text}
                              </Button>
                      <div className='update-details'>
-                         <p>The last price change in the store: {res?.last_price_change_date}</p>
+                         <p><span>The last price change in the store:</span> {res?.last_price_change_date}</p>
                      </div>
                  </a>
              </div>

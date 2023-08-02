@@ -4,17 +4,19 @@ export const StAll=styled.div`
 display: grid;
 grid-area: 5 / 1 / 6 / 2;
 background: #fff;
-padding: 8px;
+padding: 24px;
 border-radius: 10px;
 .title{
     display: flex;
     align-items:center ;
     width: 100%;
+    margin-bottom: 24px;
     h2{
         font-size: 18px;
     }
     small{
         margin-left: 3%;
+        color: #737373;
         font-size: 12px;
         white-space: nowrap;
     }
@@ -23,8 +25,6 @@ border-radius: 10px;
     display: flex;
     ul{
         margin: 0;
-        padding-left: 20px;
-        
             list-style: none;
         li{
             line-height: 24px;
@@ -34,6 +34,9 @@ border-radius: 10px;
             /* padding-inline-start: 20px; */
 }
 
+    }
+    .weaknesses{
+        margin-left: 15px;
     }
     .strengths span{
                 color: #00528c;

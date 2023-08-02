@@ -48,7 +48,7 @@ console.log(data)
                 </a>
                                 <ContactInfo data={res}/>
                     <div className='update-details'>
-                        <p>The last price change in the store: {res?.last_price_change_date}</p>
+                        <p><span>The last price change in the store: </span>{res?.last_price_change_date}</p>
                     </div>
             </div>
         </div>

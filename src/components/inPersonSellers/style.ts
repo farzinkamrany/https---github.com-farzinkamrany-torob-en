@@ -29,6 +29,7 @@ export const StAll=styled.div`
             border-bottom: 1px solid#dfe3e8;
             padding: 0 16px 24px 24px;
             :last-child{
+                display: flex;
                 border-bottom: 0;
             }
         .card-location{
@@ -98,11 +99,21 @@ export const StAll=styled.div`
                 justify-content: flex-start;
                 align-items: flex-end;
                 width: 50%;
+                b{
+                    color: #3468cc;
+                }
                 a{
                     text-align: right;
+                    span{
+                        white-space: nowrap;
+                        @media (max-width:768px) {
+                            white-space: normal;
+                        }
+                    }
                 }
                 p{
                     font-size: 14px;
+                    text-align: right;
                 }
                     span{
                         background-color: transparent;
@@ -132,7 +143,7 @@ export const StAll=styled.div`
     margin-top: 12px;
     color: #808080;
     line-height: 20px;
-    text-align: end;
+    text-align: start;
     @media (max-width:768px) {
         white-space: normal;
     }
@@ -159,7 +170,7 @@ export const StAll=styled.div`
                     .div{
                         flex-direction: column;
                         width: 100%;
-    justify-content: space-between;
+    /* justify-content: space-between; */
                     }
                     small{
                         margin-left:3%;

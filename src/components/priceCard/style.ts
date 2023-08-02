@@ -51,7 +51,7 @@ flex-direction:column;
             .div{
                 display: flex;
                 width: 100%;
-    justify-content: space-between;
+    /* justify-content: space-between; */
             }
         .card-location{
             display: flex;
@@ -110,13 +110,22 @@ flex-direction:column;
         text-decoration: none;
     }
             }
+            .update-details-mobile{
+                display: none;
+            }
             .shopping{
                 display: flex;
                 flex-direction: column;
                 justify-content: flex-start;
-                width: 20%;
+                /* width: 20%; */
                 a{
                     text-align: right;
+                    span{
+                        white-space: nowrap;
+                        @media (max-width:768px) {
+                            white-space: normal;
+                        }
+                    }
                     span{
                         background-color: transparent;
                     }
@@ -198,5 +207,42 @@ flex-direction:column;
     display: flex;
     justify-content: center;
     align-items: center;
+   .list-of-cards .card {
+    
+    padding:3px 12px;
+    .delivery{
+        .garranty{
+            height: 28px;
+            span{
+                padding: 5px 8px;
+            }
+            .report{
+                height: auto;
+            }
+        }
+    }
+    .shopping{
+
+        a{
+            text-align: left;
+        }
+        p{
+            font-size: 12px;
+        }
+    }
+    .update-details-mobile{
+        display: flex;
+    }
+    .update-details{
+     display: none;
+    }
+    .card-location{
+        flex-direction: row;
+        align-items: center;
+        margin: 2%;
+        small{
+            margin-left: 8px;
+        }
+    }}
 }
 `

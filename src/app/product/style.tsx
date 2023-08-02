@@ -153,9 +153,10 @@ text-align: center;
     }
     
 @media (max-width:768px) {
+
     justify-content: space-between;
    span{
-    padding: 8px;
+    /* padding: 8px; */
     height: auto;
 }
 p{
@@ -200,6 +201,7 @@ p{
     padding: 20px 0 20px 20px;
     .logo{
         width: 140px;
+        margin: 0 20px;
     }
     .installer{
         min-height:140px;
@@ -214,7 +216,11 @@ p{
     background: white;
     color: #d73948;
     border: 1px solid #d73948;
-
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
         }
         img{
             width:100px;
@@ -337,13 +343,20 @@ height: 52px;
 }
 @media (max-width:768px) {
     /* width: 637px; */
-   .sellers .cards .active-card {
+   .sellers{
+        padding: 0;
+        .title{
+        margin: 0 0 10px 0;
+            background: #f2f3f5;
+    }
+
+    .cards .active-card {
     margin-top: 1%;
         p{
             font-size: 11px;
         }
         b{
         font-size: 12px;
-    }}
+    }}}
 }
 `
