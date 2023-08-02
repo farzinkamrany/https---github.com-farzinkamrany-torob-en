@@ -120,6 +120,9 @@ flex-direction:column;
                 /* width: 20%; */
                 a{
                     text-align: right;
+                b{
+                    color: #d73948;
+                }
                     span{
                         white-space: nowrap;
                         @media (max-width:768px) {
