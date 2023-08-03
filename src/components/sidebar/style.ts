@@ -6,7 +6,7 @@ position: relative;
 /* position: fixed; */
 /* top: 110px; */
 width: 384px;
-height:70vh;
+/* height:70vh; */
 overflow-y:scroll;
 position: sticky;
     top: 0;

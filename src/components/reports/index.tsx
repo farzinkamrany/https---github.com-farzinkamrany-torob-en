@@ -1,6 +1,7 @@
 import { Button, Input, Modal, Radio } from 'antd'
 import React,{FC,useState} from 'react'
 import { StAll, StNextPhase } from './style'
+import {BiChevronLeft} from 'react-icons/bi'
 
 interface PropTypes{
     oprnModalReport?:any
@@ -44,8 +45,10 @@ const { TextArea } = Input;
         <Radio value="3">Radio</Radio>
         </Radio.Group>
         </>:<StNextPhase>
-        <p><Button
-        onClick={()=>setnextPhase(false)}>back</Button></p>
+        <p><Button style={{background:'transparent',border:0,boxShadow:'none'}}
+        onClick={()=>setnextPhase(false)}><BiChevronLeft />back</Button></p>
+        <br />
+        <span>your description</span>
         <TextArea showCount/>
         </StNextPhase>}
         <br />

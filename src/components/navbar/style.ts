@@ -32,6 +32,9 @@ export const ListOfMenu=styled.ul`
     width: 100%;
     background: #f9fafb;
     margin: 0;
+    .ant-btn{
+        border-radius:0;
+    }
     button{
         border: none;
         box-shadow: none;

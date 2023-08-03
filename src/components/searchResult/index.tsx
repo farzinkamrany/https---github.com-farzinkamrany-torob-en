@@ -1,17 +1,19 @@
-import React, { useState } from 'react'
+import React, { FC, useState } from 'react'
 import { StAll, StCardContainer, StHeader, StMobileHeader } from './style'
 import Card from '../card'
 import Sidebar from '../sidebar'
 import { Button, Col, Dropdown, MenuProps, Tag } from 'antd'
 import BreadCrumb from '../breadCrumb'
 import { MdLocationOn } from 'react-icons/md';
-import { Datas } from '../../helpers/datas';
 import { AiOutlineDown } from 'react-icons/ai';
 import InfiniteScroll from 'react-infinite-scroll-component';
 
-const SearchResult = () => {
+interface PropTypes{
+  data?:any
+}
+const SearchResult:FC<PropTypes> = ({data}) => {
   const [nextPage, setnextPage] = useState(15)
-    const items: MenuProps['items'] = [
+    const items:any = [
         {
           label: (
             <a target="_blank" rel="noopener noreferrer" href="https://www.antgroup.com">
@@ -48,6 +50,7 @@ const SearchResult = () => {
       const handleNext=()=>{
         setnextPage((prev)=>prev+15)
       }
+      console.log(data)
   return (
     <StAll>
         {/* <SearchNavbar/> */}
@@ -99,11 +102,11 @@ const SearchResult = () => {
     <Button><MdLocationOn style={{fill: 'rgb(52, 104, 204)'}}/>in-person</Button>
     </div>
       <StCardContainer>
-      {/* {Datas?.listOfProducts?.map((res:any)=><Card data={res}/>)} */}
-      <InfiniteScroll
-  dataLength={Datas?.listOfProducts?.length} //This is important field to render the next data
+      {/* {data?.listOfProducts?.map((res:any)=><Card data={res}/>)} */}
+      {/* <InfiniteScroll
+  dataLength={(data?.listOfProducts)?.length} //This is important field to render the next data
   next={handleNext}
-  hasMore={nextPage<Datas?.listOfProducts?.length?true:false}
+  hasMore={nextPage<data?.listOfProducts?.length?true:false}
   loader={<h4>Loading...</h4>}
   endMessage={
     <p style={{textAlign: 'center'}}>
@@ -119,9 +122,9 @@ const SearchResult = () => {
   // releaseToRefreshContent={
   //   <h3 style={{textAlign: 'center'}}>&#8593; Release to refresh</h3>
   // }
-  >
-  {Datas?.listOfProducts?.slice(0,nextPage).map((res:any)=><Card data={res}/>)}
-</InfiniteScroll>
+  > */}
+  {data?.listOfProducts?.slice(0,nextPage).map((res:any)=><Card data={res}/>)}
+{/* </InfiniteScroll> */}
       </StCardContainer>
       
       </Col>

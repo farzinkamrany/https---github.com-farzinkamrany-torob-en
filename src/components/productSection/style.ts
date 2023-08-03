@@ -64,5 +64,26 @@ border-radius: 10px;
             color: #d73948;
             box-shadow: none;
         }
+    } 
+    @media(max-width:768px){
+        padding:0 24px 24px 24px;
+        margin-bottom: 14%;
+        .title,.qualities{
+            flex-direction:column;
+            /* background:#f2f3f5; */
+            align-items:flex-start;
+            margin-bottom:4px;
+
+        .weaknesses{
+            font-weight:bold;
+            margin-top:15px;
+            margin-left:0;
+            li{
+                font-size: 12px;
+            font-weight:normal;
+    line-height: 24px;
+            }
+        }
+        }
     }
 `

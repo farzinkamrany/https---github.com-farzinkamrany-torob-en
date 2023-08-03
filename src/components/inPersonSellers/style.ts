@@ -29,7 +29,6 @@ export const StAll=styled.div`
             border-bottom: 1px solid#dfe3e8;
             padding: 0 16px 24px 24px;
             :last-child{
-                display: flex;
                 border-bottom: 0;
             }
         .card-location{

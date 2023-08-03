@@ -10,6 +10,9 @@ export const StAll=styled.div`
     height: 100%;
     padding: 24px;
     margin-bottom: 70px;
+    line{
+        display:none;
+    }
     .chart{
         width: 365px;
         height: 165px;
@@ -20,5 +23,20 @@ export const StAll=styled.div`
         display: flex;
         width: 100%;
         justify-content: flex-end;
+    }
+    @media(max-width:768px){
+        padding:0;
+        .more{
+            display:none;
+        }
+        .chart{
+            width:92%;
+        .recharts-surface,.recharts-wrapper{
+            width:250px !important;
+        }
+        .recharts-legend-wrapper .recharts-surface{
+            width:50px !important;
+        }
+        }
     }
 `

@@ -32,6 +32,13 @@ height: 100%;
         align-items: start;
         b,p{
             font-size: 14px;
+    
+        }
+        b{
+            margin-bottom:4px;
+        }
+        p{
+            color: #808080;
         }
     }
 }

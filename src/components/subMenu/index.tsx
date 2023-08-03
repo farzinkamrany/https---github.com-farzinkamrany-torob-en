@@ -5,6 +5,7 @@ import Link from 'next/link'
 import DetailsDrawer from '@/app/browse/[name]/[details]'
 import { Datas } from '@/helpers/datas'
 import { useState } from 'react';
+import { useRouter } from 'next/navigation'
 
 interface PropTypes{
   setopenDrawer?:any
@@ -16,16 +17,18 @@ interface PropTypes{
 const SubMenu:FC<PropTypes> = ({
   items,openDrawer,setopenDrawer,title
 }) => {
+  const [showDrawer, setshowDrawer] = useState(false)
+  const router=useRouter()
   return (
     <StAll>
-        <Button><Link href='/'>Search</Link></Button>
-        <Button onClick={()=>setopenDrawer(true)}><Link href='/browse'>Categories</Link></Button>
+        <Button onClick={()=>router.push('/')}><>Search</></Button>
+        <Button onClick={()=>setshowDrawer(true)}><Link href='/browse'>Categories</Link></Button>
         <Button>Special Offer</Button>
         <Button>My torob</Button>
         
     <Drawer width={1000}
-    bodyStyle={{padding:5}} title="Products"  open={openDrawer} onClose={()=>setopenDrawer(false)}>
-      <DetailsDrawer openDetails={openDrawer}setopenDetails={setopenDrawer} items={items}/>
+    bodyStyle={{padding:5}} title="Products"  open={showDrawer} onClose={()=>setshowDrawer(false)}>
+      <DetailsDrawer openDetails={showDrawer}setopenDetails={setshowDrawer} items={items}/>
     </Drawer>
     </StAll>
   )

@@ -1,21 +1,30 @@
 "use client"
-import React, { useState } from 'react'
+import React, { FC, useState } from 'react'
 import { StAll, StRow } from './style'
 import SearchResult from '../../components/searchResult'
 import Navbar from '../../components/navbar'
 import ProductTitle from '../../components/productHeader'
-
-const Browse = () => {
-  const [openDrawer, setopenDrawer] = useState(false)
+import { Datas } from '@/helpers/datas'
+interface PropTypes{
+  data?:any
+}
+const Browse:FC<PropTypes> = ({data}) => {
   return (
     <StAll>
-      <ProductTitle/>
+      <ProductTitle />
        <Navbar/>
       <StRow>
-<SearchResult/>
+<SearchResult data={Datas}/>
 </StRow>
     </StAll>
   )
 }
 
 export default Browse
+
+export async function getServerSideProps() {
+  // Fetch data from external API
+  const data = Datas
+  // Pass data to the page via props
+  return { props: { data } }
+}

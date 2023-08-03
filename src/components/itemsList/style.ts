@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 export const StAll=styled.div`
     width: 96%;
-    margin-top: 4%;
-    position: absolute;
+    /* margin-top: 4%; */
+    position: relative;
 z-index: 10;
     background-color: #f9fafb;
     border-radius:12px;

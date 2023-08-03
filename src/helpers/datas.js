@@ -24240,6 +24240,15 @@ export const Datas = {
             "id": "282",
             "slug": "ساعت-و-مچ-بند-هوشمند-smart-watch"
         }
+    ],
+    specs:[
+        {title:'x',desc:'xxx'},
+        {title:'x',desc:'xxx'},
+        {title:'x',desc:'xxx'},
+        {title:'x',desc:'xxx'},
+        {title:'x',desc:'xxx'},
+        {title:'x',desc:'xxx'},
+        {title:'x',desc:'xxx'},
     ]
 }
 

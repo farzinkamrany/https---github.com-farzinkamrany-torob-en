@@ -13,6 +13,10 @@ export const StAll=styled.div`
         font-size:14px;
         text-align:center;
     }
+    svg{
+        font-size:20px;
+        margin:0 8px;
+    }
     @media(max-width:768px){
         display: flex;
         padding: 10px;

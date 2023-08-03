@@ -3,8 +3,8 @@
 import React, { useState } from 'react'
 import { StAll } from './style'
 import { Anchor, Button, Image, Modal, Tabs, Tooltip } from 'antd'
-import { AiOutlineBell,AiOutlineHeart } from 'react-icons/ai';
-import {BsShare,BsFlag} from 'react-icons/bs'
+import { AiFillBell, AiFillHeart, AiOutlineBell,AiOutlineHeart, AiTwotoneHeart } from 'react-icons/ai';
+import {BsShare,BsFlag, BsHeart} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'
 import ProductTitle from '../../components/productHeader'
 import BreadCrumb from '../../components/breadCrumb'
@@ -16,15 +16,16 @@ import ProductSection from '../../components/productSection'
 import Reports from '../../components/reports'
 import Navbar from '../../components/navbar';
 import { Datas } from '../../helpers/datas';
+import Link from 'next/link';
 const Product = ({res}:any) => {
-  const [onlineCounter, setonlineCounter] = useState(1234)
   const [reportModal, setreportModal] = useState(false)
+  const [heart, setheart] = useState(false)
+  const [bell, setbell] = useState(false)
   const openReportModal = () => {
     setreportModal(true);
   };
   return (
   <StAll>
-    {/* <SearchNavbar/> */}
     <Navbar/>
           <br />
           <br />
@@ -47,7 +48,7 @@ const Product = ({res}:any) => {
           <span><b>
           64 GB - 4 GB
             </b>
-            <p>From 4,899,000 tomans</p>
+            <p><a href="#part-1">From 4,899,000 tomans</a></p>
             </span>
         </div>
         <div className="price-and-action">
@@ -57,13 +58,16 @@ const Product = ({res}:any) => {
             </div>
         <div className='actions'>
         <div>
-        <AiOutlineBell style={{color:'#ff3333'}}/>
-        <AiOutlineHeart/>
+        {bell?<AiFillBell onClick={()=>setbell(!bell)} style={{fill:'rgb(215, 57, 72)'}}/>:<AiOutlineBell  
+        onClick={()=>setbell(!bell)}/>}
+        {heart?<AiFillHeart style={{fill:'rgb(215, 57, 72)'}}onClick={()=>setheart(!heart)}
+
+        />:<AiOutlineHeart  onClick={()=>setheart(!heart)} />}
         <BsShare/>
         </div>
         <span>
           <BsFlag/>
-          <span style={{color:'#333'}}onClick={()=>openReportModal()}>
+          <span style={{color:'#333',cursor:'pointer'}}onClick={()=>openReportModal()}>
             report
           </span>
         </span>
@@ -122,11 +126,6 @@ const Product = ({res}:any) => {
             </div>
             </div>
           </div>
-          {/* <Tabs defaultActiveKey="1" items={items} onChange={onChange} /> */}
-          {/* <div className="navigateSellers">
-            <Button><a href="#onlineSellers">online sellers</a></Button>
-            <Button><a href="#inPerson">in person</a></Button>
-          </div> */}
           
         <div className='in-person' id="part-1" style={{marginTop:10}}> 
         
@@ -141,7 +140,7 @@ const Product = ({res}:any) => {
           <ChartContainer chart={Datas?.chart}/>
           </div>
         <div className='specs'>
-          <Specs/>
+          <Specs data={Datas.specs}/>
         </div>
         <div className="product-section">
           <ProductSection ProCons={Datas.ProCons}/>

@@ -1,7 +1,6 @@
-import React,{FC} from 'react'
+import React,{FC,useState} from 'react'
 import { StAll, StCard } from './style'
-import Meta from 'antd/es/card/Meta'
-import { AiOutlineHeart,AiOutlineBell } from 'react-icons/ai';
+import { AiOutlineHeart,AiOutlineBell, AiFillHeart, AiFillBell } from 'react-icons/ai';
 import { Button, Tooltip } from 'antd'
 import Link from 'next/link';
 interface PropTypes{
@@ -10,6 +9,8 @@ interface PropTypes{
 const Card:FC<PropTypes> = ({
   data
 }) => {
+  const [heart, setheart] = useState(false)
+  const [bell, setbell] = useState(false)
   return (
      <StAll>
        <Link href="/product" about='_blank'>
@@ -30,12 +31,22 @@ const Card:FC<PropTypes> = ({
       <br />
     <div className='action-items'>
       <div><Button style={{marginRight:10}} onClick={(e:any)=>e.preventDefault()}>
-      <AiOutlineHeart/>
-      </Button></div>
+      <div>{bell?<AiFillBell onClick={()=>setbell(!bell)} style={{fill:'rgb(215, 57, 72)'}}/>:<AiOutlineBell  
+        onClick={()=>setbell(!bell)}/>}
+        {heart?<AiFillHeart style={{fill:'rgb(215, 57, 72)'}}onClick={(e)=>{
+          e.preventDefault()
+          setheart(!heart)}}
+
+        />:<AiOutlineHeart  onClick={(e)=>{
+          e.preventDefault()
+          setheart(!heart)}} />}</div>
+      {/* <AiOutlineHeart/> */}
+      </Button>
+      </div>
       <div>
-        <Button onClick={(e:any)=>e.preventDefault()}> 
+        {/* <Button onClick={(e:any)=>e.preventDefault()}> 
         <AiOutlineBell/>
-        </Button>
+        </Button> */}
       </div>
     </div>
     </div>

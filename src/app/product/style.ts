@@ -3,7 +3,9 @@ import styled from 'styled-components';
 export const StAll=styled.div`
 display: flex;
 flex-direction: column;
-width: 100%;
+width: 90%;
+justify-content:center;
+margin:0 auto;
 align-items: center;
 background: #f2f3f5;
 
@@ -24,11 +26,14 @@ a{
     gap: 24px 0;
     margin: 1% auto;
         grid-template-columns: 100%;
+        
     }
 }
 .bread-crumb{
     display: grid;
     grid-area: 1 / 1 / 2 / 2;
+    position: relative;
+    right: 37%;
         margin-top:2%;
     @media (max-width:768px){
     }
@@ -345,7 +350,7 @@ height: 52px;
     display: grid;
     grid-area: 4 / 1 / 5 / 2;
 @media (max-width:768px) {
-    display: none;
+    /* display: none; */
     grid-area: 8 / 1 / 9 / 2;
 }
 }
