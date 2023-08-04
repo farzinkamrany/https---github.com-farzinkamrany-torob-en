@@ -1,4 +1,4 @@
-import React ,{FC}from 'react'
+import React ,{FC,useState}from 'react'
 import { StAll } from './style'
 import { Button } from 'antd'
 
@@ -6,6 +6,7 @@ interface PropTypes{
   ProCons?:any
 }
 const ProductSection:FC<PropTypes> = ({ProCons}) => {
+  const [slicer, setslicer] = useState(3)
   return (
     <StAll>
       <div className='title'>
@@ -27,7 +28,7 @@ const ProductSection:FC<PropTypes> = ({ProCons}) => {
                 *
                </span>
                 <p>{res}</p></li>
-                )}
+                )?.slice(0,slicer)}
             </ul>
         </div>
         <div className="weaknesses">
@@ -39,12 +40,12 @@ const ProductSection:FC<PropTypes> = ({ProCons}) => {
               <span>
                 *
                </span><p>{res}</p></li>
-                )}
+                )?.slice(0,slicer)}
             </ul>
         </div>
       </div>
       <div className="continue">
-            <Button>Continue review</Button>
+            {slicer===3&&<Button onClick={()=>setslicer(10000)}>Continue review</Button>}
             </div>
     </StAll>
   )

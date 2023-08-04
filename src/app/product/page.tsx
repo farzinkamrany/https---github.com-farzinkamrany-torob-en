@@ -2,11 +2,11 @@
 "use client"
 import React, { useState } from 'react'
 import { StAll } from './style'
-import { Anchor, Button, Image, Modal, Tabs, Tooltip } from 'antd'
+import { Anchor, Button, Image, Modal, Input, Tooltip } from 'antd'
 import { AiFillBell, AiFillHeart, AiOutlineBell,AiOutlineHeart, AiTwotoneHeart } from 'react-icons/ai';
 import {BsShare,BsFlag, BsHeart} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'
-import ProductTitle from '../../components/productHeader'
+// import ProductTitle from '../../components/productHeader'
 import BreadCrumb from '../../components/breadCrumb'
 import PriceCard from '../../components/priceCard'
 import InPersonSellers from '../../components/inPersonSellers'
@@ -14,12 +14,16 @@ import ChartContainer from '../../components/chartContainer'
 import Specs from '../../components/specs'
 import ProductSection from '../../components/productSection'
 import Reports from '../../components/reports'
+import Link from 'next/link';
 import Navbar from '../../components/navbar';
 import { Datas } from '../../helpers/datas';
-import Link from 'next/link';
+import dynamic from 'next/dynamic';
+import CityChanger from '@/components/cityChanger';
+const ProductTitle=dynamic(()=>import('../../components/productHeader'),{ssr:false})
 const Product = ({res}:any) => {
   const [reportModal, setreportModal] = useState(false)
   const [heart, setheart] = useState(false)
+  // const [selectCity, setselectCity] = useState(false)
   const [bell, setbell] = useState(false)
   const openReportModal = () => {
     setreportModal(true);
@@ -27,13 +31,11 @@ const Product = ({res}:any) => {
   return (
   <StAll>
     <Navbar/>
-          <br />
-          <br />
         <div className='bread-crumb'>
           <BreadCrumb/>
           
   </div>
-<ProductTitle/>
+<ProductTitle data={Datas?.results}/>
       <div className="details">
         <div className='product-overview'>
       <Image src={Datas?.results?.image_url}alt="" />
@@ -46,9 +48,9 @@ const Product = ({res}:any) => {
             <p >{Datas?.results?.price_text}</p>
             </span>
           <span><b>
-          64 GB - 4 GB
+          {Datas?.results?.name2}
             </b>
-            <p><a href="#part-1">From 4,899,000 tomans</a></p>
+            <p><a href="#part-1">{Datas?.results?.price_text}</a></p>
             </span>
         </div>
         <div className="price-and-action">
@@ -108,23 +110,7 @@ const Product = ({res}:any) => {
               <b>all of iran</b>
               <p>From 4,899,000 tomans</p>
             </div>
-            <div style={{display:'flex',flexDirection: 'row'}} className="card">
-                <TiLocation style={{padding: '5px',border:' 1px solid #f2f3f5',
-    borderRadius: '12px 0 0 12px',height: '100%',borderRight:'none'}}/>
-                <div style={{display:'flex',flexDirection: 'column',borderRight:'1px solid ',padding: '5px',border:' 1px solid #f2f3f5',
-    height: '100%',
-    borderRadius: '0 0 0 0',borderLeft:'none'}}>
-                <b>
-                <p style={{}}>tehran and sorrounding cities</p>
-                </b>
-              <p style={{textAlign: 'left',width: '95%'}}>From 4,899,000 tomans</p>
-                </div>
-            <div className="arrow"  style={{display:'flex',flexDirection: 'column',borderRight:'1px solid ',padding: '5px',border:' 1px solid #f2f3f5',
-    height: '100%',
-    borderRadius: '0 12px 12px 0',borderLeft:'none'}}>
-              {" >"}
-            </div>
-            </div>
+            <CityChanger data={Datas}/>
           </div>
           
         <div className='in-person' id="part-1" style={{marginTop:10}}> 
@@ -147,6 +133,21 @@ const Product = ({res}:any) => {
         </div>
       </div>
    <Reports oprnModalReport={reportModal} setreportModal={setreportModal}/>
+   {/* <Modal 
+   footer={
+    <div style={{display:'flex',width:'100%',justifyContent:'space-between'}}>
+    <Button style={{color:'#fff',background:'#333',width:'70%'}}>
+      confirm
+    </Button>
+    <Button style={{color:'#333',background:'#fff',width:'30%'}}>
+        cancel
+    </Button>
+    </div>
+   }
+   open={selectCity} onClose={()=>setselectCity(false)} title="select city">
+      <CityChanger data={Datas}/>
+      
+   </Modal> */}
    </StAll>
   )
 }

@@ -5,7 +5,10 @@ display: flex;
 flex-direction: column;
 width: 90%;
 justify-content:center;
-margin:0 auto;
+/* margin: 48px auto; */
+h2{
+    font-size:16px!important;
+}
 align-items: center;
 background: #f2f3f5;
 
@@ -45,6 +48,10 @@ a{
     grid-template-columns: 352px auto;
     border-radius: 4px;
     padding: 24px;
+    .ant-image{
+        height: 280px;
+    width: 280px;
+    }
     img{
         width: 352px;
 
@@ -69,9 +76,9 @@ text-align: center;
         font-size: 16px;
         
 @media (max-width:768px) {
-    line-height: 45px;
+    line-height: 24px;
     white-space: normal;
-    font-size:large;
+    font-size:16px;
 }
     }
     span{
@@ -149,10 +156,10 @@ text-align: center;
     padding-top: 16px;
     span{
         margin: 1%;
-        height: 50px;
+        height: 56px;
     }
     b,p{
-        font-size:12px;
+        font-size:11px;
     }
     
 @media (max-width:768px) {
@@ -169,7 +176,7 @@ p{
 .seller{
     margin-top: 16px;
     .red{
-        width: 80%;
+        /* width: 80%; */
         display: flex;
         line-height: 30px;
         align-items: center;
@@ -257,6 +264,7 @@ p{
     grid-area: 2 / 1 / 3 / 2;
 .ant-anchor{
         background: #fff;
+        
     }
     .title{
         display: flex;
@@ -342,6 +350,8 @@ height: 52px;
     grid-area: 1 / 2 / 2 / 3;
     
 @media (max-width:768px) {
+    width: 95%;
+    margin: auto;
     display: grid;
     grid-area: 7 / 1 / 8 / 2;
 }
@@ -355,6 +365,9 @@ height: 52px;
 }
 }
 @media(max-width:768px){
+    /* .ant-affix{
+        top:40px !important;
+    } */
     /* width: 637px; */
     .sellers{
         padding: 0;
@@ -364,6 +377,9 @@ height: 52px;
     }
    .cards .active-card b{
         font-size: 12px;
+    }
+    .ant-anchor{
+        margin-top: 40px;
     }
 }
 `

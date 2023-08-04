@@ -66,8 +66,9 @@ border-radius: 10px;
         }
     } 
     @media(max-width:768px){
-        padding:0 24px 24px 24px;
-        margin-bottom: 14%;
+        padding:0;
+        width:95%;
+        margin: 14% auto;
         .title,.qualities{
             flex-direction:column;
             /* background:#f2f3f5; */
@@ -84,6 +85,14 @@ border-radius: 10px;
     line-height: 24px;
             }
         }
+        }
+        .qualities{
+            padding: 12px;
+        }
+        .title{
+            background: #f2f3f5;
+    margin: 0 0 2% 0;
+    height: 62px;
         }
     }
 `

@@ -36,6 +36,15 @@ export const StAll=styled.div`
             flex-direction: column;
             b{
                 white-space: nowrap;
+                font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 8px;
+    -webkit-margin-end: 16px;
+    -moz-margin-end: 16px;
+    margin-inline-end: 16px;
+    line-height: 28px;
+    display: inline-block;
             }
         }
         .delivery{
@@ -76,8 +85,8 @@ export const StAll=styled.div`
     }
     span{
         
+        padding: 4px 8px;
     border-radius: 20px;
-    padding: 1%;
     background: #daf2d5;
     border-color: #daf2d5;
     color: #0b5124;
@@ -137,6 +146,9 @@ export const StAll=styled.div`
     
 
         }
+            .update-details-mobile{
+                display: none;
+            }
         .update-details{
             font-size: 12px;
     margin-top: 12px;
@@ -154,10 +166,28 @@ export const StAll=styled.div`
                 flex-direction: column;
                 .shopping{
                     align-items: flex-end;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
     width: 100%;
-    
+                    button{
+                        span{
+                            white-space: nowrap;
+                        }
+                    }
+    a{
+            text-align: left;
+        }
+        p{
+            font-size: 12px;
+            text-align: left;
+        }
+    .update-details{
+        display:none;
+    }
+    .update-details-mobile{
+        display: flex;
+        color:#808080;
+    }
     /* b{
                 color: #d73948;
             } */
@@ -168,7 +198,7 @@ export const StAll=styled.div`
                     flex-direction:row;
                     .div{
                         flex-direction: column;
-                        width: 100%;
+                        /* width: 100%; */
     /* justify-content: space-between; */
                     }
                     small{

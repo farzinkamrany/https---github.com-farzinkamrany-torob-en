@@ -4,6 +4,7 @@ export const StAll=styled.div`
 /* display: grid; */
 /* grid-area: 1 / 2 / 4 / 3;  */
 display: flex;
+
     flex-direction: column;
     justify-content: space-between;
 background-color: #fff;
@@ -58,7 +59,8 @@ height: 100%;
     @media(max-width:768px){
         display: flex;
         flex-direction: column;
-        width: 100%;
+        width: 95%;
+    margin: auto;
         overflow: auto;
 .ant-btn{
     display: flex;

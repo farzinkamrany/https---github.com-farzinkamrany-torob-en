@@ -3,9 +3,8 @@ import styled from 'styled-components';
 export const StAll=styled.div`
 display: flex;
 flex-direction: column;
-width: 90%;
 justify-content:center;
-margin:0 auto;
+/* margin: 48px auto; */
 align-items: center;
 background: #f2f3f5;
 
@@ -13,6 +12,7 @@ a{
   text-decoration: none;
 }
 @media (max-width:768px){
+    margin: 48px auto;
     // width: 160vw;
 }
 .details{
@@ -43,8 +43,12 @@ a{
     grid-template-columns: 352px auto;
     border-radius: 4px;
     padding: 24px;
+    .ant-image{
+        height: 280px;
+    width: 280px;
+    }
     img{
-        width: 352px;
+        /* width: 352px; */
 
     }
     
@@ -67,9 +71,10 @@ text-align: center;
         font-size: 16px;
         
 @media (max-width:768px) {
-    line-height: 45px;
+    margin:5px 0;
+    line-height: 24px;
     white-space: normal;
-    font-size:large;
+    font-size:16px;
 }
     }
     span{
@@ -148,7 +153,7 @@ text-align: center;
     padding-top: 16px;
     span{
         margin: 1%;
-        height: 50px;
+        /* height: 50px; */
     }
     b,p{
         font-size:12px;
@@ -191,6 +196,7 @@ p{
            .red{ 
             width: 100%;
             padding: 16px;
+            line-height:auto;
            }
         }
 }
@@ -331,6 +337,8 @@ height: 52px;
     grid-area: 1 / 2 / 2 / 3;
     
 @media (max-width:768px) {
+    width: 95%;
+    margin: auto;
     display: grid;
     grid-area: 7 / 1 / 8 / 2;
 }
@@ -345,8 +353,13 @@ height: 52px;
 }
 @media (max-width:768px) {
     /* width: 637px; */
+    /* .ant-affix{
+        top:40px !important;
+    } */
    .sellers{
         padding: 0;
+        margin: 16px auto;
+    width: 95%;
         .title{
         margin: 0 0 10px 0;
             background: #f2f3f5;
@@ -360,5 +373,8 @@ height: 52px;
         b{
         font-size: 12px;
     }}}
+    .ant-anchor{
+        margin-top: 40px;
+    }
 }
 `

@@ -5,6 +5,8 @@ export const StAll=styled.div`
     /* margin-top: 4%; */
     position: relative;
 z-index: 10;
+display:block;
+margin-top: 1%;
     background-color: #f9fafb;
     border-radius:12px;
     p{
@@ -13,23 +15,30 @@ justify-content: flex-start;
 flex-wrap: wrap;
     width: 100%;
     }
+    b{
+        white-space:nowrap;
+        margin:10px;
+        height: 24px;
+    display: block;
+    }
 h4{
     padding: 9px;
     text-align: left;
     border-bottom: 1px solid #333;
 }
 .dropitems{
+    display: block;
     page-break-inside: avoid;
     break-inside: avoid;
     z-index: 12;
     background-color: #f9fafb;
     right: 40px;
     left: 40px;
-    padding: 11px;
+    padding: 15px;
     /* margin-top: 12px; */
     border-radius: 12px;
     /* position: absolute; */
-    width: 12%;
+    width: 100%;
 }
 li{
     list-style:none;

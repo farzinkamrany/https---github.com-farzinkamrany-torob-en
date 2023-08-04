@@ -104,3 +104,6 @@ a {
 .ant-drawer-header {
   text-align: center;
 }
+.ant-drawer{
+  padding: 0;
+}

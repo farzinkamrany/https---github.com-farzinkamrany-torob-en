@@ -24,10 +24,7 @@ console.log(data)
             </div>
             <div className='delivery'>
                         <div className='garranty'>
-                        <span style={{background:res?.score_info?.score_background_color,
-                            whiteSpace: "nowrap",
-                            fontSize: '14px',
-                            padding:' 8px'}}>★{res?.score_info?.score} {res?.score_info?.score_text}</span>
+                        <span>★{res?.score_info?.score} {res?.score_info?.score_text}</span>
                         <div className='report'>
                             <b>report</b>
                           <BsFlag/>
@@ -45,8 +42,11 @@ console.log(data)
             <div className='shopping'>
                 <a href="">
                 <b>{res?.price_string}</b>
+                 <div className='update-details-mobile'>
+                         <p><span>The last price change in the store:</span> {res?.last_price_change_date}</p>
+                     </div>
                 </a>
-                                <ContactInfo data={res}/>
+                                <a href=""><ContactInfo data={res}/></a>
                     <div className='update-details'>
                         <p><span>The last price change in the store: </span>{res?.last_price_change_date}</p>
                     </div>

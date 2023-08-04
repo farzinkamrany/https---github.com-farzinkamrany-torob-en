@@ -7,14 +7,12 @@ interface PropTypes{
 const ItemsList:FC<PropTypes> = ({data}) => {
   return (
     <StAll>
-      <Link href=''>
-        {/* <h4>{data?.title}</h4> */}
-      </Link>
       <p>
       {data?.items?.map((res:any)=><div className='dropitems'>
-        <Link href={'/browse/x'}>
+        {/* <Link href={'/browse/x'}> */}
         <b>{res?.title}</b>
-        </Link>
+        <hr />
+        {/* </Link> */}
         {res?.items?.length>0&&<ul>
     {res?.items?.map((resp:any)=><Link href={'/product/'+res?.title}><li>{resp?.title}</li></Link>)}
         </ul>}
