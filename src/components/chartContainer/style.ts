@@ -25,7 +25,14 @@ export const StAll=styled.div`
         justify-content: flex-end;
     }
     @media(max-width:768px){
+        .recharts-default-legend{
+            width:80px;
+            display:flex;
+        }
         padding:0;
+        .chart .recharts-legend-wrapper .recharts-surface{
+            width:auto!important;
+        }
         .more{
             display:none;
         }

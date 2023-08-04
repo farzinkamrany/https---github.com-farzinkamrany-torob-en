@@ -192,7 +192,7 @@ flex-direction:column;
             width: 100%;
             flex-direction: row;
             justify-content: space-between;
-            align-items: center;
+            align-items: flex-start;
             white-space: nowrap;
             b{
                 color: #d73948;
@@ -265,6 +265,8 @@ flex-direction:column;
             text-align: left;
         }
         p{
+            /* flex-direction: row; */
+    /* justify-content: flex-start; */
             font-size: 12px;
         }
     }
