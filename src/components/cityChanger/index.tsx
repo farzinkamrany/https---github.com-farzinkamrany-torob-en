@@ -44,6 +44,7 @@ const CityChanger:FC<PropTypes> = ({data}) => {
     <Button style={{color:'#333',background:'#fff',width:'30%'}}
     onClick={()=>setselectCity(false)}
     >
+      
         cancel
     </Button>
     </div>
