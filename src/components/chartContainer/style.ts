@@ -24,6 +24,7 @@ export const StAll=styled.div`
         width: 100%;
         justify-content: flex-end;
     }
+    
     @media(max-width:768px){
         .recharts-default-legend{
             width:80px;
