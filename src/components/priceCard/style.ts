@@ -135,6 +135,7 @@ flex-direction:column;
                 display: flex;
                 flex-direction: column;
                 justify-content: flex-start;
+                align-items:flex-start;
                 /* width: 20%; */
                 a{
                     text-align: right;
@@ -154,6 +155,8 @@ flex-direction:column;
                 p{
                     font-size: 14px;
                     line-height: 24px;
+                    display: flex;
+    flex-direction: column;
                 }
         button{
     align-self: center;
@@ -239,7 +242,9 @@ flex-direction:column;
         display:none !important;
     }
    .list-of-cards .card {
-    
+    .div{
+        width: 100%;
+    }
     padding:3px 12px;
     .delivery{
         .garranty{

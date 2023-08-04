@@ -174,7 +174,7 @@ p{
 .seller{
     margin-top: 16px;
     .red{
-        width: 80%;
+        /* width: 80%; */
         display: flex;
         line-height: 30px;
         align-items: center;

@@ -11,6 +11,13 @@ export const StAll=styled.div`
         text-decoration: none;
         color: #000;
     }
+    .detailss{
+        display: flex;
+    width: 100%;
+    }
+    .update-details{
+        width:100%;
+    }
     .list-of-cards{
             width: 100%;
             padding: 4px 0;
@@ -23,6 +30,7 @@ export const StAll=styled.div`
             }
         .card{
             display: flex;
+            flex-direction: column;
             justify-content: space-between;
             width: 100%;
             align-items: center;
@@ -110,6 +118,8 @@ export const StAll=styled.div`
                 b{
                     color: #3468cc;
                 }
+                button{
+                }
                 a{
                     text-align: right;
                     span{
@@ -161,15 +171,27 @@ export const StAll=styled.div`
 
         }
             }
+            
+.mobileBtn{
+    display:none;
+}
             @media(max-width:768px) {
                 /* width: 84%; */
                 flex-direction: column;
+    .sellers .mobileBtn{
+        display:block;
+    }
+    .sending{
+        display:none;
+    }
                 .shopping{
-                    align-items: flex-end;
+                    margin-top:8px;
+                    align-items: center;
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
                     button{
+                    margin-top:0;
                         span{
                             white-space: nowrap;
                         }
@@ -245,6 +267,15 @@ export const StAll=styled.div`
     }
 }
     @media (max-width:768px) {
+        .detailss{
+            display:block;
+        }
+               .all-sellers .pcBtn{
+                    display:none;
+                }
+        .update-details{
+            margin-top: 8px;
+        }
         grid-area: 3 / 1 / 4 / 2;
     display: flex;
     justify-content: center;

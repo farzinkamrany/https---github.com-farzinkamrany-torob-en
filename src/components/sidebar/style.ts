@@ -54,12 +54,14 @@ li:hover,ul:hover{
     }
     
 .ant-input{
-    width: 50%;
+    /* width: 50%; */
     height: 40px;
     padding: 8px;
 }
 }}
-
+.ant-input-search-button{
+    background:#fff;
+}
 .ant-menu-submenu{
     border-bottom: 1px solid #e6e6e6;
     border-radius: 0;

@@ -34,7 +34,7 @@ console.log(openedItem)
         </Button>)}
       </ListOfMenu>
       <ClickAwayListener onClickAway={onClick}>
-      <Box sx={{width:'95%'}}>
+      <Box sx={{width:'95%',position:'relative'}}>
         <ItemsList data={Datas?.dropMenu?.find((res:any)=>res?.value===JSON.stringify(openedItem))}/>
         </Box>
 </ClickAwayListener>

@@ -1,6 +1,6 @@
-import React from 'react'
+import React,{useState} from 'react'
 import { StAll } from './style'
-import { Button, Checkbox, Col, Input, Menu, MenuProps, Row } from 'antd'
+import { Button, Checkbox, Col, Input, Menu, MenuProps,Radio, Row } from 'antd'
 import SubMenu from '../subMenu';
 import Card from '../card';
 import { AiOutlineSearch } from 'react-icons/ai';
@@ -24,32 +24,37 @@ function getItem(
     type,
   } as MenuItem;
 }
+const [selected, setselected] = useState()
   const items:any=[
     
-    getItem('Specific detail', 'sub0','', 
+    getItem('Specific detail', 'sub023','', 
       Datas?.category?.map((res:any)=>getItem(res?.title, res?.id)),
     ),
-    getItem('Working Condition', 'sub1','', [
-      getItem('new', '5'),
-      getItem('second hand ', '6'),
+    getItem('Working Condition', 'sub1213','', [
+      getItem(<Radio.Group onChange={(e)=>setselected(e.target.value)} value={selected} style={{display:'flex',flexDirection:'column'}}>
+        <Radio value={0}>new</Radio>
+        <br/>
+        <Radio value={1}>second hand </Radio>
+      </Radio.Group>, '523'),
+      // getItem(<Radio>second hand </Radio>, '6'),
     ]),
-    getItem('Prices', 'sub2', '', [getItem((<Col style={{height:250}}>
-      <Row><Input prefix={'from'}/>  <Input prefix={'to'}/></Row>
-      <Row><Button style={{width:'100%',marginTop:8}}>filter price</Button></Row>
+    getItem('Prices', 'sub1232', '', [getItem((<Col style={{height:250,width:310}}>
+      <Row ><Input prefix={'from'}style={{marginRight: '5%'}}/>  <Input prefix={'to'}/></Row>
+      <Row><Button style={{width:'100%',marginTop:8,background:'#ecedef'}}>filter price</Button></Row>
       </Col>),'Price'),
     ]),
   
-    getItem('Search in Results', 'sub13','', [
-      getItem(<Input.Search className='searchbtn' enterButton={<AiOutlineSearch/>}/>, '5'),
+    getItem('Search in Results', 'sub113','', [
+      getItem(<Input.Search className='searchbtn' enterButton={<AiOutlineSearch/>}/>, 'Search'),
     ]),
   
-    getItem('exsistance', 'sub4','', [
+    getItem('exsistance', 'sub423','', [
       getItem(
         <>
         <div><Checkbox>{" "}
         existance of all items</Checkbox></div>
         </>
-        , '5'),
+        , 'exsistance'),
     ]),
     { type: 'divider' },
   
@@ -73,6 +78,7 @@ function getItem(
       defaultSelectedKeys={['1']}
       defaultOpenKeys={['sub1']}
       mode="inline"
+      onClick={(e)=>e.preventDefault()}
       items={items}
     />
     </StAll>
