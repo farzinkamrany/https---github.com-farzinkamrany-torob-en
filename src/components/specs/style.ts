@@ -67,7 +67,6 @@ height: 100%;
 }
 .detailed{
     height: 160px;
-    overflow: scroll;
 }
         .mobile{
             display: flex;

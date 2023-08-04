@@ -172,9 +172,6 @@ export const StAll=styled.div`
         }
             }
             
-.mobileBtn{
-    display:none;
-}
             @media(max-width:768px) {
                 /* width: 84%; */
                 flex-direction: column;
@@ -245,6 +242,9 @@ export const StAll=styled.div`
     }
 .all-sellers{
     width:100%;
+.mobileBtn{
+    display:none;
+}
     button{
         width: 100%;
         background: linear-gradient(180deg,#3a75e6,#3468cc);

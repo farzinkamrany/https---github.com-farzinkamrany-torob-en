@@ -380,6 +380,7 @@ height: 52px;
     }
     .ant-anchor{
         margin-top: 40px;
+            justify-content:center;
     }
 }
 `

@@ -24,7 +24,7 @@ a{
 
     @media (max-width:768px) {
     gap: 24px ;
-    width:100%;
+    width: 95%;
     margin: 1% auto;
         grid-template-columns: 100%;
     }
@@ -358,10 +358,14 @@ height: 52px;
     } */
    .sellers{
         padding: 0;
-        margin: 16px auto;
+        margin: 2px auto;
     width: 95%;
+    background:transparent;
+    .cards{
+        background: #f2f3f5;
+    }
         .title{
-        margin: 0 0 10px 0;
+        margin: 0;
             background: #f2f3f5;
     }
 
@@ -375,6 +379,7 @@ height: 52px;
     }}}
     .ant-anchor{
         margin-top: 40px;
+            justify-content:center;
     }
 }
 `
