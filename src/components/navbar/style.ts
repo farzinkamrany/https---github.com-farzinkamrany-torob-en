@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StAll=styled.div`
     display: flex;
-    background-color: #f9fafb;
+    background-color: #f2f3f5;
     height:64px;
     flex-direction: column;
     /* padding: 1% 2%; */
@@ -32,11 +32,15 @@ export const ListOfMenu=styled.ul`
     width: 100%;
     background: #f9fafb;
     margin: 0;
-    .ant-btn{
+    .ant-btn,.ant-btn-default:not(:disabled):not(.ant-btn-disabled){
         border-radius:0;
+        :hover{
+            color:#d73948;
+        }
     }
     button{
         border: none;
+        background:#f9fafb;
         box-shadow: none;
     }
     li{
@@ -44,6 +48,9 @@ export const ListOfMenu=styled.ul`
         margin: 0 8px;
         font-weight: bold;
         cursor: pointer;
+        :hover{
+            color:#d73948;
+        }
     }
 
 

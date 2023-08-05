@@ -2,10 +2,11 @@ import styled from 'styled-components';
 
 export const StAll=styled.div`
     display: flex;
-    width: 98%;
+    width: 100%;
     justify-content: space-between;
     align-items: center;
-    padding:  5px;
+    padding:  10px;
+    background:#f9fafb;
     height: 48px;
     margin-top: 10px;
 img{
