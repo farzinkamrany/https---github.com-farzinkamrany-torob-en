@@ -12,7 +12,6 @@ interface PropTypes{
 const InPersonSellers:FC<PropTypes> = ({data}) => {
     const [showAll, setshowAll] = useState<number>(3)
     const [mobileShow, setmobileShow] = useState(false)
-console.log(data)
   return (
     <StAll>
    {data?.sellers?.inPerson?.map((res:any)=>

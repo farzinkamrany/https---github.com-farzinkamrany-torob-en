@@ -10,20 +10,24 @@ justify-content:space-between;
 /* width: 80%; */
     /* margin-top: 4%; */
     h2{
-        margin:2%;
+        margin:1% 0;
+        font-size:24px;
     }
 .shopper {
     
     display: flex;
     align-items: center;
-    .ant-btn{
+    span{
     border:none;
     box-shadow: none;
     background: transparent;
     display: flex;
     align-items: center;
+    white-space: nowrap;
+    margin:0 1%;
     svg{
         font-size:20px;
+        margin-left:2%;
         /* fill: rgb(215, 57, 72); */
     }
     span{
@@ -38,11 +42,11 @@ justify-content:space-between;
     span{
         display: flex;
         justify-content:space-between;
-    color: #000;
+    color: #333;
     align-items: center;
     background: transparent;
     font-size:14px;
-    font-weight:bold;
+    /* font-weight:bold; */
     }
 }
 .ant-col{

@@ -32,16 +32,19 @@ export const ListOfMenu=styled.ul`
     width: 100%;
     background: #f9fafb;
     margin: 0;
-    .ant-btn,.ant-btn-default:not(:disabled):not(.ant-btn-disabled){
+    .ant-btn,.ant-btn .ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover{
         border-radius:0;
         :hover{
-            color:#d73948;
+            color:#d73948 !important;
         }
     }
     button{
         border: none;
         background:#f9fafb;
         box-shadow: none;
+        :hover{
+            color:#d73948 !important;
+        }
     }
     li{
         font-size: 11px;

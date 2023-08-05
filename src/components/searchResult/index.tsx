@@ -62,8 +62,6 @@ const SearchResult:FC<PropTypes> = ({data}) => {
           window.removeEventListener("scroll", handleNext);
         };
       }, [nextPage]);
-      console.log(data?.listOfProducts.length)
-      console.log(nextPage)
   return (
     <StAll>  
         {/* <SearchNavbar/> */}
@@ -109,8 +107,8 @@ const SearchResult:FC<PropTypes> = ({data}) => {
   </StMobileHeader>
   <h2>List Of Products</h2>
     <div className="shopper">
-    <Button><MdLocationOn style={{fill: 'rgb(215, 57, 72)'}}/>online shopping</Button>
-    <Button><MdLocationOn style={{fill: 'rgb(52, 104, 204)'}}/>in-person</Button>
+    <span><MdLocationOn style={{fill: 'rgb(215, 57, 72)'}}/>online shopping</span>
+    <span><MdLocationOn style={{fill: 'rgb(52, 104, 204)'}}/>in-person</span>
     </div>
       <StCardContainer>
       {/* {data?.listOfProducts?.map((res:any)=><Card data={res}/>)} */}
