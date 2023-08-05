@@ -5,6 +5,7 @@ export const StAll=styled.div`
     width: 100%;
     position: fixed;
     top:0;
+    left: 0;
     justify-content: space-between;
     align-items: center;
     padding:  5px;

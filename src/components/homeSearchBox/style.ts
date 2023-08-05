@@ -9,7 +9,7 @@ width: 100%;
     /* position: relative; */
     float: right;
     min-height: 70vh;
-    margin: 7% auto;
+    margin: 4% auto;
     overflow:clip;
     /* margin-top: 10%; */
     .pcImg{
