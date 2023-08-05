@@ -9,7 +9,9 @@ display: flex;
 justify-content:space-between;
 /* width: 80%; */
     /* margin-top: 4%; */
-    
+    h2{
+        margin:2%;
+    }
 .shopper {
     
     display: flex;
@@ -143,6 +145,8 @@ export const StHeader=styled.div`
     justify-content:space-between;
     width:100%;
     align-items:center;
+    border-bottom: 1px solid #ddd;
+    padding: 1%;
 @media(max-width:768px){
     display: none;
 }

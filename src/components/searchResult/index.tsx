@@ -107,8 +107,6 @@ const SearchResult:FC<PropTypes> = ({data}) => {
     <Button><MdLocationOn/>in-person</Button>
   </div>
   </StMobileHeader>
-  <br />
-  <hr />
   <h2>List Of Products</h2>
     <div className="shopper">
     <Button><MdLocationOn style={{fill: 'rgb(215, 57, 72)'}}/>online shopping</Button>
