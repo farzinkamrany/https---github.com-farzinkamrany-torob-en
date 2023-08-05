@@ -15,7 +15,7 @@ interface PropTypes{
 const HomeSearchBox:FC<PropTypes> = ({data}) => {
   return (
     <InputStyle>
-    <HomeNavbar/>
+    {/* <HomeNavbar/> */}
    <div className="pcImg">
    <img src="https://torob.com/static/images/logo_original.png" alt="" />
    <span>Torob</span>
