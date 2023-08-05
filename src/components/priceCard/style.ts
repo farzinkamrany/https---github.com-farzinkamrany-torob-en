@@ -44,7 +44,7 @@ flex-direction:column;
             justify-content: space-between;
             width: 100%;
             border-bottom: 1px solid#dfe3e8;
-            align-items: center;
+            align-items: flex-start;
             padding: 0 16px 24px 24px;
             @media(max-width:768px){
                 flex-direction: column;
@@ -65,6 +65,7 @@ flex-direction:column;
         .card-location{
             display: flex;
             flex-direction: column;
+            width: 80px;
             b{
                 white-space: nowrap;
                 font-size: 16px;
@@ -89,9 +90,40 @@ flex-direction:column;
     }
         }
             .garranty{
+                .info{
+                    display: flex;
+                        :hover{
+                            background: initial;
+                        }
+                }
+                .info-container{
+                    display: flex;
+                    flex-direction: column;
+                        :hover{
+                            background: initial;
+                        }
+                    div{
+                        :hover{
+                            background: initial;
+                        }
+                    }
+                    span{
+                        /* width:60%; */
+                        display: flex;
+                        p{
+                            /* min-width: 60px; */
+                            min-width: 130px;
+                            display: flex;
+                            justify-content: center;
+                            /* :hover{ */
+                                border:1px solid #4a90e2;
+                            /* } */
+                        }
+                    }
+                }
                 display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     @media (max-width:768px) {
         justify-content: space-between;
     align-items: center;
@@ -115,13 +147,18 @@ flex-direction:column;
         margin-left:5px;
     }
     }
-    span{
+    span p,.moreInfo{
         padding: 4px 8px;
     border-radius: 20px;
     background: #daf2d5;
     border-color: #daf2d5;
     color: #0b5124;
-    
+    div{
+        margin:4px 0;
+        font-size:12px;
+        :hover,p:hover{
+        background: inherit;
+    }}
     }
     a{
         color: #000;
@@ -135,7 +172,7 @@ flex-direction:column;
                 display: flex;
                 flex-direction: column;
                 justify-content: flex-start;
-                align-items:flex-start;
+                align-items:flex-end;
                 /* width: 20%; */
                 a{
                     text-align: right;
@@ -157,6 +194,7 @@ flex-direction:column;
                     line-height: 24px;
                     display: flex;
     flex-direction: column;
+    
                 }
         button{
     align-self: center;
@@ -248,7 +286,18 @@ flex-direction:column;
     padding:3px 12px;
     .delivery{
         .garranty{
-            height: 28px;
+            
+            .info{
+                display: flex;
+                flex-direction: column;
+            }
+            .moreInfo{
+                font-weight: normal;
+    font-size: 12px;
+    color: #333;
+    line-height: 24px;
+    margin-top: 4px;
+            }
             span{
                 padding: 5px 8px;
             }

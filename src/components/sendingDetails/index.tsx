@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import { StAll } from './style'
-import { Button } from 'antd'
+import { Button, Modal } from 'antd'
 import { AiOutlineDown } from 'react-icons/ai'
+import DistrictChanger from '../cityChanger/districtChanger'
 
 const SendingDetails = () => {
   const [showSendDetails, setshowSendDetails] = useState(false)
@@ -13,7 +14,8 @@ const SendingDetails = () => {
 Instant delivery
 <AiOutlineDown/>
                       </Button>
-       {showSendDetails&&<div className="send-details">
+       {showSendDetails&&
+       <div className="send-details">
                               <p>Possibility of delivery on the same day for Tehran with coordination</p>
                               <p>Shipping methods
                                 <br />
@@ -41,7 +43,27 @@ Instant delivery
         <Button >
                       store profile
                       </Button></p>
-                            </div>}
+                            </div>
+                            }
+                            <Modal 
+        destroyOnClose
+   footer={
+    <div style={{display:'flex',width:'100%',justifyContent:'space-between'}}>
+    <Button
+    style={{color:'#fff',background:'#333',width:'70%'}}>
+      confirm
+    </Button>
+    <Button style={{color:'#333',background:'#fff',width:'30%'}}
+    onClick={()=>setshowSendDetails(false)}
+    >
+      
+        cancel
+    </Button>
+    </div>
+   }
+   open={showSendDetails} onCancel={()=>setshowSendDetails(false)} title="select city">
+       <DistrictChanger data={'data'} />
+   </Modal>
     </StAll>
   )
 }

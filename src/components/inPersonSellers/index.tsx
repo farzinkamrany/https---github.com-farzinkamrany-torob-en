@@ -4,6 +4,7 @@ import { Button ,Drawer} from 'antd'
 import { BsFlag } from 'react-icons/bs'
 import SendingDetails from '../sendingDetails'
 import ContactInfo from '../contactInfo'
+import RatingDetail from '../ratingDetail'
 
 interface PropTypes{
     data?:any
@@ -26,29 +27,24 @@ console.log(data)
             </div>
             <div className='delivery'>
                         <div className='garranty'>
-                        <span>★{res?.score_info?.score} {res?.score_info?.score_text}</span>
-                        <div className='report'>
-                            <b>report</b>
-                          <BsFlag/>
-                        </div>
+                        
+                        <RatingDetail res={res}/>
                         </div>
                     <a href="">{res?.address}</a>
                     <a href="">{res?.name2}</a>
-                    <div className='sending'>
+                    {/* <div className='sending'>
                         
                     <SendingDetails/>
-                    </div>
+                    </div> */}
 
             </div>
             </div>
             <div className='shopping'>
-                <a href="">
                 <b>{res?.price_string}</b>
                  {/* <div className='update-details-mobile'>
                          <p><span>The last price change in the store:</span> {res?.last_price_change_date}</p>
                      </div> */}
-                </a>
-                                <a href=""><ContactInfo data={res}/></a>
+                                <ContactInfo data={res}/>
             </div>
            </div>
                     <div className='update-details'>

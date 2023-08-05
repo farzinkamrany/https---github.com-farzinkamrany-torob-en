@@ -42,6 +42,7 @@ export const StAll=styled.div`
         .card-location{
             display: flex;
             flex-direction: column;
+            width: 80px;
             b{
                 white-space: nowrap;
                 font-size: 16px;
@@ -64,16 +65,49 @@ export const StAll=styled.div`
             width: 100%;
     }
         }
-            .garranty{
+        .garranty{
+
+                .info{
+
+                    display: flex;
+                        :hover{
+                            background: initial;
+                        }
+                }
+                .info-container{
+                    display: flex;
+                    flex-direction: column;
+                        :hover{
+                            background: initial;
+                        }
+                    div{
+                        :hover{
+                            background: initial;
+                        }
+                    }
+                    span{
+                        /* width:60%; */
+                        display: flex;
+                        p{
+                            /* min-width: 60px; */
+                            min-width: 130px;
+                            display: flex;
+                            justify-content: center;
+                            /* :hover{ */
+                                border:1px solid #4a90e2;
+                            /* } */
+                        }
+                    }
+                }
                 display: flex;
     justify-content: flex-start;
-    align-items: center;
-    height: 20px;
-    margin-bottom: 7%;
-    
+    align-items: flex-start;
     @media (max-width:768px) {
-    margin: 5% 0;
-                    }
+        justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    }
+
     .report{
         background: #f2f3f5;
         color: #fff;
@@ -91,23 +125,29 @@ export const StAll=styled.div`
         margin-left:5px;
     }
     }
-    span{
-        
+    
+    span p,.moreInfo{
         padding: 4px 8px;
     border-radius: 20px;
-    background: #daf2d5;
-    border-color: #daf2d5;
-    color: #0b5124;
+    background: #ecedef;
+    border-color: #ecedef;
+    color: #000;
+    div{
+        margin:4px 0;
+        font-size:12px;
+        :hover,p:hover{
+        background: inherit;
+    }}
     }
     a{
         color: #000;
-        text-decoration: none;
+        /* text-decoration: none; */
     }
-    @media (max-width:768px){
-        width: 100%;
-                justify-content: space-between;
-        
-    }
+            }
+            .update-details{
+                p,span{
+                    font-size: 12px;
+                }
             }
             .shopping{
                 display: flex;
@@ -269,6 +309,13 @@ export const StAll=styled.div`
     @media (max-width:768px) {
         .detailss{
             display:block;
+
+        }
+        .garranty{
+            width:100%;
+            .info{
+                width:100%;
+            }
         }
                .all-sellers .pcBtn{
                     display:none;

@@ -45,7 +45,7 @@ li:hover,ul:hover{
     }
     li:nth-child(3) ul li{
     height: 150px;
-    padding-top:50%;
+    padding-top:35%;
     padding-left: 2px !important;
     /* background: #000; */
     .ant-row{
@@ -65,10 +65,9 @@ li:hover,ul:hover{
 .ant-menu-submenu{
     border-bottom: 1px solid #e6e6e6;
     border-radius: 0;
-    padding: 10px;
 .ant-menu-submenu-title{
     font-weight:bold;
-    border-bottom:1px dolid #999;
+    /* border-bottom:1px solid #999; */
     :hover{
     background: transparent;
     /* display: none; */

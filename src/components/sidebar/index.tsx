@@ -78,7 +78,6 @@ const [selected, setselected] = useState()
       defaultSelectedKeys={['1']}
       defaultOpenKeys={['sub1']}
       mode="inline"
-      onClick={(e)=>e.preventDefault()}
       items={items}
     />
     </StAll>

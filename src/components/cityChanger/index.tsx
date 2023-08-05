@@ -49,7 +49,7 @@ const CityChanger:FC<PropTypes> = ({data}) => {
     </Button>
     </div>
    }
-   open={selectCity} onClose={()=>setselectCity(false)} onCancel={()=>setselectCity(false)} title="select city">
+   open={selectCity} onCancel={()=>setselectCity(false)} title="select city">
        <DistrictChanger data={data} />
    </Modal>
     </StAll>

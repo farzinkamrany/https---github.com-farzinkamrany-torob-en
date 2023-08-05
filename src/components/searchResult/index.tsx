@@ -1,4 +1,4 @@
-import React, { FC, useState } from 'react'
+import React, { FC, useEffect, useState } from 'react'
 import { StAll, StCardContainer, StHeader, StMobileHeader } from './style'
 import Card from '../card'
 import Sidebar from '../sidebar'
@@ -6,13 +6,11 @@ import { Button, Col, Dropdown, MenuProps, Tag } from 'antd'
 import BreadCrumb from '../breadCrumb'
 import { MdLocationOn } from 'react-icons/md';
 import { AiOutlineDown } from 'react-icons/ai';
-import InfiniteScroll from 'react-infinite-scroll-component';
-
 interface PropTypes{
   data?:any
 }
 const SearchResult:FC<PropTypes> = ({data}) => {
-  const [nextPage, setnextPage] = useState(15)
+  const [nextPage, setnextPage] = useState<number>(7)
     const items:any = [
         {
           label: (
@@ -47,12 +45,27 @@ const SearchResult:FC<PropTypes> = ({data}) => {
           key: '4',
         },
       ];
+
+      // useEffect(() => {
+      //   setnextPage((prev:any)=>prev+10)
+      // }, [nextPage<data?.listOfProducts.length])
+      
       const handleNext=()=>{
-        setnextPage((prev)=>prev+15)
+        // console.log(23)
+        setnextPage((prev:any)=>prev+7)
       }
-      console.log(data)
+      useEffect(() => {
+
+        nextPage<=data?.listOfProducts.length&&setTimeout(()=>window.addEventListener("scroll", handleNext),200);
+    
+        return () => {
+          window.removeEventListener("scroll", handleNext);
+        };
+      }, [nextPage]);
+      console.log(data?.listOfProducts.length)
+      console.log(nextPage)
   return (
-    <StAll>
+    <StAll>  
         {/* <SearchNavbar/> */}
   <Sidebar/>
         <Col>
@@ -123,7 +136,14 @@ const SearchResult:FC<PropTypes> = ({data}) => {
   //   <h3 style={{textAlign: 'center'}}>&#8593; Release to refresh</h3>
   // }
   > */}
+  {/* <ReactScrolla
+  percentage={85}
+  onPercentage={handleNext}
+> */}
+  {/* <div style={{ width: 1000, height: '60vh'}}> */}
   {data?.listOfProducts?.slice(0,nextPage).map((res:any)=><Card data={res}/>)}
+        {/* </div> */}
+      {/* </ReactScrolla> */}
 {/* </InfiniteScroll> */}
       </StCardContainer>
       

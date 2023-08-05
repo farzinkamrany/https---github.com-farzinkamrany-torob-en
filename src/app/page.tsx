@@ -20,7 +20,7 @@ export default function Home() {
     {/* <Head><link href="https://fonts.cdnfonts.com/css/iranyekan" rel="stylesheet"
         /></Head> */}
     <div className="homeNavbar">
-    <HomeNavbar/>
+    {/* <HomeNavbar/> */}
     </div>
     <div className="searchBox">
     <HomeSearchBox data={Datas}/>

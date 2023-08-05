@@ -6,12 +6,16 @@ import MobileTags from '../mobileTags'
 import TwoRow from '../twoRow'
 import Slider from '../slider'
 import Feeds from '../feeds'
+import dynamic from 'next/dynamic'
+const HomeNavbar=dynamic(()=>import('../home/homeNavbar'),{ssr:false})
+// import HomeNavbar from '../home/homeNavbar'
 interface PropTypes{
   data?:any
 }
 const HomeSearchBox:FC<PropTypes> = ({data}) => {
   return (
     <InputStyle>
+    <HomeNavbar/>
    <div className="pcImg">
    <img src="https://torob.com/static/images/logo_original.png" alt="" />
    <span>Torob</span>

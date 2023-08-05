@@ -23,6 +23,7 @@ const HomeNavbar = () => {
     setopenedItem(e.target.value)
   };
   return (
+   <>
     <StAll>
       
       <Row>
@@ -46,8 +47,9 @@ const HomeNavbar = () => {
       localStorage.getItem('phone number')===null?'login/sign-up':localStorage.getItem('phone number'):null}
       </Button>
         </div>
-          <LoginModal setIsModalOpen={setIsModalOpen} isModalOpen={isModalOpen} />
     </StAll>
+          <LoginModal setIsModalOpen={setIsModalOpen} isModalOpen={isModalOpen} />
+          </>
   )
 }
 

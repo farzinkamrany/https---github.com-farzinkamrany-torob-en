@@ -4,6 +4,8 @@ import {BsFlag} from 'react-icons/bs'
 import { Anchor, Button, Drawer, MenuProps } from 'antd'
 import { DownOutlined, SmileOutlined } from '@ant-design/icons';
 import SendingDetails from '../sendingDetails';
+import { IoIosArrowUp,IoIosArrowDown } from 'react-icons/io';
+import RatingDetail from '../ratingDetail';
 
 interface PropTypes{
   data?:any
@@ -41,15 +43,8 @@ const PriceCard :FC<PropTypes> = ({data}) => {
                  </small>
              </div>
              <div className='delivery'>
-                         <div className='garranty'>
-                         <span style={{background:res?.score_info?.score_background_color,
-                             whiteSpace: "nowrap",
-                             fontSize: '14px',
-                             padding:' 8px'}}>{res?.score_info?.score_text}</span>
-                         <div className='report'>
-                             <b>report</b>
-                           <BsFlag/>
-                         </div>
+                         <div  className='garranty'>
+                         <RatingDetail res={res}/>
                          </div>
                      <a href="">{res?.address}</a>
                      <a href="">{res?.name2}</a>
@@ -109,7 +104,9 @@ const PriceCard :FC<PropTypes> = ({data}) => {
                          <span style={{background:res?.score_info?.score_background_color,
                              whiteSpace: "nowrap",
                              fontSize: '14px',
-                             padding:' 8px'}}>{res?.score_info?.score_text}</span>
+                             padding:' 8px',cursor:'pointer'}}>
+                              {res?.score_info?.score_text}
+                              </span>
                          <div className='report'>
                              <b>report</b>
                            <BsFlag/>

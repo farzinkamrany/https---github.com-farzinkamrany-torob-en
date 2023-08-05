@@ -1,4 +1,4 @@
-import React, { useState,useEffect } from 'react'
+import React, { useState,useEffect, useRef } from 'react'
 import { ListOfMenu, StAll } from './style'
 import { Button, Dropdown, MenuProps } from 'antd'
 import { useRouter } from 'next/navigation'
@@ -11,6 +11,7 @@ const SearchNavbar=dynamic(()=>import('@/components/searchNavbar'),{ssr:false})
 const Navbar = () => {
  
   const router=useRouter()
+  const wrapperRef = useRef(null);
   const [showList, setshowList] = useState(false)
   const [openedItem, setopenedItem] = useState<string>('')
 console.log(openedItem)
