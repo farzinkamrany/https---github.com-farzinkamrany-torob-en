@@ -1,6 +1,6 @@
 "use client"
 import React,{useState} from 'react'
-import { StAll } from './style'
+import { StAll, StComps } from './style'
 import { Button, Col, Divider, Dropdown, Input, MenuProps, Modal, Row } from 'antd'
 // import { ListOfMenu } from '../components/navbar/style'
 import Link from 'next/link'
@@ -11,20 +11,21 @@ import LoginModal from '../../loginModal'
 import { Datas } from '@/helpers/datas'
 import ItemsList from '@/components/itemsList'
 import { ClickAwayListener,Box } from '@mui/material'
+import useScreenSizeChecker from '@/hooks/useScreenSizeChecker'
 
 const HomeNavbar = () => {
     const router=useRouter()
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [showList, setshowList] = useState(false)
   const [openedItem, setopenedItem] = useState<string>('')
-
+  const smallScreen=useScreenSizeChecker()
   
   const onClick = ( e:any ) => {
     setshowList((prev)=>!prev)
     setopenedItem(e.target.value)
   };
   return (
-   <div>
+   <StComps>
     <StAll>
       
       <Row>
@@ -56,7 +57,7 @@ const HomeNavbar = () => {
       </Button>
         </div>
           <LoginModal setIsModalOpen={setIsModalOpen} isModalOpen={isModalOpen} />
-          </div>
+          </StComps>
   )
 }
 

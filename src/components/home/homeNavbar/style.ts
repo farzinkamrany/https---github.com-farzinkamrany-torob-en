@@ -1,5 +1,10 @@
 import styled from 'styled-components';
 
+export const StComps=styled.div`
+@media (max-width:768px) {
+    display: none;
+}
+`
 export const StAll=styled.div`
     display: flex;
     width: 100%;
