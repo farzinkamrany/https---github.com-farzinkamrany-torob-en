@@ -31,7 +31,7 @@ width: 100%;
 .ant-select{
     
     /* height: 48px; */
-    margin: 2% 0;
+    /* margin: 2% 0; */
     width: 500px;
     /* height: 50px; */
     .ant-select-selector{

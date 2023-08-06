@@ -14,7 +14,6 @@ const Navbar = () => {
   const wrapperRef = useRef(null);
   const [showList, setshowList] = useState(false)
   const [openedItem, setopenedItem] = useState<string>('')
-console.log(openedItem)
   const onClick= (e:any) => {
     setopenedItem(e.target.value)
     setshowList(false)

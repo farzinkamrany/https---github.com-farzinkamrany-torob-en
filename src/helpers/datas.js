@@ -24026,13 +24026,13 @@ export const Datas = {
         }
     ],
     specs:[
-        {title:'x',desc:'xxx'},
-        {title:'x',desc:'xxx'},
-        {title:'x',desc:'xxx'},
-        {title:'x',desc:'xxx'},
-        {title:'x',desc:'xxx'},
-        {title:'x',desc:'xxx'},
-        {title:'x',desc:'xxx'},
+        {title:'x1',desc:'describe1'},
+        {title:'x2',desc:'describe2'},
+        {title:'x3',desc:'describe3'},
+        {title:'x4',desc:'describe4'},
+        {title:'x5',desc:'describe5'},
+        {title:'x6',desc:'describe6'},
+        {title:'x7',desc:'describe7'},
     ],
     cities:[
     {

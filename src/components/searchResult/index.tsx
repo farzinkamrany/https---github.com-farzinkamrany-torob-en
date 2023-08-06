@@ -2,15 +2,27 @@ import React, { FC, useEffect, useState } from 'react'
 import { StAll, StCardContainer, StHeader, StMobileHeader } from './style'
 import Card from '../card'
 import Sidebar from '../sidebar'
-import { Button, Col, Dropdown, MenuProps, Tag } from 'antd'
+import { Button, Checkbox, Col, Collapse, Drawer, Dropdown, Input, MenuProps, Row, Tag } from 'antd'
 import BreadCrumb from '../breadCrumb'
 import { MdLocationOn } from 'react-icons/md';
-import { AiOutlineDown } from 'react-icons/ai';
+import { AiOutlineDown, AiOutlineSearch } from 'react-icons/ai';
+import SelectedItem from '../selectedItem'
 interface PropTypes{
   data?:any
 }
 const SearchResult:FC<PropTypes> = ({data}) => {
+  console.log(data)
   const [nextPage, setnextPage] = useState<number>(7)
+  const [openDrawer, setopenDrawer] = useState(false)
+  const [filterType, setfilterType] = useState(1)
+  const [drawerLabel, setdrawerLabel] = useState('')
+  const onClick=(data:any,label:any)=>{
+    setopenDrawer(true)
+    setfilterType(data)
+    setdrawerLabel(label)
+  }
+
+
     const items:any = [
         {
           label: (
@@ -77,11 +89,11 @@ const SearchResult:FC<PropTypes> = ({data}) => {
   </StHeader>
   <StMobileHeader>
   <div className='dropdownFilter'>
-        <Button >
+        <Button onClick={(e)=>onClick(1,'ordering')}>
           <li>ordering</li></Button>
-        <Button>
+        <Button onClick={(e)=>onClick(2,'price')}>
           <li>price</li></Button>
-        <Button>
+        <Button onClick={(e)=>onClick(3,'inventory')}>
           <li>inventory</li></Button>
   </div>
     <div className='tags'>
@@ -94,11 +106,6 @@ const SearchResult:FC<PropTypes> = ({data}) => {
   <Button><Tag/></Button>
   <Button><Tag/></Button>
   </div>
-  {/* <div className='cards'>
-    <div className="cards">1</div>
-    <div className="cards">2</div>
-    <div className="cards">3</div>
-  </div> */}
   
   <div className='mobileShoppers'>  
     <Button><MdLocationOn/>online shopping</Button>
@@ -111,39 +118,46 @@ const SearchResult:FC<PropTypes> = ({data}) => {
     <span><MdLocationOn style={{fill: 'rgb(52, 104, 204)'}}/>in-person</span>
     </div>
       <StCardContainer>
-      {/* {data?.listOfProducts?.map((res:any)=><Card data={res}/>)} */}
-      {/* <InfiniteScroll
-  dataLength={(data?.listOfProducts)?.length} //This is important field to render the next data
-  next={handleNext}
-  hasMore={nextPage<data?.listOfProducts?.length?true:false}
-  loader={<h4>Loading...</h4>}
-  endMessage={
-    <p style={{textAlign: 'center'}}>
-      <b>Yay! You have seen it all</b>
-    </p>
-  }
-  // below props only if you need pull down functionality
-  // refreshFunction={this.refresh}
-  // pullDownToRefresh
-  // pullDownToRefreshContent={
-  //   <h3 style={{textAlign: 'center'}}>&#8595; Pull down to refresh</h3>
-  // }
-  // releaseToRefreshContent={
-  //   <h3 style={{textAlign: 'center'}}>&#8593; Release to refresh</h3>
-  // }
-  > */}
-  {/* <ReactScrolla
-  percentage={85}
-  onPercentage={handleNext}
-> */}
-  {/* <div style={{ width: 1000, height: '60vh'}}> */}
   {data?.listOfProducts?.slice(0,nextPage).map((res:any)=><Card data={res}/>)}
-        {/* </div> */}
-      {/* </ReactScrolla> */}
-{/* </InfiniteScroll> */}
       </StCardContainer>
       
       </Col>
+      <Drawer
+      open={openDrawer}
+      title={drawerLabel}
+      onClose={()=>setopenDrawer(false)}
+      destroyOnClose
+      footer={
+        <>
+        <Button
+        onClick={()=>setopenDrawer(false)}
+        style={{width:'72%',background:'#333',color:'#fff',marginRight:'2%'}}>Confirm
+
+        </Button>
+        <Button   onClick={()=>setopenDrawer(false)}>
+          remove
+        </Button>
+        </>
+      }
+      >
+        {filterType===1?
+        <>
+<Input style={{height:40,marginRight:15,marginBottom:15}} prefix={<AiOutlineSearch/>} placeholder=''/>
+          
+          <SelectedItem data={data.specs}/>
+        </>:
+        filterType===2?
+        <>
+        <Row><Input style={{height:40,width:'80%',marginRight:15,marginBottom:15}} prefix={'from'} placeholder=''/>toman</Row>
+        <Row><Input  style={{height:40,width:'80%',marginRight:15}}  prefix={'to'} placeholder=''/>toman</Row>
+        </>:
+        <>
+        <Checkbox>
+        show all exists
+        </Checkbox>
+        </>
+      }
+      </Drawer>
     </StAll>
   )
 }

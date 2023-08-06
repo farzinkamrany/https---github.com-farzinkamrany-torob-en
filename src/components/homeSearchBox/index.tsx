@@ -33,7 +33,7 @@ const HomeSearchBox:FC<PropTypes> = ({data}) => {
     <div className="imgMobile">
     <img src="https://torob.com/static/images/torob_logo.svg" alt="" />
     </div>
-      <Select showSearch placeholder='Enter the product name' options={options} onSelect={()=>{router.push('/browse')}}/>
+      <Select style={{padding:4}} showSearch placeholder='Enter the product name' options={options} onSelect={()=>{router.push('/browse')}}/>
       <p className='pcP'>Price comparison of millions of products between thousands of stores</p>
       <p className='mobileP'>Most Searched by users</p>
       <div className="mobileView"><br />
