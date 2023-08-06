@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const StAll=styled.div`
     display: flex;
     background-color: #f2f3f5;
-    height:64px;
+    height:90px;
     flex-direction: column;
     /* padding: 1% 2%; */
     justify-content: space-between;

@@ -6,7 +6,6 @@ import { Anchor, Button, Image, Modal, Input, Tooltip } from 'antd'
 import { AiFillBell, AiFillHeart, AiOutlineBell,AiOutlineHeart, AiTwotoneHeart } from 'react-icons/ai';
 import {BsShare,BsFlag, BsHeart} from 'react-icons/bs'
 import {TiLocation} from 'react-icons/ti'
-// import ProductTitle from '../../components/productHeader'
 import BreadCrumb from '../../components/breadCrumb'
 import PriceCard from '../../components/priceCard'
 import InPersonSellers from '../../components/inPersonSellers'
@@ -14,13 +13,13 @@ import ChartContainer from '../../components/chartContainer'
 import Specs from '../../components/specs'
 import ProductSection from '../../components/productSection'
 import Reports from '../../components/reports'
-import Link from 'next/link';
 import Navbar from '../../components/navbar';
 import { Datas } from '../../helpers/datas';
 import dynamic from 'next/dynamic';
 import CityChanger from '@/components/cityChanger';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
+import MobileApp from '@/components/mobileApp';
 const ProductTitle=dynamic(()=>import('../../components/productHeader'),{ssr:false})
 const Product = ({res}:any) => {
   const [reportModal, setreportModal] = useState(false)
@@ -100,17 +99,7 @@ const Product = ({res}:any) => {
         </div>
       </div>
         </div>
-        <div className="mobile-app">
-          <div className='installer'>
-        <div className='question'>you want app on your phone?</div>
-        <br />
-        <div className='btns'><Button className='yes' style={{background:'linear-gradient(180deg,#f04151,#d73948)',color:'#fff'}}>yes, install it</Button>
-        <Button className='no'>No</Button></div>
-          </div>
-          <div className='logo'>
-            <Image src="	https://torob.com/static/images/bordered_logo.svg" alt="" />
-          </div>
-        </div>
+      <MobileApp/>
         <div className='sellers'>
           <div className="title">
             <h3>sellers</h3>
