@@ -59,6 +59,9 @@ justify-content:space-between;
     padding:10px;
 }
 @media (max-width:768px){
+    .ant-col{
+        padding:0;
+    }
 .shopper .ant-btn{
     display: none;
 }
@@ -225,10 +228,14 @@ li{
     .tags{
         background: #f2f3f5;
     }
+    .ant-input-group-wrapper{
+        width:85%;
+    }
     .ant-input,.ant-input-search-button{
         margin-top:20px;
         height: 40px;
         background: #f5f7fa;
+        border:none;
     }
     .dropdownFilter{
         width:100%;
