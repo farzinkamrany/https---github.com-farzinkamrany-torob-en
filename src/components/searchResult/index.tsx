@@ -11,7 +11,7 @@ interface PropTypes{
   data?:any
 }
 const SearchResult:FC<PropTypes> = ({data}) => {
-  const [nextPage, setnextPage] = useState<number>(7)
+  const [nextPage, setnextPage] = useState<number>(10)
   const [openDrawer, setopenDrawer] = useState(false)
   const [filterType, setfilterType] = useState(1)
   const [drawerLabel, setdrawerLabel] = useState('')
