@@ -31,5 +31,6 @@ border-top: 1px solid#ecedef;
 
 @media (max-width:768px) {
 display: flex;
+z-index: 10000;
 }
 `

@@ -10,6 +10,7 @@ export const StAll=styled.div`
     background: #fff;
     top:0;
     border-bottom: 1px solid#ecedef;
+    z-index: 10000;
     .back{
         width:18px;
         height:18px;

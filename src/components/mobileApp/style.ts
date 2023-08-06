@@ -23,7 +23,7 @@ export const StAll=styled.div`
         .btns{
             display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 80%;
         }
         .btns{
             display: flex;
