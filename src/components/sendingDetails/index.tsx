@@ -1,10 +1,14 @@
-import React, { useState } from 'react'
+import React, {FC, useState } from 'react'
 import { StAll } from './style'
 import { Button, Modal } from 'antd'
 import { AiOutlineDown } from 'react-icons/ai'
 import DistrictChanger from '../cityChanger/districtChanger'
 
-const SendingDetails = () => {
+interface PropTypes{
+  data?:any
+  }
+const SendingDetails:FC<PropTypes> = ({data}) => {
+  console.log(data)
   const [showSendDetails, setshowSendDetails] = useState(false)
   return (
     <StAll>
@@ -14,7 +18,7 @@ const SendingDetails = () => {
 Instant delivery
 <AiOutlineDown/>
                       </Button>
-       {showSendDetails&&
+       {/* {showSendDetails&&
        <div className="send-details">
                               <p>Possibility of delivery on the same day for Tehran with coordination</p>
                               <p>Shipping methods
@@ -44,7 +48,7 @@ Instant delivery
                       store profile
                       </Button></p>
                             </div>
-                            }
+                            } */}
                             <Modal 
         destroyOnClose
    footer={
@@ -62,7 +66,7 @@ Instant delivery
     </div>
    }
    open={showSendDetails} onCancel={()=>setshowSendDetails(false)} title="select city">
-       <DistrictChanger data={'data'} />
+       <DistrictChanger data={data} />
    </Modal>
     </StAll>
   )

@@ -218,8 +218,24 @@ li{
 @media(max-width:768px){
     display: flex;
     .tags,.dropdownFilter{
+
         padding: 12px;
     }
+    .dropdownFilter{
+        width:100%;
+        overflow-x:scroll;
+        .ant-btn{
+            /* width:40%; */
+        }
+        button li{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        svg{
+            margin-left:5%;
+        }
+    }}
 }
 `
 

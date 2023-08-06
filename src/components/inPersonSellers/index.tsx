@@ -90,7 +90,7 @@ const InPersonSellers:FC<PropTypes> = ({data}) => {
                      <a href="">{res?.address}</a>
                      <a href="">{res?.name2}</a>
                      <div>
-                         <SendingDetails/>
+                         <SendingDetails  data={data}/>
                      </div>
  
              </div>

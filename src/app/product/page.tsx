@@ -19,10 +19,18 @@ import Navbar from '../../components/navbar';
 import { Datas } from '../../helpers/datas';
 import dynamic from 'next/dynamic';
 import CityChanger from '@/components/cityChanger';
+import AwesomeSlider from 'react-awesome-slider';
+import 'react-awesome-slider/dist/styles.css';
 const ProductTitle=dynamic(()=>import('../../components/productHeader'),{ssr:false})
 const Product = ({res}:any) => {
   const [reportModal, setreportModal] = useState(false)
   const [heart, setheart] = useState(false)
+  const [showSlider, setshowSlider] = useState(false)
+  const [imageList, setimageList] = useState([])
+  const openSlider=(data:any)=>{
+    setshowSlider(true)
+    setimageList(data)
+  }
   // const [selectCity, setselectCity] = useState(false)
   const [bell, setbell] = useState(false)
   const openReportModal = () => {
@@ -38,9 +46,9 @@ const Product = ({res}:any) => {
 <ProductTitle data={Datas?.results}/>
       <div className="details">
         <div className='product-overview'>
-      <Image src={Datas?.results?.image_url}alt="" />
+      <Image src={Datas?.results?.image_url}alt="" preview={false} onClick={()=>openSlider([])} />
       <div className="price-details">
-        <div><h1>{Datas?.results?.name1}</h1></div>
+        <div><h1>{Datas?.results?.name1}</h1></div> 
         <div className='price-tags'>
           <span><b>
           {Datas?.results?.name2}
@@ -133,23 +141,28 @@ const Product = ({res}:any) => {
         </div>
       </div>
    <Reports oprnModalReport={reportModal} setreportModal={setreportModal}/>
-   {/* <Modal 
+   <Modal 
    footer={
-    <div style={{display:'flex',width:'100%',justifyContent:'space-between'}}>
-    <Button style={{color:'#fff',background:'#333',width:'70%'}}>
-      confirm
-    </Button>
-    <Button style={{color:'#333',background:'#fff',width:'30%'}}>
-        cancel
-    </Button>
+    <div>
     </div>
    }
-   open={selectCity} onClose={()=>setselectCity(false)} title="select city">
-      <CityChanger data={Datas}/>
-      
-   </Modal> */}
+   open={showSlider} onCancel={()=>setshowSlider(false)} title=""
+   width={1000}
+   >
+       {<AwesomeSlider style={{    width: '50%',
+    margin: '0 auto',
+    height: 550}}
+    bullets={false}
+    >
+    <div data-src={Datas?.results?.image_url} />
+    <div data-src={Datas?.results?.image_url} />
+    <div data-src={Datas?.results?.image_url} />
+    <div data-src={Datas?.results?.image_url} />
+  </AwesomeSlider>}
+   </Modal>
    </StAll>
   )
+
 }
 
 export default Product

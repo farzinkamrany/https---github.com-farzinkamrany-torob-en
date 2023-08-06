@@ -6,6 +6,7 @@ import { DownOutlined, SmileOutlined } from '@ant-design/icons';
 import SendingDetails from '../sendingDetails';
 import { IoIosArrowUp,IoIosArrowDown } from 'react-icons/io';
 import RatingDetail from '../ratingDetail';
+import { Datas } from '@/helpers/datas';
 
 interface PropTypes{
   data?:any
@@ -49,7 +50,7 @@ const PriceCard :FC<PropTypes> = ({data}) => {
                      <a href="">{res?.address}</a>
                      <a href="">{res?.name2}</a>
                      <div>
-                         <SendingDetails/>
+                         <SendingDetails data={data}/>
                      </div>
  
              </div>
@@ -115,7 +116,7 @@ const PriceCard :FC<PropTypes> = ({data}) => {
                      <a href="">{res?.address}</a>
                      <a href="">{res?.name2}</a>
                      <div>
-                         <SendingDetails/>
+                         <SendingDetails data={data}/>
                      </div>
  
              </div>
