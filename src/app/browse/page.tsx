@@ -25,9 +25,9 @@ const Browse:FC<PropTypes> = ({data}) => {
 
 export default Browse
 
-export async function getServerSideProps() {
-  // Fetch data from external API
-  const data = Datas
-  // Pass data to the page via props
-  return { props: { data } }
-}
+// export async function getServerSideProps() {
+//   // Fetch data from external API
+//   const data = Datas
+//   // Pass data to the page via props
+//   return { props: { data } }
+// }

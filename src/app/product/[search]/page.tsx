@@ -158,9 +158,9 @@ const Product = ({res}:any) => {
 }
 
 export default Product
-export async function getServerSideProps() {
-  // Fetch data from external API
-  const res = Datas
-  // Pass data to the page via props
-  return { props: { res } }
-}
+// export async function getServerSideProps() {
+//   // Fetch data from external API
+//   const res = Datas
+//   // Pass data to the page via props
+//   return { props: { res } }
+// }

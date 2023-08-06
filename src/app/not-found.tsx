@@ -1,4 +1,4 @@
-'use client'
+"use client"
 import React, { Suspense, useEffect } from 'react'
 import dynamic from 'next/dynamic'
 import Sidebar from '@/components/sidebar'
@@ -8,12 +8,12 @@ import FullFooter from '@/components/fullFooter'
 // const SearchNavbar = dynamic(() => import('../components/searchNavbar'), { ssr: false })
 
 const NotFound = () => {
-  // useEffect(() => {
-  //   document.title="page not found"
-  // }, [])
+  useEffect(() => {
+    document.title="page not found"
+  }, [])
   
   return (
-    <Suspense>
+    <div>
     {/* <SearchNavbar/> */}
     <br />
     {/* <HomeNavbar /> */}
@@ -25,7 +25,7 @@ const NotFound = () => {
    </Row>
     </Row>
     <FullFooter/>
-    </Suspense>
+    </div>
   )
 }
 
