@@ -2,13 +2,13 @@ import React,{FC} from 'react'
 import { StAll } from './style'
 import { Button, Drawer } from 'antd'
 import Link from 'next/link'
-import DetailsDrawer from '@/app/browse/[name]/[details]'
 import { Datas } from '@/helpers/datas'
 import { useState } from 'react';
 import { useRouter } from 'next/navigation'
 import { AiOutlineSearch, AiOutlineTag } from 'react-icons/ai'
 import {TbCategory } from 'react-icons/tb'
 import { GoPerson } from 'react-icons/go'
+import DetailsDrawer from '@/app/browse/[[...browseId]]/[details]/page'
 interface PropTypes{
   setopenDrawer?:any
   openDrawer?:boolean
