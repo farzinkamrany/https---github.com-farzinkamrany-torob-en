@@ -8,7 +8,7 @@ import { useRouter } from 'next/navigation'
 import { AiOutlineSearch, AiOutlineTag } from 'react-icons/ai'
 import {TbCategory } from 'react-icons/tb'
 import { GoPerson } from 'react-icons/go'
-import DetailsDrawer from '@/app/browse/[[...browseId]]/[details]/page'
+import DetailsDrawer from '@/app/browse/[browseId]/[details]/page'
 interface PropTypes{
   setopenDrawer?:any
   openDrawer?:boolean

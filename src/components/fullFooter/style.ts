@@ -67,7 +67,27 @@ display: flex;
         }
     }
     }
-
+@media(max-width:768px){
+    .large,.small{
+        flex-direction:column;
+        span{
+            margin:4% auto;
+        }
+    }
+       .small .ul-down{
+            flex-direction:column;
+            width:100%;
+            margin:4% auto;
+            justify-content:center;
+        }
+    .spans{
+        width:100%;
+        flex-direction:column;
+    }
+    .uls{
+        margin:5% auto;
+    }
+}
 
 
 `

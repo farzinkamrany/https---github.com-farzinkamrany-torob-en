@@ -4,7 +4,7 @@ import { StAll } from './style'
 import { AiOutlineRight } from 'react-icons/ai'
 import { Button, Drawer } from 'antd'
 import SubMenu from '../subMenu'
-import DetailsDrawer from '@/app/browse/[[...browseId]]/[details]/page'
+import DetailsDrawer from '@/app/browse/[browseId]/[details]/page'
 
 interface PropTypes{
   data?:any
