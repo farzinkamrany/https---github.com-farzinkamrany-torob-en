@@ -1,5 +1,5 @@
 import { Button, Input, Select } from 'antd'
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import SearchBox from '../searchBox'
 import { StAll } from './style'
 import Link from 'next/link'
@@ -7,6 +7,11 @@ import LoginModal from '../loginModal'
 
 const SearchNavbar = () => {
   const [showLoginModal, setshowLoginModal] = useState<boolean>(false)
+  const [userId, setuserId] = useState<any>('')
+  useEffect(() => {
+     if(typeof window !== 'undefined') setuserId(localStorage.getItem('phone number'))
+  }, [])
+  
   return (
     <StAll>
         <div className='icon-searchs'>
@@ -19,7 +24,7 @@ const SearchNavbar = () => {
         <div>
             
       <Button className='signup' onClick={()=>setshowLoginModal(true)}>
-        { typeof window !== 'undefined'&&localStorage.getItem('phone number')?localStorage.getItem('phone number'):'login/sign-up'}
+        {userId?userId:'login/sign-up'}
       </Button>
         </div>
           <LoginModal setIsModalOpen={setshowLoginModal} isModalOpen={showLoginModal} />

@@ -1,5 +1,5 @@
 "use client"
-import React,{useState} from 'react'
+import React,{useEffect, useState} from 'react'
 import { StAll, StComps } from './style'
 import { Button, Col, Divider, Dropdown, Input, MenuProps, Modal, Row } from 'antd'
 // import { ListOfMenu } from '../components/navbar/style'
@@ -19,13 +19,19 @@ const HomeNavbar = () => {
   const [showList, setshowList] = useState(false)
   const [openedItem, setopenedItem] = useState<string>('')
   const smallScreen=useScreenSizeChecker()
+  const [userId, setuserId] = useState<any>()
+  useEffect(() => {
+    if(typeof window !== 'undefined')
+      setuserId(localStorage.getItem('phone number'))
+  }, [])
+  
   
   const onClick = ( e:any ) => {
     setshowList((prev)=>!prev)
     setopenedItem(e.target.value)
   };
   return (
-   <StComps>
+   <StComps >
     <StAll>
       
       <Row>
@@ -49,11 +55,11 @@ const HomeNavbar = () => {
         <div style={{position: 'fixed',
     right:' 2%',top:10}}>
       <Button onClick={()=>
-         (typeof window !== 'undefined')? !localStorage.getItem('phone number')?setIsModalOpen(true):router.push('/profile'):null}>
+          !userId?setIsModalOpen(true):router.push('/profile')}>
         
       {
         (typeof window !== 'undefined')?
-      localStorage.getItem('phone number')===null?'login/sign-up':localStorage.getItem('phone number'):null}
+        userId===null?'login/sign-up':userId:null}
       </Button>
         </div>
           <LoginModal setIsModalOpen={setIsModalOpen} isModalOpen={isModalOpen} />
