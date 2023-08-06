@@ -14,7 +14,7 @@ const ItemsList:FC<PropTypes> = ({data}) => {
         <hr />
         {/* </Link> */}
         {res?.items?.length>0&&<ul>
-    {res?.items?.map((resp:any)=><Link href={'/product/'+res?.title}><li>{resp?.title}</li></Link>)}
+    {res?.items?.map((resp:any)=><Link href={'/browse'}><li>{resp?.title}</li></Link>)}
         </ul>}
       </div>)}
       </p>

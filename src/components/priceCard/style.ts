@@ -178,6 +178,7 @@ flex-direction:column;
                     text-align: right;
                 b{
                     color: #d73948;
+                    
                 }
                     span{
                         white-space: nowrap;
@@ -309,6 +310,9 @@ flex-direction:column;
     .shopping{
         button{
             margin-top:0;
+        }
+        b{
+            font-weight: normal;
         }
         a{
             text-align: left;

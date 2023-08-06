@@ -31,6 +31,9 @@ const Product = ({res}:any) => {
     setshowSlider(true)
     setimageList(data)
   }
+  useEffect(() => {
+    document.title="Torob-Product Details "
+  }, [])
   // const [selectCity, setselectCity] = useState(false)
   const [bell, setbell] = useState(false)
   const openReportModal = () => {

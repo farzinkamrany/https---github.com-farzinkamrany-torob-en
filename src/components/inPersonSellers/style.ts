@@ -319,6 +319,11 @@ export const StAll=styled.div`
                     /* padding: 8px 2px; */
                 }
             }
+            .shopping{
+        b{
+            font-weight: normal;
+        }
+            }
         }}
         .garranty{
             width:100%;
