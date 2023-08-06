@@ -122,7 +122,9 @@ margin: 2px;
     border-radius: 8px;
     width: 100%;
     height: 416px;
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
     .ant-card-cover{

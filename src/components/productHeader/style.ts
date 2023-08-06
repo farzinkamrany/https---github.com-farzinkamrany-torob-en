@@ -9,6 +9,7 @@ export const StAll=styled.div`
     z-index:10;
     background: #fff;
     top:0;
+    border-bottom: 1px solid#ecedef;
     .back{
         width:18px;
         height:18px;
@@ -16,8 +17,8 @@ export const StAll=styled.div`
     h2{
         font-size: 14px;
     line-height: 48px;
-    /* height: 48px; */
     margin: 0 auto 0 auto;
+    font-weight: normal;
     max-width: 100%;
     -webkit-padding-end: 2px;
     -moz-padding-end: 2px;
@@ -25,6 +26,7 @@ export const StAll=styled.div`
     overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 1;
+    color:#333;
     padding: 0 10px;
     -webkit-box-orient: vertical;
 

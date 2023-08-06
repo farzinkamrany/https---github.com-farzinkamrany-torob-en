@@ -13,7 +13,7 @@ const ProductTitle:FC<PropTypes> = ({data}) => {
   const router=useRouter()
   return (
     <StAll>
-       <div className="back"><AiOutlineArrowLeft onClick={()=>router.back()}/></div>
+       <div className="back">{location==='/product'?<AiOutlineArrowLeft onClick={()=>router.back()}/>:" "}</div>
        <h2>{location!=='/product'?"products":data?.name1}</h2>
        {location!=='/product'&&<span>{" "}</span>}
        {location==='/product'&&<div className='btns'>{bell?<AiFillBell onClick={()=>setbell(!bell)} style={{fill:'rgb(215, 57, 72)'}}/>:<AiOutlineBell  

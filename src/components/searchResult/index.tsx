@@ -7,6 +7,7 @@ import BreadCrumb from '../breadCrumb'
 import { MdLocationOn } from 'react-icons/md';
 import { AiOutlineDown, AiOutlineSearch } from 'react-icons/ai';
 import SelectedItem from '../selectedItem'
+import InstallApp from '../installApp'
 interface PropTypes{
   data?:any
 }
@@ -112,6 +113,7 @@ const SearchResult:FC<PropTypes> = ({data}) => {
     <span><MdLocationOn style={{fill: 'rgb(215, 57, 72)'}}/>online shopping</span>
     <span><MdLocationOn style={{fill: 'rgb(52, 104, 204)'}}/>in-person</span>
     </div>
+    <InstallApp/>
       <StCardContainer>
   {data?.listOfProducts?.slice(0,nextPage).map((res:any)=><Card data={res}/>)}
       </StCardContainer>

@@ -31,8 +31,11 @@ padding: 12px;
     justify-content: space-between;
     display: flex;
     flex-direction: column;
-    padding: 0 10px!important;
+    padding: 0!important;
 
+    b{
+            margin:12px auto 6px auto;
+        }
 }
 .card-footer{
     .shops{
@@ -40,6 +43,7 @@ padding: 12px;
     align-items:center;
         font-size: 12px;
     white-space: nowrap;
+    color:#808080;
     }
     .ant-btn{
         padding: 4px 7px !important;
@@ -69,6 +73,9 @@ h3{
 }
 .action-items{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 12px;
 }
 @media (max-width:768px){
     
@@ -82,6 +89,9 @@ h3{
         height: 100%;
         width: 100%;
     }
+    .action-items{
+        width: 42px;
+    }
     .ant-card-body{
         padding: 2px!important;
     }
@@ -90,6 +100,9 @@ h3{
     }
     .ant-card-body::after{
         content:none;
+    }
+    .city{
+        display: none;
     }
 }
 `

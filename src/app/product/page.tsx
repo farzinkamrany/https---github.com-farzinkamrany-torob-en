@@ -1,6 +1,6 @@
 
 "use client"
-import React, { useState } from 'react'
+import React, { useState,useEffect } from 'react'
 import { StAll } from './style'
 import { Anchor, Button, Image, Modal, Input, Tooltip } from 'antd'
 import { AiFillBell, AiFillHeart, AiOutlineBell,AiOutlineHeart, AiTwotoneHeart } from 'react-icons/ai';
