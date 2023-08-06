@@ -14,14 +14,14 @@ import Specs from '../../../components/specs'
 import ProductSection from '../../../components/productSection'
 import Reports from '../../../components/reports'
 import Navbar from '../../../components/navbar';
-import { Datas } from '../../../helpers/datas';
+import { Datas } from '../../../helpers/Datas';
 import dynamic from 'next/dynamic';
 import CityChanger from '@/components/cityChanger';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import MobileApp from '@/components/mobileApp';
 const ProductTitle=dynamic(()=>import('../../../components/productHeader'),{ssr:false})
-const Product = ({res}:any) => {
+export default function Product({res}:any){
   const [reportModal, setreportModal] = useState(false)
   const [heart, setheart] = useState(false)
   const [showSlider, setshowSlider] = useState(false)
@@ -157,10 +157,9 @@ const Product = ({res}:any) => {
 
 }
 
-export default Product
-// export async function getServerSideProps() {
-//   // Fetch data from external API
-//   const res = Datas
-//   // Pass data to the page via props
-//   return { props: { res } }
-// }
+export async function getServerSideProps() {
+  // Fetch data from external API
+  const res = Datas
+  // Pass data to the page via props
+  return { props: { res } }
+}

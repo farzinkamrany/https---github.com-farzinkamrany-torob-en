@@ -13,7 +13,7 @@ const Card:FC<PropTypes> = ({
   const [bell, setbell] = useState(false)
   return (
      <StAll>
-       <Link href="/product" about='_blank'>
+       <Link href={"/product/"+data.name1} about='_blank'>
         <StCard
     hoverable
     // onClick={()=>window.open('/product')}

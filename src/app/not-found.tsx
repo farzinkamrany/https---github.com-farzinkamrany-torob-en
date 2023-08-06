@@ -4,8 +4,9 @@ import dynamic from 'next/dynamic'
 import Sidebar from '@/components/sidebar'
 import { Image, Row } from 'antd'
 import FullFooter from '@/components/fullFooter'
-const HomeNavbar = dynamic(() => import('../components/home/homeNavbar'), { ssr: false })
-const SearchNavbar = dynamic(() => import('../components/searchNavbar'), { ssr: false })
+import Navbar from '@/components/navbar'
+// const HomeNavbar = dynamic(() => import('../components/home/homeNavbar'), { ssr: false })
+// const SearchNavbar = dynamic(() => import('../components/searchNavbar'), { ssr: false })
 
 const NotFound = () => {
   useEffect(() => {
@@ -14,9 +15,7 @@ const NotFound = () => {
   
   return (
     <div>
-    <SearchNavbar/>
-    <br />
-    <HomeNavbar />
+    <Navbar />
     <Row justify='center'>
       
    <Row  justify='center'>

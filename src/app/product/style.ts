@@ -340,6 +340,7 @@ height: 52px;
 }
 .specs{
     display: grid;
+    grid-area: 2 / 2 / 2 / 3;
 @media (max-width:768px) {
     display: grid;
     grid-area: 6 / 1 / 7 / 2;
