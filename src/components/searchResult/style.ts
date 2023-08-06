@@ -217,14 +217,24 @@ li{
 }
 @media(max-width:768px){
     display: flex;
+    background: #fff;
     .tags,.dropdownFilter{
 
         padding: 12px;
+    }
+    .tags{
+        background: #f2f3f5;
+    }
+    .ant-input,.ant-input-search-button{
+        margin-top:20px;
+        height: 40px;
+        background: #f5f7fa;
     }
     .dropdownFilter{
         width:100%;
         overflow-x:scroll;
         .ant-btn{
+            box-shadow:none;
             /* width:40%; */
         }
         button li{
