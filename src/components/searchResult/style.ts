@@ -61,6 +61,7 @@ justify-content:space-between;
 @media (max-width:768px){
     .ant-col{
         padding:0;
+        padding-bottom: 10%;
     }
 .shopper .ant-btn{
     display: none;
@@ -231,8 +232,8 @@ li{
     .ant-input-group-wrapper{
         width:85%;
     }
-    .ant-input,.ant-input-search-button{
-        margin-top:20px;
+    .ant-input,.ant-input-search-button,.ant-input-group-addon{
+        /* margin-top:20px; */
         height: 40px;
         background: #f5f7fa;
         border:none;

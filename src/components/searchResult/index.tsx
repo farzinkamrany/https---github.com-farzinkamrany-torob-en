@@ -87,8 +87,11 @@ const SearchResult:FC<PropTypes> = ({data}) => {
   </Dropdown>
   </StHeader>
   <StMobileHeader>
+    <Row style={{marginTop:30,width:'100%'}} justify="center">
+      
     <Input.Search placeholder='search item to find' />
     <br />
+    </Row>
   <div className='dropdownFilter'>
         <Button onClick={(e)=>onClick(1,'ordering')}>
           <li>ordering <AiOutlineDown/></li></Button>
