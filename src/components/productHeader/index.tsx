@@ -7,7 +7,7 @@ interface PropTypes{
   data?:any
 }
 const ProductTitle:FC<PropTypes> = ({data}) => {
-  const location=(typeof window!=='undefined') ?window.location.pathname:""
+  const location=window.location.pathname
   const [heart, setheart] = useState(false)
   const [bell, setbell] = useState(false)
   const router=useRouter()

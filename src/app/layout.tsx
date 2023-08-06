@@ -1,5 +1,6 @@
 "use client"
 import SubMenu from '@/components/subMenu'
+// const SubMenu = dynamic(() => import('@/components/subMenu'), { ssr: false })
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'

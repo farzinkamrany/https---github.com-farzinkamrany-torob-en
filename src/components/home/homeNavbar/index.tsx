@@ -19,11 +19,11 @@ const HomeNavbar = () => {
   const [showList, setshowList] = useState(false)
   const [openedItem, setopenedItem] = useState<string>('')
   const smallScreen=useScreenSizeChecker()
-  const [userId, setuserId] = useState<any>()
-  useEffect(() => {
-    if(typeof window !== 'undefined')
-      setuserId(localStorage.getItem('phone number'))
-  }, [])
+  const [userId, setuserId] = useState<any>(localStorage.getItem('phone number'))
+  // useEffect(() => {
+  //   if(typeof window !== 'undefined')
+  //     setuserId(localStorage.getItem('phone number'))
+  // }, [])
   
   
   const onClick = ( e:any ) => {

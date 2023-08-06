@@ -14,7 +14,7 @@ import { Datas } from '@/helpers/datas';
 import Head from 'next/head'
 import dynamic from 'next/dynamic'
 // import '../app/style.css'
-const HomeNavbar=dynamic(()=>import('@/components/homeSearchBox'),{ssr:false})
+// const HomeNavbar=dynamic(()=>import('@/components/homeSearchBox'),{ssr:false})
 
 export default function Home() {
   useEffect(() => {
