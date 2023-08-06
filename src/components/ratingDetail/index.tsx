@@ -15,7 +15,7 @@ const RatingDetail:FC<PropTypes> = ({res}) => {
                           <span  style={{
                              whiteSpace: "nowrap",
                              fontSize: '14px',
-                             padding:' 8px'}}>
+                             padding:' 5px'}}>
                               <p onClick={()=>setshowInfo(!showInfo)} style={{background:res?.score_info?.score_background_color}}>
                                 {!showInfo?<span>{res?.score_info?.score_text}<IoIosArrowDown/></span>:<IoIosArrowUp/>}
                                 </p>

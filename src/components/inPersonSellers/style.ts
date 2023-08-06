@@ -42,7 +42,7 @@ export const StAll=styled.div`
         .card-location{
             display: flex;
             flex-direction: column;
-            width: 80px;
+            width: 100px;
             b{
                 white-space: nowrap;
                 font-size: 16px;
@@ -59,9 +59,9 @@ export const StAll=styled.div`
         .delivery{
             display: flex;
             flex-direction: column;
-            margin-left: 11%;
+            margin-right: 0%;
     @media (max-width:768px){
-            margin-left: 2%;
+            margin-left: 0%;
             width: 100%;
     }
         }
@@ -311,6 +311,15 @@ export const StAll=styled.div`
             display:block;
 
         }
+        .list-of-cards{
+             .card{
+            padding: 10px;
+            .info-container{
+                span{
+                    /* padding: 8px 2px; */
+                }
+            }
+        }}
         .garranty{
             width:100%;
             .info{

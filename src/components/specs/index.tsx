@@ -30,8 +30,9 @@ const Specs:FC<PropTypes> = ({data}) => {
             show all
         </Button>
         <Drawer 
-        footer={()=>{}}
-        open={showAll} onCancel={()=>setshowAll(false)}
+        footer={<>
+        </>}
+        open={showAll} onClose={()=>setshowAll(false)}
         title="Product Specifications"
         >
 

@@ -363,6 +363,7 @@ height: 52px;
     background:transparent;
     .cards{
         background: #f2f3f5;
+        margin: 5% 0%;
     }
         .title{
         margin: 0;

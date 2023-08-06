@@ -10,6 +10,7 @@ export const StAll=styled.div`
     height: 100%;
     padding: 24px;
     margin-bottom: 70px;
+    
     line{
         display:none;
     }
@@ -26,6 +27,18 @@ export const StAll=styled.div`
     }
     
     @media(max-width:768px){
+        
+    margin-bottom: 20px;
+    .chart-container{
+        padding: 15%;
+    }
+        h2{
+            width: 100%;
+    font-size: 16px;
+    background: #f2f3f5;
+    padding: 5%;
+    text-align: left;
+        }
         .recharts-default-legend{
             width:80px;
             display:flex;

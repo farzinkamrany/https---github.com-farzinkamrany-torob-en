@@ -8,7 +8,7 @@ display: flex;
     flex-direction: column;
     justify-content: space-between;
 background-color: #fff;
-padding: 8px;
+/* padding: 8px; */
 border-radius:4px;
 height: 100%;
 /* height: 260px; */
@@ -62,11 +62,22 @@ height: 100%;
         width: 95%;
     margin: auto;
         overflow: auto;
+        h2{
+            
+        font-size: 16px;
+        text-align: left;
+        background: #f2f3f5;
+        padding: 3% 5%;
+        }
+        .specs{
+            padding: 0 10px;
+        }
 .ant-btn{
     display: flex;
 }
 .detailed{
     height: 160px;
+    margin:0;
 }
         .mobile{
             display: flex;

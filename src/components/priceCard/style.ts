@@ -65,7 +65,7 @@ flex-direction:column;
         .card-location{
             display: flex;
             flex-direction: column;
-            width: 80px;
+            width: 120px;
             b{
                 white-space: nowrap;
                 font-size: 16px;
@@ -82,7 +82,7 @@ flex-direction:column;
         .delivery{
             display: flex;
             flex-direction: column;
-            margin-left: 11%;
+            margin-right: 0%;
     a{
         color:#000;
         line-height: 24px;
@@ -279,11 +279,11 @@ flex-direction:column;
     .pcBtn{
         display:none !important;
     }
-   .list-of-cards .card {
+   .list-of-cards .card{
+    padding:10px;
     .div{
         width: 100%;
     }
-    padding:3px 12px;
     .delivery{
         .garranty{
             
