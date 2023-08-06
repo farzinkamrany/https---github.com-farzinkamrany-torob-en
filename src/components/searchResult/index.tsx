@@ -11,7 +11,6 @@ interface PropTypes{
   data?:any
 }
 const SearchResult:FC<PropTypes> = ({data}) => {
-  console.log(data)
   const [nextPage, setnextPage] = useState<number>(7)
   const [openDrawer, setopenDrawer] = useState(false)
   const [filterType, setfilterType] = useState(1)
@@ -98,19 +97,10 @@ const SearchResult:FC<PropTypes> = ({data}) => {
   </div>
     <div className='tags'>
     <h3>More Detailed classifications</h3>
-    <Button><Tag/></Button>
-  <Button><Tag/></Button>
-  <Button><Tag/></Button>
-  
-  <Button><Tag/></Button>
-  <Button><Tag/></Button>
-  <Button><Tag/></Button>
+    {data?.specs?.map((res:any)=><Button><>{res?.title}</></Button>)}
   </div>
   
-  <div className='mobileShoppers'>  
-    <Button><MdLocationOn/>online shopping</Button>
-    <Button><MdLocationOn/>in-person</Button>
-  </div>
+  
   </StMobileHeader>
   <h2>List Of Products</h2>
     <div className="shopper">

@@ -15,12 +15,12 @@ interface PropTypes{
 }
 const HomeSearchBox:FC<PropTypes> = ({data}) => {
   const options=[
-    {label:'x',value:''},
-    {label:'x',value:''},
-    {label:'x',value:''},
-    {label:'x',value:''},
-    {label:'x',value:''},
-    {label:'x',value:''},
+    {label:'x',value:'1'},
+    {label:'x',value:'2'},
+    {label:'x',value:'3'},
+    {label:'x',value:'4'},
+    {label:'x',value:'5'},
+    {label:'x',value:'6'},
   ]
   const router=useRouter()
   return (
@@ -33,7 +33,7 @@ const HomeSearchBox:FC<PropTypes> = ({data}) => {
     <div className="imgMobile">
     <img src="https://torob.com/static/images/torob_logo.svg" alt="" />
     </div>
-      <Select style={{padding:4}} showSearch placeholder='Enter the product name' options={options} onSelect={()=>{router.push('/browse')}}/>
+      <Select style={{padding:4,height:48}} showSearch placeholder='Enter the product name' options={options} onSelect={()=>router.push('/browse')}/>
       <p className='pcP'>Price comparison of millions of products between thousands of stores</p>
       <p className='mobileP'>Most Searched by users</p>
       <div className="mobileView"><br />

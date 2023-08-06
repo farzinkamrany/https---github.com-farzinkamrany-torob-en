@@ -29,13 +29,20 @@ width: 100%;
   position: -webkit-sticky;
 }
 .ant-select{
-    
     /* height: 48px; */
     /* margin: 2% 0; */
     width: 500px;
     /* height: 50px; */
+    margin:2% 0;
+    .ant-select-selector .ant-select-selection-search-input,.ant-select-selector{
+        height: 48px;
+    }
+    .ant-select-selection-placeholder,.ant-select-arrow{
+        margin:auto;
+    }
     .ant-select-selector{
-        /* height: 48px; */
+        
+    border: 1px solid #cccccc;
     }
 }
 .imgMobile{

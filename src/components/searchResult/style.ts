@@ -33,7 +33,12 @@ justify-content:space-between;
     span{
     margin:0 5px;
 }
-}}
+}
+@media (max-width:768px) {
+    /* margin:2% 0; */
+    display:none;
+}
+}
 .ant-dropdown-trigger{
     background-color: transparent;
     padding: 2px 5px;
