@@ -87,13 +87,15 @@ const SearchResult:FC<PropTypes> = ({data}) => {
   </Dropdown>
   </StHeader>
   <StMobileHeader>
+    {/* <br /> */}
+    {/* <Input/> */}
   <div className='dropdownFilter'>
         <Button onClick={(e)=>onClick(1,'ordering')}>
-          <li>ordering</li></Button>
+          <li>ordering <AiOutlineDown/></li></Button>
         <Button onClick={(e)=>onClick(2,'price')}>
-          <li>price</li></Button>
+          <li>price <AiOutlineDown/></li></Button>
         <Button onClick={(e)=>onClick(3,'inventory')}>
-          <li>inventory</li></Button>
+          <li>inventory <AiOutlineDown/></li></Button>
   </div>
     <div className='tags'>
     <h3>More Detailed classifications</h3>
