@@ -306,7 +306,7 @@ flex-direction:column;
     margin-top: 4px;
             }
             span{
-                padding: 5px 8px;
+                padding: 1px 8px;
             }
             .report{
                 /* height: auto; */

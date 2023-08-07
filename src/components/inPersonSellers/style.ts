@@ -338,6 +338,7 @@ export const StAll=styled.div`
             }
             span{
                 justify-content: space-between;
+                align-items: center;
             }
         }
     }
