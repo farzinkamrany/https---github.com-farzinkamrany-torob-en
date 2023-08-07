@@ -70,6 +70,7 @@ export const StAll=styled.div`
                 .info{
 
                     display: flex;
+                    flex-direction: column;
                         :hover{
                             background: initial;
                         }
@@ -329,6 +330,9 @@ export const StAll=styled.div`
             width:100%;
             .info{
                 width:100%;
+            }
+            span{
+                justify-content: space-between;
             }
         }
                .all-sellers .pcBtn{

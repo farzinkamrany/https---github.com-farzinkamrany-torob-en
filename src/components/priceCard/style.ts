@@ -92,6 +92,7 @@ flex-direction:column;
             .garranty{
                 .info{
                     display: flex;
+                    flex-direction: column;
                         :hover{
                             background: initial;
                         }
@@ -304,6 +305,9 @@ flex-direction:column;
             }
             .report{
                 height: auto;
+            }
+            span{
+                justify-content: space-between;
             }
         }
     }

@@ -23,7 +23,7 @@ const RatingDetail:FC<PropTypes> = ({res}) => {
                              <b>report</b>
                            <BsFlag/>
                          </div></span>
-                              {showInfo&& 
+                              </div>{showInfo&& 
                              <div className="moreInfo">
                               <div></div>
                               <div>About 3000 to 4000 orders in the last 90 days of activity in Tarb</div>
@@ -32,7 +32,7 @@ const RatingDetail:FC<PropTypes> = ({res}) => {
                               <Button>How to evaluate the store</Button>
                               <Button>Store profile</Button>
                               </div>
-                             </div>  }</div>
+                             </div>  }
                              
                             
                          </StAll>

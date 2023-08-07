@@ -13,7 +13,7 @@ width:100%;
         
         span{
         width: 100%;
-    justify-content: space-between;
+    justify-content: flex-start;
     }
     }
     @media (max-width:768px) {
