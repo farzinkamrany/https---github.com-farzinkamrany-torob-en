@@ -8,14 +8,14 @@ interface PropTypes{
 }
 const CityChanger:FC<PropTypes> = ({data}) => {
     const [district, setdistrict] = useState(false)
-    const [tags, settags] = useState([])
+    const [selectedCity, setselectedCity] = useState<any>()
     const [selectCity, setselectCity] = useState(false)
     
   return (
     <StAll>
         <div style={{display:'flex',flexDirection: 'row',border:'1px solid #f2f3f5',padding:0 }} className="card">
                 <TiLocation style={{padding: '5px',
-    borderRadius: '12px 0 0 12px',height: '100%',borderRight:'none'}}/>
+    borderRadius: '12px 0 0 12px',height: '100%',borderRight:'none',fontSize: 32}}/>
                 <div style={{display:'flex',flexDirection: 'column',borderRight:'1px solid #ddd',padding: '5px',
     height: '100%',
     borderRadius: '0 0 0 0',borderLeft:'none'}}>
@@ -32,12 +32,13 @@ const CityChanger:FC<PropTypes> = ({data}) => {
               {" >"}
             </div>
             </div>
-       
+              
         <Modal 
         destroyOnClose
    footer={
     <div style={{display:'flex',width:'100%',justifyContent:'space-between'}}>
     <Button
+    onClick={()=>district&&setselectCity(false)}
     style={{color:'#fff',background:'#333',width:'70%'}}>
       confirm
     </Button>
@@ -50,7 +51,7 @@ const CityChanger:FC<PropTypes> = ({data}) => {
     </div>
    }
    open={selectCity} onCancel={()=>setselectCity(false)} title="select city">
-       <DistrictChanger data={data} />
+       <DistrictChanger data={data} district={district} setdistrict={setdistrict} />
    </Modal>
     </StAll>
   )
