@@ -18,7 +18,7 @@ a{
 .details{
     display: grid;
     max-width: 1280px;
-    margin: 2% auto;
+    margin: 4% auto;
     /* grid-template-columns: 840px 416px; */
     gap: 24px;
 
@@ -32,7 +32,7 @@ a{
 .bread-crumb{
     display: grid;
     grid-area: 1 / 1 / 2 / 2;
-        margin-top:2%;
+        margin-top:-4%;
     @media (max-width:768px){
     }
 }

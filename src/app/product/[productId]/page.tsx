@@ -13,13 +13,13 @@ import ChartContainer from '../../../components/chartContainer'
 import Specs from '../../../components/specs'
 import ProductSection from '../../../components/productSection'
 import Reports from '../../../components/reports'
-import Navbar from '../../../components/navbar';
-import { Datas } from '../../../helpers/Datas';
+import Navbar from '../../../components/navbar'
 import dynamic from 'next/dynamic';
 import CityChanger from '@/components/cityChanger';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import MobileApp from '@/components/mobileApp';
+import { Datas } from '@/helpers/datas';
 const ProductTitle=dynamic(()=>import('../../../components/productHeader'),{ssr:false})
 export default function Product({res}:any){
   const [reportModal, setreportModal] = useState(false)
@@ -41,12 +41,12 @@ export default function Product({res}:any){
   return (
   <StAll>
     <Navbar/>
+<ProductTitle data={Datas?.results}/>
+      <div className="details">
         <div className='bread-crumb'>
           <BreadCrumb/>
           
   </div>
-<ProductTitle data={Datas?.results}/>
-      <div className="details">
         <div className='product-overview'>
       <Image src={Datas?.results?.image_url}alt="" preview={false} onClick={()=>openSlider([])} />
       <div className="price-details">

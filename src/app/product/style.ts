@@ -21,7 +21,7 @@ a{
 .details{
     display: grid;
     max-width: 1280px;
-    margin: 2% auto;
+    margin: 5% auto;
     /* grid-template-columns: 840px 416px; */
     gap: 24px;
 
@@ -37,7 +37,7 @@ a{
     grid-area: 1 / 1 / 2 / 2;
     position: relative;
     right: 37%;
-        margin-top:2%;
+        margin-bottom:5%;
     @media (max-width:768px){
     }
 }
