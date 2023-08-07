@@ -132,12 +132,12 @@ text-align: center;
         border-radius: 14px;
         border: none;
         height: 28px;
-        margin-left: 8px;
+        font-size:12px;
+        /* margin-left: 8px; */
         svg{
             margin-inline-end: 5px;
         }
     }
-    
 }
 .price-help{
     b{

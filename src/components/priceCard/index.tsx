@@ -122,6 +122,7 @@ const PriceCard :FC<PropTypes> = ({data}) => {
              </div>
              </div>
              <div className='shopping'>
+                {res?.isAds&&<span>آگهی</span>}
                  <a href="">
                  <b>{res?.price_string}</b>
                  

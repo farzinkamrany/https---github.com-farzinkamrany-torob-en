@@ -158,8 +158,6 @@ export default function Product({res}:any){
 }
 
 export async function getServerSideProps() {
-  // Fetch data from external API
   const res = Datas
-  // Pass data to the page via props
   return { props: { res } }
 }

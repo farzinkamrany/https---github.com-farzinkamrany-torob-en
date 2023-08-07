@@ -112,7 +112,7 @@ export const StAll=styled.div`
     .report{
         background: #f2f3f5;
         color: #fff;
-        padding: 2px 10px;
+        padding: 2px 6px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -122,6 +122,8 @@ export const StAll=styled.div`
     height: 28px;
     color: #000;
     margin-left: 8px;
+    justify-content: space-between;
+    width: 77px;
     svg{
         margin-left:5px;
     }
@@ -325,9 +327,12 @@ export const StAll=styled.div`
             font-weight: normal;
         }
             }
-        }}
+        
         .garranty{
             width:100%;
+            .report{
+                padding:2px;
+            }
             .info{
                 width:100%;
             }
@@ -335,6 +340,8 @@ export const StAll=styled.div`
                 justify-content: space-between;
             }
         }
+    }
+}
                .all-sellers .pcBtn{
                     display:none;
                 }

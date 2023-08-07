@@ -13,7 +13,7 @@ flex-direction:column;
 }
 .all-sellers{
     
-.pcBtn{
+.mobileBtn{
     display:none;
 }
 }
@@ -84,9 +84,11 @@ flex-direction:column;
             flex-direction: column;
             margin-right: 0%;
     a{
-        color:#000;
         line-height: 24px;
     margin-top: 1%;
+    }
+    p:hover{
+        color: #00528c;
     }
         }
             .garranty{
@@ -134,7 +136,7 @@ flex-direction:column;
     .report{
         background: #f2f3f5;
         color: #fff;
-        padding: 2px 10px;
+        padding: 2px 6px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -144,6 +146,9 @@ flex-direction:column;
     height: 28px;
     color: #000;
     margin-left: 8px;
+    display: flex;
+    justify-content: space-between;
+    width: 77px;
     svg{
         margin-left:5px;
     }
@@ -304,7 +309,8 @@ flex-direction:column;
                 padding: 5px 8px;
             }
             .report{
-                height: auto;
+                /* height: auto; */
+                padding:2px;
             }
             span{
                 justify-content: space-between;

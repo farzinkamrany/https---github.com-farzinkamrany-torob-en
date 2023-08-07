@@ -9,10 +9,13 @@ width:100%;
             background-color: transparent;
         }
     }
+    .report span{
+        padding:1px;
+    }
     .info-container{ 
         
         span{
-        width: 100%;
+        /* width: 100%; */
     justify-content: flex-start;
     }
     }
