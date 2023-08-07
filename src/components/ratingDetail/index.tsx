@@ -20,7 +20,7 @@ const RatingDetail:FC<PropTypes> = ({res}) => {
                                 {!showInfo?<span>{res?.score_info?.score_text}<IoIosArrowDown/></span>:<IoIosArrowUp/>}
                                 </p>
                          <div className='report'>
-                             <b>report</b>
+                             <span>report</span>
                            <BsFlag/>
                          </div></span>
                               </div>{showInfo&& 

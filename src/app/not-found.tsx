@@ -21,7 +21,6 @@ const NotFound = () => {
       
    <Row  justify='center'>
     <img style={smallScreen?{width:200,height:200}:{width:600,height:600}} src="https://torob.com/static/images/error_404.jpg"/>
-
    </Row>
     </Row>
     <FullFooter/>
