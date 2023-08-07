@@ -25,7 +25,6 @@ const ChartContainer:FC<PropTypes> = ({chart}) => {
     average_price:res?.pv,
     low_price:res?.uv,
   }))
-  console.log(minimum)
   
   return (
     <StAll>

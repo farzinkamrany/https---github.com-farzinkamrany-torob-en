@@ -175,6 +175,9 @@ p{
 }
 .seller{
     margin-top: 16px;
+        :hover{
+            background: #d73948;
+        }
     .red{
         /* width: 80%; */
         display: flex;

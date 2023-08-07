@@ -8,7 +8,6 @@ interface PropTypes{
     data?:any
   }
 const Feeds :FC<PropTypes>= ({data}) => {
-  console.log(data)
   const type0=data?.filter((res:any)=>res?.type===0)
   const type1=data?.filter((res:any)=>res?.type===1)
   const type2=data?.filter((res:any)=>res?.type===2)

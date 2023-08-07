@@ -69,6 +69,8 @@ text-align: center;
 .price-details{
     h1{
         font-size: 16px;
+        height: 56px;
+    margin: 30px 0 5px 0;
         
 @media (max-width:768px) {
     margin:5px 0;
@@ -173,6 +175,9 @@ p{
 }
 .seller{
     margin-top: 16px;
+        :hover{
+            background: #d73948 !important;
+        }
     .red{
         /* width: 80%; */
         display: flex;

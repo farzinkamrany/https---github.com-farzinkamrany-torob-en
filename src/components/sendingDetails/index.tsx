@@ -8,7 +8,6 @@ interface PropTypes{
   data?:any
   }
 const SendingDetails:FC<PropTypes> = ({data}) => {
-  console.log(data)
   const [showSendDetails, setshowSendDetails] = useState(false)
   return (
     <StAll>
