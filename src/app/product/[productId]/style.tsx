@@ -366,7 +366,7 @@ height: 52px;
    .sellers{
         padding: 0;
         margin: 2px auto;
-    width: 95%;
+    width: 98%;
     background:transparent;
     .cards{
         background: #f2f3f5;
