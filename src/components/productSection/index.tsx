@@ -23,7 +23,7 @@ const ProductSection:FC<PropTypes> = ({ProCons}) => {
                 {ProCons?.pros_title}
             </span>
             <ul>
-                {ProCons?.pros?.map((res:any)=><li>
+                {ProCons?.pros?.map((res:any,index:any)=><li key={index}>
                <span>
                 *
                </span>
@@ -36,7 +36,7 @@ const ProductSection:FC<PropTypes> = ({ProCons}) => {
             {ProCons?.cons_title}
             </span>
             <ul>
-            {ProCons?.cons?.map((res:any)=><li>
+            {ProCons?.cons?.map((res:any,index:any)=><li key={index}>
               <span>
                 *
                </span><p>{res}</p></li>

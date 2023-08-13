@@ -14,8 +14,8 @@ const Specs:FC<PropTypes> = ({data}) => {
     <StAll>
         <div className="detailed">
       <h2>Product Specifications</h2>
-        {data?.map((res:any)=>
-        <div className="specs">
+        {data?.map((res:any,index:any)=>
+        <div key={index} className="specs">
             <div className="row-specs">
             <b>{res?.title}</b>
             <p>{res?.desc}</p>
@@ -37,8 +37,8 @@ const Specs:FC<PropTypes> = ({data}) => {
         >
 
         <div className="detailed">
-        {data?.map((res:any)=>
-        <div className="specs">
+        {data?.map((res:any,index:any)=>
+        <div key={index} className="specs">
             <div className="row-specs">
             <b>{res?.title}</b>
             <p>{res?.desc}</p>

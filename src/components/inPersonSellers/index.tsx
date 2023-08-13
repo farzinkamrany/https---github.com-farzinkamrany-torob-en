@@ -14,8 +14,8 @@ const InPersonSellers:FC<PropTypes> = ({data}) => {
     const [mobileShow, setmobileShow] = useState(false)
   return (
     <StAll>
-   {data?.sellers?.inPerson?.map((res:any)=>
-   <div className="list-of-cards">
+   {data?.sellers?.inPerson?.map((res:any,index:any)=>
+   <div key={index} className="list-of-cards">
         <div className="card">
            <div className="detailss">
            <div className="div"><div className='card-location'>
@@ -67,8 +67,8 @@ const InPersonSellers:FC<PropTypes> = ({data}) => {
             style={{padding:0}}
             open={mobileShow} onClose={()=>setmobileShow(false)}>
            <StAll>
-           {data?.sellers?.inPerson?.map((res:any)=>
-         <div className="list-of-cards">
+           {data?.sellers?.inPerson?.map((res:any,index:any)=>
+         <div key={index} className="list-of-cards">
          <div className="card">
              <div className="div"><div className='card-location'>
                  <b>{res?.shop_name}</b>

@@ -10,7 +10,7 @@ const MobileTags:FC<PropTypes> = ({data}) => {
     <StAll>
 
       <br />
-      {data?.map((res:any)=><Tag color="purple">{res?.query}</Tag>)}
+      {data?.map((res:any,index:any)=><Tag key={index} color="purple">{res?.query}</Tag>)}
     </StAll>
   )
 }

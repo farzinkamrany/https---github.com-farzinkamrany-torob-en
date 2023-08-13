@@ -36,8 +36,8 @@ const HomeNavbar = () => {
       
       <Row>
       <ListOfMenu>
-      {Datas?.dropMenu?.map((res:any)=>
-      <Col><Button onClick={(e:any)=>onClick(e)}>
+      {Datas?.dropMenu?.map((res:any,index:any)=>
+      <Col key={index}><Button onClick={(e:any)=>onClick(e)}>
       <li value={res?.value}>{res?.title}</li>
     </Button></Col>
       )}

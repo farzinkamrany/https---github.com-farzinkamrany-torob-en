@@ -8,7 +8,7 @@ interface PropTypes{
 const Tiles:FC<PropTypes>= ({data}) => {
   return (
     <StAll>
-        {data?.data?.map((res:any)=><div><img src={res?.image_url}/></div>)}
+        {data?.data?.map((res:any,index:any)=><div key={index}><img src={res?.image_url} alt="img"/></div>)}
     </StAll>
   )
 }

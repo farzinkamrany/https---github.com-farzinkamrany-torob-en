@@ -18,14 +18,15 @@ const DetailsDrawer:FC<PropTypes> = ({
   return (
     
     <>
-    {items?.map((res:any)=>
+    {items?.map((res:any,index:any)=>
     <> 
     <Drawer
+    key={index}
      width={1000}
     title={title?title:'products'}
     bodyStyle={{padding:5}}
     open={openDetails} onClose={()=>setopenDetails(false)}>
-        {items?.map((res:any,index:any)=><><MenuList data={res}/></>)}
+        {items?.map((res:any,index:any)=><><MenuList key={index} data={res}/></>)}
   </Drawer>
     <MenuList data={res}/>
     </>)}

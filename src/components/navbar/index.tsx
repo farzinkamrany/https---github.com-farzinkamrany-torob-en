@@ -29,7 +29,7 @@ const Navbar = () => {
       <SearchNavbar/>
       <ListOfMenu>
         
-        {Datas?.dropMenu?.map((res:any)=><Button onClick={(e:any)=>onClick(e)}>
+        {Datas?.dropMenu?.map((res:any,index:any)=><Button key={index} onClick={(e:any)=>onClick(e)}>
           <li value={res?.value}>{res?.title}</li>
         </Button>)}
       </ListOfMenu>

@@ -19,7 +19,7 @@ const Slider :FC<PropTypes> = ({data})=> {
       </div>
       <br />
       <div className="body">
-        {data?.base_products?.map((res:any)=><Card data={res}/>)}
+        {data?.base_products?.map((res:any,index:any)=><Card key={index} data={res}/>)}
       </div>
     </StAll>
   )

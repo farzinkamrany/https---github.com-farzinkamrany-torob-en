@@ -104,7 +104,7 @@ const SearchResult:FC<PropTypes> = ({data}) => {
   </div>
     <div className='tags'>
     <h3>More Detailed classifications</h3>
-    {data?.specs?.map((res:any)=><Button><>{res?.title}</></Button>)}
+    {data?.specs?.map((res:any,index:any)=><Button key={index}><>{res?.title}</></Button>)}
   </div>
   
   
@@ -116,7 +116,7 @@ const SearchResult:FC<PropTypes> = ({data}) => {
     </div>
       <MobileApp/>
       <StCardContainer>
-  {data?.listOfProducts?.slice(0,nextPage).map((res:any)=><Card data={res}/>)}
+  {data?.listOfProducts?.slice(0,nextPage).map((res:any,index:any)=><Card key={index} data={res}/>)}
       </StCardContainer>
       
       </Col>

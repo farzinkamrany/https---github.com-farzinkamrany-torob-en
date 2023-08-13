@@ -33,7 +33,7 @@ const DistrictChanger:FC<PropTypes> = ({data,district,setdistrict}) => {
      {district&&
      <Radio.Group >
          <div onClick={()=>setdistrict(false)}><AiOutlineArrowLeft /></div>
-     {data.districts?.map((res:any)=><div className="districts" key={res?.id}>
+     {data.districts?.map((res:any,index:any)=><div className="districts" key={res?.id}>
          <Radio onClick={()=>settags(res)} value={res?.id}>{res?.name}</Radio>
      </div>)}
      </Radio.Group>}

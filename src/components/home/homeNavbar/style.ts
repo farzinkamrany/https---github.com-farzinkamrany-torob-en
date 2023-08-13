@@ -10,6 +10,7 @@ export const StAll=styled.div`
     width: 100%;
     position: fixed;
     top:0;
+z-index: 10000;
     left: 0;
     justify-content: space-between;
     align-items: center;

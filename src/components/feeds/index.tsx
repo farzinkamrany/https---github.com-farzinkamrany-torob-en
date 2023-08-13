@@ -14,10 +14,10 @@ const Feeds :FC<PropTypes>= ({data}) => {
   const type4=data?.filter((res:any)=>res?.type===4)
   return (
    <>
-  {data?.map((response:any)=>response?.type===4? <TwoRow data={response?.data}/>:
-   (response?.type===0)?<Slider data={response}/>:
-   (response?.type===2)? <Tiles data={response}/>:
-   (response?.type===1)? <TwoRow data={response?.data}/>:'')}
+  {data?.map((response:any,index:any)=>response?.type===4? <TwoRow key={index} data={response?.data}/>:
+   (response?.type===0)?<Slider key={index} data={response}/>:
+   (response?.type===2)? <Tiles key={index} data={response}/>:
+   (response?.type===1)? <TwoRow key={index} data={response?.data}/>:'')}
     </>
   )
 }

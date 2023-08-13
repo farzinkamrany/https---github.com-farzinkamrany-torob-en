@@ -20,18 +20,18 @@ const TwoRow:FC<PropTypes> = ({data})=> {
     </StAll>
     : data?.length===1?<StAll>
             <div className='oneRow'>
-            {data?.map((res:any)=><img src={res?.image_url} alt="qwe" />)}
+            {data?.map((res:any,index:any)=><img key={index} src={res?.image_url} alt="qwe" />)}
        </div>
      </StAll>:
       data?.length===3?
      <StAll>
             <div className='threeBase'>
-            {data?.map((res:any)=><img src={res?.image_url} alt=""  />)}
+            {data?.map((res:any,index:any)=><img key={index} src={res?.image_url} alt=""  />)}
        </div>
        </StAll>
        :<StAll>
             <div className='fourRow'>
-            {data?.map((res:any)=><img src={res?.image_url} alt="" />)}
+            {data?.map((res:any,index:any)=><img key={index} src={res?.image_url} alt="" />)}
        </div>
        </StAll>
   )
