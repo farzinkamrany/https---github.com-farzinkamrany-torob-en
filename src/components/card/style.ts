@@ -7,7 +7,7 @@ display: flex;
 margin: 1% 0;
 @media (max-width:768px){
     margin: 1% 1% 1% 0;
-    width: 46%;
+    /* width: 46%; */
 }
 .ant-card-img{
     position: absolute;
