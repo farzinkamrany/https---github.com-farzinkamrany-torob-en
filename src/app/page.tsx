@@ -16,7 +16,7 @@ import dynamic from 'next/dynamic'
 // import '../app/style.css'
 // const HomeNavbar=dynamic(()=>import('@/components/homeSearchBox'),{ssr:false})
 
-export default function Home() {
+export default function App() {
   useEffect(() => {
     document.title="Torob "
   }, [])

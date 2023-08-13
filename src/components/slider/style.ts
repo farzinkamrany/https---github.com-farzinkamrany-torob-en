@@ -19,6 +19,9 @@ width: 100%;
     justify-content: space-between;
     overflow-x: scroll;
     overflow-y: hidden;
+    .ant-card{
+        width: auto;
+    }
 a{
     margin-right: 4%;
 }

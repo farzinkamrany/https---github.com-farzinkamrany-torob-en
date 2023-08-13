@@ -114,8 +114,8 @@ const SearchResult:FC<PropTypes> = ({data}) => {
     <span><MdLocationOn style={{fill: 'rgb(215, 57, 72)'}}/>online shopping</span>
     <span><MdLocationOn style={{fill: 'rgb(52, 104, 204)'}}/>in-person</span>
     </div>
-      <StCardContainer>
       <MobileApp/>
+      <StCardContainer>
   {data?.listOfProducts?.slice(0,nextPage).map((res:any)=><Card data={res}/>)}
       </StCardContainer>
       

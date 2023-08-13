@@ -148,6 +148,9 @@ margin: 2px;
     }
 }
 @media (max-width:425px) {
+    display: grid;
+    gap: 8px;
+    grid-template-columns: minmax(0,1fr)minmax(0,1fr);
     .ant-card{
         /* width: 46%; */
     }
