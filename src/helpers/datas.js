@@ -1,6 +1,7 @@
 import React from 'react'
 
 export const Datas = {
+    
     results: {
         "image_url": "https://storage5.torob.com/backend-api/base/images/lf/GC/lfGCrw9z3nc0Pckf.jpg",
         "discount_info": [],
