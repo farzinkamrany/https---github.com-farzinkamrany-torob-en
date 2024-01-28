@@ -25,7 +25,7 @@ const Browse:FC<PropTypes> = ({data}) => {
 
 export default Browse
 
-export async function getServerSideProps() {
-  const data = Datas
-  return { props: { data } }
-}
+// export async function getServerSideProps() {
+//   const data = Datas
+//   return { props: { data } }
+// }

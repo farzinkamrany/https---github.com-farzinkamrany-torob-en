@@ -157,7 +157,7 @@ export default function Product({res}:any){
 
 }
 
-export async function getServerSideProps() {
-  const res = Datas
-  return { props: { res } }
-}
+// export async function getServerSideProps() {
+//   const res = Datas
+//   return { props: { res } }
+// }

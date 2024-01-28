@@ -1,10 +1,7 @@
 
 import { Drawer } from 'antd'
 import React,{FC} from 'react'
-import { StRow } from '../../style'
 import MenuList from '../../../../components/menuList'
-import {Datas} from '../../../../helpers/datas'
-import { useState } from 'react';
 
 interface PropTypes{
     setopenDetails?:any
